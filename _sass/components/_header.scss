@@ -3,15 +3,16 @@
    ========================================================================== */
 
 .c-header {
-  padding-top: 14.1rem; // 75px
+  padding-top: 8.1rem; // 75px
   padding-bottom: 7.5rem; // 75px
   padding-right: 2.5rem;
   padding-left: 2.5rem;
-  background: $t-theme;
+  background: $c__white;
 }
 
 .c-header__title {
   position: relative;
+  float: left;
   @include ff--mono(500);
   @include fs--title;
   color: $c__white;

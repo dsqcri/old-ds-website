@@ -1,21 +1,23 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Distributed Systems Group - QCRI
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [nostrud exercitation](http://alexcarpenter.me) ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Distributed Systems Group 
 
-## Heading Level 2
+The Distributed Systems group at QCRI is currently focusing on three research areas:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. __Next Generation Cloud Infrastructures__: Develop algorithms for managing clouds with asymmetric cores, processor accelerators, and GPUs. Design power management methods for clouds with heterogeneous processing elements. Design algorithms to integrate and utilize solid state storage (flash) with traditional storage systems to maximize performance for data-intensive applications. Improve cloud management software to provide QoS in multi-tenant environments: guaranteed CPU shares, network bandwidth, and I/O bandwidth.
 
-{% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
-{% endhighlight %}
+  - Managing Clouds with Heterogeneous Resources
 
-### Heading Level 3
+  - Elastic Storage Systems
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+2. __Distributed Algorithms for Massive Data__: Design distributed approximation algorithms for processing large data sets with quantifiable and controllable tradeoffs between accuracy of results and time and space requirements. Apply developed algorithms on different applications from scientific computing, data analytics, and Arabic language technologies centers. Design algorithms to provide fault tolerance in cloud systems and integrate them in cloud management software. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Distributed and Approximate Big Data Analysis
+
+3. __Cloud Applications and Services__: Design large-scale cloud applications relevant to industries and businesses in the region, such as the Media industry exemplified by Aljazeera. Develop new services and applications that can be efficiently offered though cloud environments. Design tools and systems to facilitate migration of traditional software applications and IT services to cloud environments. Collaborate with other groups at QCRI to scale their applications and deploy them on clouds.
+
+  - Cloud-based Multimedia Content Distribution and Protection Platform 
+
+  - ePigeon: Reliable News Videos Upload and Dissemination Over the Cloud 
