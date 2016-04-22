@@ -4,10 +4,10 @@
     <title>Distributed Systems Group - QCRI</title>
     <description>The Distributed Systems group at QCRI is currently focusing on three research areas: (i) next generation cloud infrastructures, (ii) distributed algorithms for massive data, and (iii) cloud applications and services. 
 </description>
-    <link>http://dsqcri.github.io/</link>
-    <atom:link href="http://dsqcri.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Apr 2016 00:28:05 +0300</pubDate>
-    <lastBuildDate>Fri, 22 Apr 2016 00:28:05 +0300</lastBuildDate>
+    <link>http://ds-test.qcri.org/</link>
+    <atom:link href="http://ds-test.qcri.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Apr 2016 23:33:44 +0300</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2016 23:33:44 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 02 Dec 2015 02:52:21 +0300</pubDate>
-        <link>http://dsqcri.github.io/2015/12/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://dsqcri.github.io/2015/12/welcome-to-jekyll</guid>
+        <link>http://ds-test.qcri.org/2015/12/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://ds-test.qcri.org/2015/12/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jan 2014 21:52:21 +0300</pubDate>
-        <link>http://dsqcri.github.io/2014/01/two-thousand-fourteen</link>
-        <guid isPermaLink="true">http://dsqcri.github.io/2014/01/two-thousand-fourteen</guid>
+        <link>http://ds-test.qcri.org/2014/01/two-thousand-fourteen</link>
+        <guid isPermaLink="true">http://ds-test.qcri.org/2014/01/two-thousand-fourteen</guid>
         
         
         <category>jekyll</category>
