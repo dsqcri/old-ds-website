@@ -5,9 +5,10 @@ permalink: /team/oalrawi/
 ---
 ![oalrawi](/team/oalrawi/small.png)
 
-Omar graduated with his BS in math and computer science from Purdue University. He went on to get his Master's degree in information security from [CERIAS](https://www.cerias.purdue.edu/). Omar worked for several companies before joining QCRI, including Verisign Inc., Booz Allen Hamilton, and Cisco Systems.
 
-Omar currently works on workload classification and workload placement using hardware performance counters and cache partitioning/monitoring technology.
+Omar Alrawi is a Sr. Software Engineer working on workload classification and workload placement using hardware performance counters and cache partitioning/monitoring technology.
+
+Omar graduated with his BS in math and computer science from Purdue University. He went on to get his Master's degree in information security from [CERIAS](https://www.cerias.purdue.edu/). Omar worked for several companies before joining QCRI, including Verisign Inc., Booz Allen Hamilton, and Cisco Systems.
 
 ### Publication 
 1. **Omar Alrawi\***, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/team/oalrawi/papers/malcert.pdf), in proceedings WWW 2016 Companion, 2016
