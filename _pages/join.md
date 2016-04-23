@@ -3,15 +3,7 @@ layout: page
 title: Join Us
 permalink: /join/
 ---
-## Join Us
+## Apply Online
 
-Your content
+Interested candidates should visit <a href="http://www.qcri.qa/join-us/apply-now/apply-now" target="_blank">QCRI's page</a> to apply for open positions. 
 
- > Some boxed stuff
-
-1. ordered list
-2. another item
-  * subitem, unordered
-  * subitem2
-3. another ordered item
-  1. ordered subitem

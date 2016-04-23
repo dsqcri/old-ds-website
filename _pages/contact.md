@@ -3,15 +3,18 @@ layout: page
 title: Contact Us
 permalink: /contact/
 ---
-## Contact Us
 
-Your content
-
- > Some boxed stuff
-
-1. ordered list
-2. another item
-  * subitem, unordered
-  * subitem2
-3. another ordered item
-  1. ordered subitem
+## Address
+> PO Box 5825
+>
+> Reseach and Development Center (RDC) 
+>
+> Qatar Foundation
+>
+> Education City
+>
+> Qatar
+>
+> **Phone**: +974 4454 0629
+>
+> **Fax**: +974 4454 0630
