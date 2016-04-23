@@ -3,6 +3,6 @@ layout: page
 title: Team
 permalink: /team/
 ---
-## Team page
+## Members
 
-1. [Omar Alrawi](/team/oalrawi)
+1. [Omar Alrawi, Sr. Software Engineer](/team/oalrawi)
