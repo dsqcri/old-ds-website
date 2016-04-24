@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arabesque: A System for Distributed Graph Mining
+title: "Arabesque: A System for Distributed Graph Mining"
 permalink: /projects/arabesque/
 ---
 
