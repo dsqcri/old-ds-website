@@ -20,7 +20,7 @@ permalink: /team/
 - [Ahmed Hassanien, Research Associate](/team/ahassanien)
 - [Eslam Hussein, Research Associate](/team/ehussein)
 - [Xu Ji, Research Associate](/team/xji)
-- [Anis Troudi, Research Assistant](/team/ahassanien)
+- [Anis Troudi, Research Assistant](/team/atroudi)
 - [Ahmad Mosleh, Consultant](/team/amosleh)
 - [Omar Selo, Consultant](/team/oselo)
 
