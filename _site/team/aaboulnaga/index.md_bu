@@ -39,47 +39,38 @@
   </header>
 
   <div class="c-article__main">
-    <p><img src="/team/aaboulnaga/small.png" alt="aaboulnaga" /></p>
+    ![aaboulnaga](/team/aaboulnaga/small.png)
 
-<p>About you</p>
 
-<h3 id="research-focus">Research Focus</h3>
+About you
 
-<ul>
-  <li>Research interest</li>
-</ul>
+### Research Focus
+- Research interest 
 
-<h3 id="previous-experience">Previous Experience</h3>
 
-<ul>
-  <li>Experience</li>
-</ul>
+### Previous Experience
+- Experience
 
-<h3 id="professional-experience">Professional Experience</h3>
 
-<ul>
-  <li>Experience</li>
-</ul>
+### Professional Experience
+- Experience
 
-<h3 id="patents">Patents</h3>
 
-<ul>
-  <li>Patent1</li>
-</ul>
+### Patents
+- Patent1
 
-<h3 id="education">Education</h3>
 
-<ul>
-  <li>Research interest</li>
-</ul>
+### Education
+- Research interest 
 
-<h3 id="publication">Publication</h3>
 
-<ol>
-  <li>Paper 1</li>
-  <li>Paper 2</li>
-  <li>Paper 2</li>
-</ol>
+### Publication 
+1. Paper 1
+2. Paper 2
+3. Paper 2
+
+
+
 
 
   </div>
