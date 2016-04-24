@@ -7,13 +7,13 @@ permalink: /projects/
 - [Uberun](/projects/uberun/)
   * some sub stuff
 
-- [Multimedia](/projects/multimedia/)
+- [Arabesque](/projects/arabesque/)
   * some sub stuff
-
+  
 - [Crosscloud](/projects/crosscloud/)
   * some sub stuff
-
-- [Arabesque](/projects/arabesque/)
+  
+- [Multimedia](/projects/multimedia/)
   * some sub stuff
 
 - [Sports Analytics](/projects/sports/)

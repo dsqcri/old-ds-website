@@ -3,8 +3,11 @@ layout: page
 title: Arabesque
 permalink: /projects/arabesque/
 ---
+
 #Arabesque: A System for Distributed Graph Mining
+
 Arabesque is a distributed graph mining system that enables quick and easy development of graph mining algorithms, while providing a scalable and efficient implementation that runs on top of Hadoop.
+
 
 ## Overview
 Benefits of Arabesque:
@@ -19,10 +22,10 @@ Benefits of Arabesque:
 ## Demo (optional)
 - http://arabesque.io
 
-## Patents
 
 ## publications
 - Check our SOSP 2015 [paper](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) that describe the system.
+
 
 ## Team
 - Marco Serafini
