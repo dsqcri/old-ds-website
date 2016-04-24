@@ -1,0 +1,11 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Home</a>
+    <a class="c-navigation__item {% if page.url == '/projects/' %}is-active{% endif %}" href="{{ "/projects/" | prepend: site.baseurl }}">Projects</a>
+    <a class="c-navigation__item {% if page.url == '/team/' %}is-active{% endif %}" href="{{ "/team/" | prepend: site.baseurl }}">Team</a>
+    <a class="c-navigation__item {% if page.url == '/publications/' %}is-active{% endif %}" href="{{ "/publications/" | prepend: site.baseurl }}">Publications</a>
+    <a class="c-navigation__item {% if page.url == '/seminar/' %}is-active{% endif %}" href="{{ "/seminar/" | prepend: site.baseurl }}">Seminar</a>
+    <a class="c-navigation__item {% if page.url == '/contact/' %}is-active{% endif %}" href="{{ "/contact/" | prepend: site.baseurl }}">Contact Us</a>
+    <a class="c-navigation__item {% if page.url == '/join/' %}is-active{% endif %}" href="{{ "/join/" | prepend: site.baseurl }}">Join Us</a>
+  </div>
+</nav>

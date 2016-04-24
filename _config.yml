@@ -1,0 +1,21 @@
+# Site settings
+title: Distributed Systems Group - QCRI
+email: oalrawi@qf.org.qa
+description: >
+  The Distributed Systems group at QCRI is currently focusing on three research areas: (i) next generation cloud infrastructures, (ii) distributed algorithms for massive data, and (iii) cloud applications and services. 
+baseurl: ""
+url: "http://ds-test.qcri.org"
+fixedNav: 'false' # true or false
+theme: grey # green, blue, orange, purple, grey
+twitterUsername: QatarComputing
+githubUsername: Qatar-Computing-Research-Institute
+dribbbleUsername:
+codepenUsername:
+
+# Build settings
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+sass:
+  style: compressed
