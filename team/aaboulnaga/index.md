@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Omar Alrawi
-permalink: /team/oalrawi/
+title: Dr. Ashraf Aboulnaga
+permalink: /team/aaboulnaga/
 ---
-![oalrawi](/team/oalrawi/small.png)
+![aaboulnaga](/team/aaboulnaga/small.png)
 
 
 Omar Alrawi is a Sr. Software Engineer working on workload classification and workload placement using hardware performance counters and cache partitioning/monitoring technology.
