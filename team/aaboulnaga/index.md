@@ -5,7 +5,6 @@ permalink: /team/aaboulnaga/
 ---
 ![aaboulnaga](/team/aaboulnaga/small.png)
 
-
 About you
 
 ### Research Focus
