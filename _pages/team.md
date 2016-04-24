@@ -30,18 +30,18 @@ permalink: /team/
 
 ## Former members
 
-- [Simon Ponsford, Senior Scientist, CTO at Cloud Direct]
-- [Simon Guerrero, Senior Software Engineer, ]
-- [Tarek El Gamal, Software Engineer, PhD Student, University of Illinois at Urbana-Champaign]
-- [Safdar Kureishy, Software Engineer, ]
-- [Dr. Gokop Goteng, Postdoctoral researcher, PhD Cranfield University, UK]
-- [Dr. Maysam Yabandeh, Postdoctoral researcher, Dropbox]
-- [Kiana Calagari, Research Associate, PhD Student in Simon Fraser University, Canada]
-- [Tarek Elganainy, Research Associate, PhD Student in Simon Fraser University, Canada]
-- [Kareem El Gebaly, Research Associate, PhD Student in University of Waterloo]
-- [Ahmed El-Roby, Research Associate, PhD Student in University of Waterloo]
-- [Ye Jin, Research Associate, ]
-- [Mingliang Liu, Research Associate, Amazon, Palo Alto - CA]
-- [Khaled M. Diab, Research Associate, ]
-- [Yehia Zakaria Rabei, Research Associate, ]
+- Simon Ponsford, Senior Scientist, CTO at Cloud Direct
+- Simon Guerrero, Senior Software Engineer, 
+- Tarek El Gamal, Software Engineer, PhD Student, University of Illinois at Urbana-Champaign
+- Safdar Kureishy, Software Engineer, 
+- Dr. Gokop Goteng, Postdoctoral researcher, PhD Cranfield University, UK
+- Dr. Maysam Yabandeh, Postdoctoral researcher, Dropbox
+- Kiana Calagari, Research Associate, PhD Student in Simon Fraser University, Canada
+- Tarek Elganainy, Research Associate, PhD Student in Simon Fraser University, Canada
+- Kareem El Gebaly, Research Associate, PhD Student in University of Waterloo
+- Ahmed El-Roby, Research Associate, PhD Student in University of Waterloo
+- Ye Jin, Research Associate, 
+- Mingliang Liu, Research Associate, Amazon, Palo Alto - CA
+- Khaled M. Diab, Research Associate, 
+- Yehia Zakaria Rabei, Research Associate, 
 
