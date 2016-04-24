@@ -4,20 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 ## Current Projects
+- [Uberun](/projects/uberun/)
+  * some sub stuff
 
-#### Cloud Application and Services
+- [Multimedia](/projects/multimedia/)
+  * some sub stuff
 
-1. CoVA: Contextual Video Analytics
-2. ePigeon: Reliable News Videos Upload and Dissemination Over the Cloud
+- [Crosscloud](/projects/crosscloud/)
+  * some sub stuff
 
-#### Distributed Algorithms for Massive Data
+- [Arabesque](/projects/arabesque/)
+  * some sub stuff
 
-1. 
-
-#### Next Generation Cloud Infrastructures
-
-1. ePigeon: Reliable News Videos Upload and Dissemination Over the Cloud
+- [Sports Analytics](/projects/sports/)
+  * some sub stuff
 
 ## Past Projects
 
-1.
