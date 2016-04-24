@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Dr. Ashraf Aboulnaga
-permalink: /team/aaboulnaga/
+title: Dr. Mohamed Hefeeda
+permalink: /team/mhefeeda/
 ---
-![aaboulnaga](/team/aaboulnaga/small.png)
-
+![mhefeeda](/team/mhefeeda/small.png)
 
 
 About Ashraf Aboulnaga
@@ -16,25 +15,20 @@ XXXXX
 - Research interest 
 
 
-
 ### Previous Experience
 - Experience
-
 
 
 ### Professional Experience
 - Experience
 
 
-
 ### Patents
 - Patent1
 
 
-
 ### Education
 - Research interest 
-
 
 
 ### Publication 
