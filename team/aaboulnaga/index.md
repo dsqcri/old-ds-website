@@ -7,6 +7,7 @@ permalink: /team/aaboulnaga/
 
 
 About Ashraf Aboulnaga
+At QCRI, Dr. Aboulnaga will focus his research on cloud computing and distributed systems.
 
 ### Research Focus
 - Research interest 
