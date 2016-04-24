@@ -5,7 +5,6 @@ permalink: /team/
 ---
 ## Members
 
-- [Dr. Ashraf Aboulnaga, Research Director](/team/aaboulnaga)
 - [Dr. Mohamed Hefeeda, Principal Scientist](/team/mhefeeda)
 - [Dr. Xiaosong Ma, Senior Scientist](/team/xma)
 - [Dr. Georgos Siganos, Senior Scientist](/team/gsiganos)
