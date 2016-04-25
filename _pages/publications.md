@@ -3,14 +3,15 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## Publications
 
 ### 2016
+
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Ashraf Aboulnaga, Tim Berners-Lee. [A Demonstration of the Solid Platform for Social Web
 Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the WWW Conference, 2016
 
 
- ### 2015
+### 2015
+
 * Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan. [Database High Availability Using SHADOW Systems.]() In Proceedings of the ACM Symposium on Cloud Computing (SoCC), 2015 (Best paper award)
 
 * Majed Sahli, Essam Mansour, Panos Kalnis. [StarDB: A Large-Scale DBMS for Strings.]() The Proceedings of the VLDB Endowment (PVLDB) 8(12), 2015
@@ -47,7 +48,9 @@ Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of th
 
 * Yazan Boshmaf, Dionysios Logothetis, Georgos Siganos, Jorge Lería, Jose Lorenzo, Matei Ripeanu, and Konstantin Beznosov. [Íntegro: Leveraging victim prediction for robust fake account detection in OSNs.]() In Proceedings of the International Symposium on Network and Distributed System Security (NDSS), February 2015.
 
+
 ### 2014
+
 * Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. [Cypress: combining static and dynamic analysis for top-down communication trace compression.]() In Proceedings of the IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (SC), November 2014.
 
 * Kiana Calagari, Krzysztof Templin, Tarek Elgamal, Khaled Diab, Piotr Didyk, Wojciech Matusik, and Mohamed Hefeeda. [Anahita: A System for 3D Video Streaming with Depth Customization.]() In Proceedings of the ACM International Conference on Multimedia (MM), November 2014.
@@ -76,6 +79,7 @@ Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of th
 
 * Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan Vazhkudai. [Automatic identification of application I/O signatures from noisy server-side traces.]() In Proceedings of USENIX Conference on File and Storage Technologies (FAST), February 2014.
 
+
 ### 2013
 
 * Majed Sahli, Essam Mansour and Panos Kalnis. [Parallel Motif Extraction from Very Long Sequences.]() In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), November 2013.
@@ -88,9 +92,10 @@ Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of th
 
 * Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. [DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting.]() In Proceedings of the Very Large Data Bases Endowment (PVLDB), August 2013.
 
+
 ### 2012
 
-# Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. [Distributed Approximate Spectral Clustering for Large-Scale Datasets.]() In Proceedings of the ACM International Conference on High-Performance Parallel and Distributed Computing (HPDC), June 2012.
+* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. [Distributed Approximate Spectral Clustering for Large-Scale Datasets.]() In Proceedings of the ACM International Conference on High-Performance Parallel and Distributed Computing (HPDC), June 2012.
 
 * Miguel Correia, Daniel Gómez Ferro, Flavio Paiva Junqueira, and Marco Serafini. [Practical Hardening of Crash-Tolerant Systems.]() In Proceedings of USENIX Annual Technical Conference (ATC), June 2012.
 

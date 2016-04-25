@@ -5,13 +5,21 @@ permalink: /seminar/
 ---
 ## Seminars
 
-Your content
+### 2016
 
- > Some boxed stuff
+| Date				| Title 												| Speaker				| Location		| Time		|
+|:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
+||||||
+|Apr 4th (Mon)		|Building an Open Stack for IoT([Abstract](/seminars/iot-abstract))|[Dr. Khalid Elgazzar](/seminars/iot-abstract)|Tornado Tower (18th floor)|11:00-12:00|
+||||||
 
-1. ordered list
-2. another item
-  * subitem, unordered
-  * subitem2
-3. another ordered item
-  1. ordered subitem
+-----------------------------------------
+
+### 2015
+
+| Date				| Title 												| Speaker				| Location		| Time		|
+|:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
+||||||
+|Dec 10th (Thu) |An In-Memory Object Caching Framework with Adaptive Load Balancing([Abstract](/seminars/inmemory-object-caching-abstract))|[Dr. Ali R. Butt](http://people.cs.vt.edu/butta/) (external)|Tornado Tower (18th floor)|11:00-12:00|
+||||||
+|Dec 2nd (Wed)	|Automatic Memory Tuning for Hadoop ([Abstract]())|[Dr. Ashraf Aboulnaga]()|Tornado Tower (10th floor)|11:00-12:00|

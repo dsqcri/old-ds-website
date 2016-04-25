@@ -5,19 +5,18 @@ permalink: /projects/
 ---
 ## Current Projects
 
-#### Cloud Application and Services
+- [Arabesque](/projects/arabesque/)
 
-1. CoVA: Contextual Video Analytics
-2. ePigeon: Reliable News Videos Upload and Dissemination Over the Cloud
+- [Crosscloud](/projects/crosscloud/)
 
-#### Distributed Algorithms for Massive Data
+- [Multimedia](/projects/multimedia/)
+  * some sub stuff
+  * some sub stuff
+   
+- [Sports Analytics](/projects/sports/)
+  
+- [Uberun](/projects/uberun/)
 
-1. 
-
-#### Next Generation Cloud Infrastructures
-
-1. ePigeon: Reliable News Videos Upload and Dissemination Over the Cloud
 
 ## Past Projects
 
-1.
