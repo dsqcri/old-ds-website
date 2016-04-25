@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Ashraf Aboulnaga
-permalink: /team/aaboulnaga/
+permalink: /team/ashraf/
 ---
-![aaboulnaga](/team/aaboulnaga/small.png)
+![ashraf](/team/ashraf/small.png)
 
+this is a test
 
 ### Research Focus
 - Research interest 
