@@ -19,7 +19,7 @@
   <body>
     <nav class="c-navigation ">
   <div class="c-navigation__container u-container">
-    <a class="c-navigation__item " href="/">Home</a>
+    <a class="c-navigation__item " href="/">QCRI-DS Group</a>
     <a class="c-navigation__item " href="/projects/">Projects</a>
     <a class="c-navigation__item " href="/team/">Team</a>
     <a class="c-navigation__item " href="/publications/">Publications</a>
@@ -34,7 +34,6 @@
   <header class="c-header c-article__header">
     <div class="u-container">
       <h1 class="c-header__title"><!--img src="/static/logo.png" width=191 height=116--> Dr. Ashraf Aboulnaga</h1>
-	  </br></br></br></br></br>
     </div>
   </header>
 
