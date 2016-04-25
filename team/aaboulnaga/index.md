@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Dr. Mohamed Hefeeda
-permalink: /team/mhefeeda/
+title: Ashraf Aboulnaga
+permalink: /team/aaboulnaga/
 ---
-![mhefeeda](/team/mhefeeda/small.png)
-
-
-About Ashraf Aboulnaga
-At QCRI, Dr. Aboulnaga will focus his research on cloud computing and distributed systems.
-XXXXX
+![aaboulnaga](/team/aaboulnaga/small.png)
 
 
 ### Research Focus
