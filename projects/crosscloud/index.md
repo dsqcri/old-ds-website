@@ -34,7 +34,7 @@ Also, Crosscloud aims to appeal to application developers by relying on Web stan
 - Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, Tim Berners-Lee: [A Demonstration of the Solid Platform for Social Web Applications](http://dl.acm.org/citation.cfm?doid=2872518.2890529). WWW 2016: 223-226
 
 ## Team
-- Ashraf Aboulnaga 
+- [Ashraf Aboulnaga](/team/ashraf/) 
 - Essam Mansour
 - Maged Zereba
 - Abdurrahman Ghanem 
