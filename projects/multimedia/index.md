@@ -22,7 +22,7 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 
 
 ## Team
-QCRI
+- 	QCRI
 - Kiana Calagari                      
 - Anis Troudi
 - Ahmed Musleh
@@ -32,7 +32,7 @@ QCRI
 - Mohamed Elgharib
 - Mohamed Hefeeda  
 
-MIT
+- 	MIT
 - Piotr Didyk  
 - Alexandre Kaspar             
 - Wojciech Matusik
