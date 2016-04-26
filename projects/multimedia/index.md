@@ -22,7 +22,6 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 
 
 ## Team
-- 	QCRI
 - Kiana Calagari                      
 - Anis Troudi
 - Ahmed Musleh
@@ -31,8 +30,6 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 - Ajay Nandoria
 - Mohamed Elgharib
 - Mohamed Hefeeda  
-
-- 	MIT
 - Piotr Didyk  
 - Alexandre Kaspar             
 - Wojciech Matusik
