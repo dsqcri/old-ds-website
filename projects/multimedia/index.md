@@ -5,35 +5,31 @@ permalink: /projects/arabesque/
 ---
 
 
-# 2D to Immersive content conversion
-A wide spread adoption of 3D stereoscopic television is hindered by the lack of high-quality 3D and immersive content. One promising solution to address this need is to use automated 2D-to-Immersive conversion.
+
+# Arabesque: A System for Distributed Graph Mining
+Arabesque is a distributed graph mining system that enables quick and easy development of graph mining algorithms, while providing a scalable and efficient implementation that runs on top of Hadoop.
 
 
 ## Overview
- Current conversion methods, while general, produce low-quality results that exhibit artifacts that are not acceptable to many viewers. We address this problem by showing how to construct a high-quality, domain-specific conversion method for sports videos. Our method is data-driven — we generate stereoscopic frames for a given video stream by transferring depth information from a database of similar 3D stereoscopic videos. Once we retrieve similar 3D video frames, our technique transfers depth gradients to the target frame while respecting object boundaries, solves for the output depth map, and then generates stereoscopic video.
+Benefits of Arabesque:
+- Simple intuitive API, tuned for Graph Mining Problems
+- Handles all the complexity of Graph Mining Algorithms transparently
+- Scalable to hundreds of machines
+- Efficient implementation: negligible overhead compared to equivalent centralized solutions
+- Support of large graphs with over a billion edges. It can process trillion of subgraphs in a commodity cluster.
+- Designed for Hadoop. Runs as an Apache Giraph Job.
+- Open-Source with Apache 2.0 license.
 
 ## Demo (optional)
-- [http://v3v.qcri.org](http://v3v.qcri.org)
+- [http://arabesque.io](http://arabesque.io)
 
-## Patents
-- Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
 
-## Publications
-- K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, “Gradient-based 2D-to-3D Conversion for Soccer Videos”, ACM Multimedia (MM’15), Brisbane, Australia, October 2015. 
+## publications
+- Check our SOSP 2015 [paper](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) that describe the system.
 
 
 ## Team
-QCRI
-- Kiana Calagari                      
-- Anis Troudi
-- Ahmed Musleh
-- Omar Abu Sello
-- Ahmed Mamdouh
-- Ajay Nandoria
-- Mohamed Elgharib
-- Mohamed Hefeeda  
-
-MIT
-- Piotr Didyk  
-- Alexandre Kaspar             
-- Wojciech Matusik
+- Marco Serafini
+- Gianmarco De Francisci Morales
+- Ashraf Aboulnaga
+- Georgos Siganos
