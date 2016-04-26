@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multimidea
-permalink: /projects/multimidea/
+permalink: /projects/multimidia/
 ---
 
 
