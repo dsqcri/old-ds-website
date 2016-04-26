@@ -10,9 +10,7 @@ permalink: /projects/
 - [Crosscloud](/projects/crosscloud/)
 
 - [Multimedia](/projects/multimedia/)
-  * some sub stuff
-  * some sub stuff
-   
+     
 - [Sports Analytics](/projects/sports/)
   
 - [Uberun](/projects/uberun/)
