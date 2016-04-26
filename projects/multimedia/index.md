@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Multimidea
-permalink: /projects/multimedia/
+title: Arabesque
+permalink: /projects/arabesque/
 ---
-
 
 
 # 2D to Immersive content conversion
