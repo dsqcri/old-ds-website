@@ -61,7 +61,7 @@ qScout is a _quantitative football player scouting system_ developed by QCRI. It
 
 
 ## Team
-- [Laszlo Gyarmati](/team/laszlo)
-- Mohamed Hefeeda
-- [Rade Stanojevic](/team/rade)
+- [Laszlo Gyarmati](/team/lgyarmati)
+- [Mohamed Hefeeda](/team/mhefeeda)
+- [Rade Stanojevic](/team/rstanojevic)
 
