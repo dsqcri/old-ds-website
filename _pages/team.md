@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: People
+permalink: /people/
 ---
 ## Members
 
