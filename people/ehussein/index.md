@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Eslam Hussein
-permalink: /team/ehussein/
+permalink: /people/ehussein/
 ---
-![ehussein](/team/ehussein/small.png)
+![ehussein](/people/ehussein/small.png)
 
 
 About you

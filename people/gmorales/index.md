@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Gianmarco De Francisci Morales
-permalink: /team/gmorales/
+permalink: /people/gmorales/
 ---
-![gmorales](/team/gmorales/small.png)
+![gmorales](/people/gmorales/small.png)
 
 
 About you

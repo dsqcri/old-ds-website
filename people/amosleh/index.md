@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ahmad Mosleh
-permalink: /team/amosleh/
+permalink: /people/amosleh/
 ---
-![amosleh](/team/amosleh/small.png)
+![amosleh](/people/amosleh/small.png)
 
 
 About you

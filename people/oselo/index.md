@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Omar Selo
-permalink: /team/oselo/
+permalink: /people/oselo/
 ---
-![oselo](/team/oselo/small.png)
+![oselo](/people/oselo/small.png)
 
 
 About you

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Mohamed Elgharib
-permalink: /team/melgharib/
+permalink: /people/melgharib/
 ---
-![melgharib](/team/melgharib/small.png)
+![melgharib](/people/melgharib/small.png)
 
 
 About you

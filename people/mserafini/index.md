@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Marco Serafini
-permalink: /team/mserafini/
+permalink: /people/mserafini/
 ---
-![mserafini](/team/mserafini/small.png)
+![mserafini](/people/mserafini/small.png)
 
 
 About you

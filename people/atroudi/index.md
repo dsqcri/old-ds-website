@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Anis Troudi
-permalink: /team/atroudi/
+permalink: /people/atroudi/
 ---
-![atroudi](/team/atroudi/small.png)
+![atroudi](/people/atroudi/small.png)
 
 
 About you
