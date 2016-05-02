@@ -7,7 +7,7 @@ permalink: /publications/
 ### 2016
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, Tim Berners-Lee. [A Demonstration of the Solid Platform for Social Web
-Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the WWW Conference, 2016 (PDF)
+Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the WWW Conference, 2016 ([PDF](/publications/.pdf))
 
 
 ### 2015

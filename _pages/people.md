@@ -16,7 +16,7 @@ permalink: /people/
 - [Maged Zereba, Senior Software Engineer](/people/mzereba/)
 - [Dr. Gianmarco De Francisci Morales, Scientist](/people/gmorales/)
 - [Dr. Marco Serafini, Scientist](/people/mserafini/)
-- [Abdurrahman Ghanem, Software Engineer](/people/aghanem/)
+- [Abdurrahman Ghanem, Software Engineer](/people/abghanem/)
 - [Dr. Mohamed Elgharib, Postdoctoral researcher](/people/melgharib/)
 - [Ahmed Hassanien, Research Associate](/people/ahassanien/)
 - [Eslam Hussein, Research Associate](/people/ehussein/)
