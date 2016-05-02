@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Xiaosong Ma
-permalink: /team/xma/
+permalink: /people/xma/
 ---
-![xma](/team/xma/small.png)
+![xma](/people/xma/small.png)
 
 
 About you

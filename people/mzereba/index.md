@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Maged Zereba
-permalink: /team/mzereba/
+permalink: /people/mzereba/
 ---
-![mzereba](/team/mzereba/small.png)
+![mzereba](/people/mzereba/small.png)
 
 
 About you

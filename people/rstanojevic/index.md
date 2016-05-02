@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Rade Stanojevic
-permalink: /team/rstanojevic/
+permalink: /people/rstanojevic/
 ---
-![rstanojevic](/team/rstanojevic/small.png)
+![rstanojevic](/people/rstanojevic/small.png)
 
 
 About you

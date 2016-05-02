@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Xu Ji
-permalink: /team/xji/
+permalink: /people/xji/
 ---
-![xji](/team/xji/small.png)
+![xji](/people/xji/small.png)
 
 
 About you

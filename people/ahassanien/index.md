@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ahmed Hassanien
-permalink: /team/ahassanien/
+permalink: /people/ahassanien/
 ---
-![ahassanien](/team/ahassanien/small.png)
+![ahassanien](/people/ahassanien/small.png)
 
 
 About you

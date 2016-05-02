@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ajay Nandoriya
-permalink: /team/anandoriya/
+permalink: /people/anandoriya/
 ---
-![anandoriya](/team/anandoriya/small.png)
+![anandoriya](/people/anandoriya/small.png)
 
 
 About you

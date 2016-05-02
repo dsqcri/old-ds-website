@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Laszlo Gyarmati
-permalink: /team/lgyarmati/
+permalink: /people/lgyarmati/
 ---
-![lgyarmati](/team/lgyarmati/small.png)
+![lgyarmati](/people/lgyarmati/small.png)
 
 
 About you

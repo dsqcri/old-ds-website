@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dr. Mohamed Hefeeda
-permalink: /team/mhefeeda/
+permalink: /people/mhefeeda/
 ---
-![mhefeeda](/team/mhefeeda/small.png)
+![mhefeeda](/people/mhefeeda/small.png)
 
 
 About you
