@@ -11,8 +11,6 @@ ver=$(git --version | cut -d' ' -f3)
 mjr=$(echo $ver | cut -d'.' -f1)
 min=$(echo $ver | cut -d'.' -f2)
 echo Your git version is: $ver
-min=6
-mjr=2
 
 if [[ $mjr -lt 2 ]]
 	then

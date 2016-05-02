@@ -3,12 +3,12 @@ This repo holds the QCRI's DS website. Under the main directory, each user has a
 
 ## Team members
 To get started do the following:
-> 1. On you *nix machine, that includes OS X, run the following command:
-```bash
+> On you *nix machine, that includes OS X, run the following command:
+~~~ bash
 wget https://raw.githubusercontent.com/dsqcri/dsqcri.github.io/master/mypage.sh
 chmod +x mypage.sh
 ./mypage.sh
-```
+~~~
 > 2. Walk through the setup, answer the questions the mypage.sh script asks you
 > 3. Change directories to your newly created folder dswebsite_your-username/people/your-username
 > 4. Make the necessary changes to the index.md file
