@@ -30,7 +30,9 @@ if [[ $answer == "Y" ]]
 		echo "Getting $username page ..."
 		git pull origin master
 		echo "Done!"
-		echo "created dswebsite_$username under $(pwd). Change directories to folder and edit files in team/$username.
+		echo "
+		Created dswebsite_$username under $(pwd). 
+		Change directories to folder and edit files in team/$username.
 		Once your edits are complete, use git to add and commit your changes then push to the main repo."
 	else
 		echo "i spoiled myself"
