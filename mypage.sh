@@ -1,4 +1,10 @@
 #!/bin/bash
+# ------------------------------------------------------------------
+# [Omar Alrawi] Bash script utilizing git 1.7+ to clone subdir
+#				inside the dsqcri github repo. This script req
+#				git 1.7+ to work. It utilizes sparse checkout
+#				features, which are only available in 1.7+.
+# ------------------------------------------------------------------
 
 #get git version number
 ver=$(git --version | cut -d' ' -f3)
