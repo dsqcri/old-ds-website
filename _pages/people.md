@@ -5,6 +5,12 @@ permalink: /people/
 ---
 ## Members
 
+| <div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/maged.jpg" height="120px" width="120px" alt="">  |
+| Ashraf Aboulnaga  |
+|  Research Director |
+
+
+
 | Ashraf  | Hefeeda  |  Xiaosong |
 | Georgos | Rade  |  Omar |
 | Laszlo  |  Essam |  Maged |
