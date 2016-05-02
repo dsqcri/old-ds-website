@@ -3,46 +3,29 @@ layout: page
 title: Uberun
 permalink: /projects/uberun/
 ---
+## Motivation 
+- Resource sharing everywhere 
+- Data centers, cloud instances, clusters, servers 
+- Hardware resources over provisioned and underutilized
 
-Goal: Enable aggressive and efficient resource sharing
-Expanding effective capacity of existing systems
-Gauging future resource requirement for system upgrades/replacement
-Encouraging cost-aware user behavior
+1. Applications have diverse resource usage patterns 
+2. Cache sensitivity 
+3. Memory access rate 
+4. Working set size
 
-Key novelty
-Multi-layer approach combining hardware and software features
-Hardware counters, fine-grained power monitoring/control, automatic workload characterization
-Elastic multicores
-CPUs, energy, cache, memory bandwidth jointly managed
-Guaranteed-performance + best-effort work
-Beyond “CPU utilization”
-Special focus on memory hierarchy, accurate and timely control of cache, bandwidth sharing
-Collaborative multi-tenancy
-Exposing resource sharing to users
-Measuring impact for bill splitting
-
-
-
-This is an abstract: place your workload where it feels comfortable
-
-## Overview
-- goal 1
-- goal 1
-- goal 1
-- goal 1
-
-## Demo (optional)
-- Demo1
-
-## Patents
-- Patent1
-- Patent1
-
-## publications
-- Stuff1
-- Stuff1
+## Approach
+- Run-time workload profiling
+- Hardware cache partitioning as characterization tool 
+- Multi-dimensional resource usage pattern 
+- Memory bandwidth at varied LLC allocation 
+- IPC (Instructions Per Cycle) at varied LLC allocation 
+- Memory reference rate 
+- Resource-aware workload placement 
+- Coordinating cache and bandwidth sharing 
+- Cache partitioning on top of scheduling
 
 ## Team
-- Member1
-- Member2
-- Member3
+- [Xiaosong Ma](/people/xma/)
+- [Xu Ji](/people/xji/)
+- [Omar Alrawi](/people/oalrawi/)
+- [Essam Mansour](/people/emansour/)
