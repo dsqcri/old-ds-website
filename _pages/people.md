@@ -5,7 +5,9 @@ permalink: /people/
 ---
 ## Members
 
-|<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="">|[ Ashraf Aboulnaga](/people/ashraf/)|Research Director|	
+|<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="">|
+|[ Ashraf Aboulnaga](/people/ashraf/)|
+|Research Director|	
 
 				
 ## Members
