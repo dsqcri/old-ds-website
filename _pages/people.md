@@ -16,15 +16,15 @@ permalink: /people/
 	            <h4><b>Ashraf</b></h4>
 	            <p>Principal investigator in charge of the collaboration between QCRI and MIT.</p>
 	            <a href="https://github.com/ashrafaboulnaga" target="_blank"><i class="fa fa-github icon-color"></i></a> </div>
-	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="img/people/maged.jpg" height="120px" width="120px" alt="">
+	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/maged.jpg" height="120px" width="120px" alt="">
 	            <h4><b>Maged</b></h4>
 	            <p>Software developer working at QCRI on front-end applications.</p>
 	            <a href="https://github.com/mzereba/"><i class="fa fa-github icon-color"></i></a> </div>
-	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="img/people/essam.jpg" height="120px" width="120px" alt="">
+	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt="">
 	            <h4><b>Essam</b></h4>
 	            <p>Software developer working at QCRI on back-end and database federation.</p>
 	            <a href="https://github.com/mansoure" target="_blank"><i class="fa fa-github icon-color"></i></a> </div>
-	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="img/people/abdo.jpg" height="120px" width="120px" alt="">
+	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/abdo.jpg" height="120px" width="120px" alt="">
 	            <h4><b>Abdo</b></h4>
 	            <p>Software developer working at QCRI on front-end applications.</p>
 	            <a href="https://github.com/ghanemabdo" target="_blank"><i class="fa fa-github icon-color"></i></a> </div>
@@ -32,7 +32,7 @@ permalink: /people/
 <!-- container -->
 				
 				
-
+## Members
 
 
 - [Dr. Ashraf Aboulnaga, Research Director](/people/ashraf/)
