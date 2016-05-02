@@ -5,7 +5,7 @@ permalink: /team/ashraf/
 ---
 ![ashraf](/team/ashraf/small.png)
 
-this is a test
+this is a test testing the single page checkout
 
 ### Research Focus
 - Research interest 
