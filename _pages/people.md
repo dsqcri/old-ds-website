@@ -5,9 +5,11 @@ permalink: /people/
 ---
 ## Members
 
-| <img class="img img-circle" src="/img/people/maged.jpg" height="120px" width="120px" alt="">  |
-| Ashraf Aboulnaga  |
-|  Research Director |
+|<img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt="">|<img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt="">|<img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt="">|
+
+| Ashraf Aboulnaga  | Mohamed Hefeeda | Xiaosong Ma |
+
+| Research Director | Principal Scientist | Senior Scientist |
 
 
 
