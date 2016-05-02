@@ -24,7 +24,7 @@ if [[ $mjr -lt 2 ]]
 fi
 
 echo "What is your username? (**usually** first letter of the first name followed by lastname)
-If you don't know your username, navigate to https://github.com/dsqcri/dsqcri.github.io/tree/master/team
+If you don't know your username, navigate to https://github.com/dsqcri/dsqcri.github.io/tree/master/people
 and find it there"
 read username
 if [[ $username =~ ^[a-z]*$ ]]
