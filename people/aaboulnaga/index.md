@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ashraf Aboulnaga
-permalink: /people/ashraf/
+permalink: /people/aaboulnaga/
 ---
-![ashraf](/people/ashraf/small.png)
+![ashraf](/people/aaboulnaga/small.png)
 
 this is a test testing the single page checkout
 
