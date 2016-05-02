@@ -5,7 +5,11 @@ permalink: /people/
 ---
 ## Members
 
-
+| Ashraf  | Hefeeda  |  Xiaosong |
+|---|---|---|
+| Georgos | Rade  |  Omar |
+| Laszlo  |  Essam |  Maged |
+| Gianmarco  |  Marco |  Ghanem |
 				
 				
 ## Members
