@@ -59,7 +59,11 @@ permalink: /people/
 |Postdoctoral researcher|
 
 
-
+- [Ahmed Hassanien, Research Associate](/people/ahassanien/)
+- [Eslam Hussein, Research Associate](/people/ehussein/)
+- [Ajay Nandoriya, Research Associate](/people/anandoriya/)
+- [Xu Ji, Research Associate](/people/xji/)
+- [Anis Troudi, Research Assistant](/people/atroudi/)
 				
 ## Members
 
@@ -79,13 +83,8 @@ permalink: /people/
 
 
 - [ Mohamed Elgharib, Postdoctoral researcher](/people/melgharib/)
-- [Ahmed Hassanien, Research Associate](/people/ahassanien/)
-- [Eslam Hussein, Research Associate](/people/ehussein/)
-- [Ajay Nandoriya, Research Associate](/people/anandoriya/)
-- [Xu Ji, Research Associate](/people/xji/)
-- [Anis Troudi, Research Assistant](/people/atroudi/)
-- [Ahmad Mosleh, Consultant](/people/amosleh/)
-- [Omar Selo, Consultant](/people/oselo/)
+
+
 
 
 
