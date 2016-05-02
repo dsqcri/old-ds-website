@@ -45,7 +45,7 @@ and find it there"
 		Once your edits are complete, use git to add and commit your changes then push to the main repo.
 		"
 	else
-		echo "i spoiled myself"
+		echo "Invalid username: $username"
 		exit 1
 	fi
 	exit 0
