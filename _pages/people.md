@@ -7,20 +7,18 @@ permalink: /people/
 ## Members
 
 |<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="" >|
-|[ Ashraf Aboulnaga](/people/ashraf/)|
+|[Ashraf Aboulnaga](/people/ashraf/)|
 |Research Director|	
 
-|<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="" >|
-|[ Ashraf Aboulnaga](/people/ashraf/)|
-|Research Director|	
+|<img class="img img-circle" src="/img/people/hefeeda.jpg" height="80px" width="80px" alt="" >|
+|[Mohamed Hefeeda](/people/mhefeeda/)|
+|Principal Scientist|	
 
-|<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="" >|
-|[ Ashraf Aboulnaga](/people/ashraf/)|
-|Research Director|	
+|<img class="img img-circle" src="/img/people/xma.jpg" height="80px" width="80px" alt="" >|
+|[Xiaosong Ma](/people/xma/)|
+|Senior Scientist|	
 
-|<img class="img img-circle" src="/img/people/ashraf.jpg" height="80px" width="80px" alt="" >|
-|[ Ashraf Aboulnaga](/people/ashraf/)|
-|Research Director|	
+
 
 				
 ## Members
