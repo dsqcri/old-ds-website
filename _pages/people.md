@@ -5,11 +5,13 @@ permalink: /people/
 ---
 ## Members
 
-|<div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt="">
-	            <h4><b>Ashraf</b></h4>
-	            <p>Principal investigator in charge of the collaboration between QCRI and MIT.</p>
-	            <a href="https://github.com/ashrafaboulnaga" target="_blank"><i class="fa fa-github icon-color"></i></a> </div>
-	          <div class="col-lg-3 centered top20"> <img class="img img-circle" src="/img/people/maged.jpg" height="120px" width="120px" alt="">  | Mohamed Hefeeda | Xiaosong Ma |
+|<pre><code>
+	&lt;div class="col-lg-3 centered top20"&gt; &lt;img class="img img-circle" src="/img/people/essam.jpg" height="120px" width="120px" alt=""&gt;
+	            &lt;h4&gt;&lt;b&gt;Ashraf&lt;/b&gt;&lt;/h4&gt;
+	            &lt;p&gt;Principal investigator in charge of the collaboration between QCRI and MIT.&lt;/p&gt;
+	            &lt;a href="https://github.com/ashrafaboulnaga" target="_blank"&gt;&lt;i class="fa fa-github icon-color"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/div&gt;
+				</code></pre>
+				| Mohamed Hefeeda | Xiaosong Ma |
 
 | Research Director | Principal Scientist | Senior Scientist |
 
