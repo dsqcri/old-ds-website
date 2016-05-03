@@ -39,7 +39,7 @@ permalink: /publications/
 
 * Tarek Elgamal, Maysam Yabandeh, Ashraf Aboulnaga, Waleed Mustafa, and Mohamed Hefeeda. [sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms.]() In Proceedings of the ACM International Conference on Management of Data (**SIGMOD**), June 2015. ([PDF](/publications/2015-elgamal-sigmod.pdf))
 
-* Ye Jin, Xiaosong Ma, Qing Liu, Mingliang Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky. [Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation.]() In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), June 2015. ([PDF](/publications/.pdf))
+* Ye Jin, Xiaosong Ma, Qing Liu, Mingliang Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky. [Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation.]() In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), June 2015. ([PDF](/publications/2015-jin-sigmetrics.pdf))
 
 * Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio Junqueira, and Christof Fetzer. [Scalable Error Isolation for Distributed Systems.]() In Proceedings of USENIX International Symposium on Networked Systems Design and Implementation (**NSDI**), May 2015. ([PDF](/publications/.pdf))
 
@@ -58,7 +58,7 @@ permalink: /publications/
 
 ### 2014
 
-* Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. [Cypress: combining static and dynamic analysis for top-down communication trace compression.]() In Proceedings of the IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (**SC**), November 2014. ([PDF](/publications/.pdf))
+* Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. [Cypress: combining static and dynamic analysis for top-down communication trace compression.]() In Proceedings of the IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (**SC**), November 2014. ([PDF](/publications/2014-zhai-sc.pdf))
 
 * Kiana Calagari, Krzysztof Templin, Tarek Elgamal, Khaled Diab, Piotr Didyk, Wojciech Matusik, and Mohamed Hefeeda. [Anahita: A System for 3D Video Streaming with Depth Customization.]() In Proceedings of the ACM International Conference on Multimedia (**MM**), November 2014. ([PDF](/publications/2014-kiana-mm.pdf))
 
@@ -72,11 +72,11 @@ permalink: /publications/
 
 * Krzysztof Templin, Piotr Didyk, Karol Myszkowski, Mohamed Hefeeda, Hans-Peter Seidel, and Wojciech Matusik. [Modeling and optimizing eye vergence response to stereoscopic cuts.]() ACM Transactions on Graphics (**TOG**), July 2014. ([PDF](/publications/2014-templin-tog.pdf))
 
-* Fei Meng, Li Zhou, Xiaosong Ma, Sandeep Uttamchandani, and Deng Liu. [vCacheShare: automated server flash cache space management in a virtualization environment.]() In Proceedings of USENIX Annual Technical Conference (**ATC**), June 2014. ([PDF](/publications/.pdf))
+* Fei Meng, Li Zhou, Xiaosong Ma, Sandeep Uttamchandani, and Deng Liu. [vCacheShare: automated server flash cache space management in a virtualization environment.]() In Proceedings of USENIX Annual Technical Conference (**ATC**), June 2014. ([PDF](/publications/2014-meng-atc.pdf))
 
 * Jingen Xiang, Huangdong Meng, and Ashraf Aboulnaga. [Scalable matrix inversion using MapReduce.]() In Proceedings of the ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**), June 2014. ([PDF](/publications/2014-xiang-hpdc.pdf))
 
-* Xiaosong Ma. [On the feasibility of data loss insurance for personal cloud storage.]() In Proceedings of USENIX Conference on Hot Topics in Storage and File Systems (**HotStorage**), June 2014. ([PDF](/publications/.pdf))
+* Xiaosong Ma. [On the feasibility of data loss insurance for personal cloud storage.]() In Proceedings of USENIX Conference on Hot Topics in Storage and File Systems (**HotStorage**), June 2014. ([PDF](/publications/2014-ma-hotstorage.pdf))
 
 * Ahmed Abdelsadek and Mohamed Hefeeda. [DIMO: distributed index for matching multimedia objects using MapReduce.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), March 2014. ([PDF](/publications/2014-abdelsadek-mmsys.pdf))
 
