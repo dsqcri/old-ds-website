@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2016
 
+* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib (), 2016 ([PDF](/publications/.pdf))
+
 * Ahmed Hamza, and Mohamed Hefeeda. [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), May 2016 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, Tim Berners-Lee. [A Demonstration of the Solid Platform for Social Web Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the World Wide Web Conference (**WWW**), 2016 ([PDF](/publications/2016-mansour-www.pdf))
@@ -16,6 +18,8 @@ permalink: /publications/
 
 
 ### 2015
+
+* Yunyun Jiang, Xiaosong Ma, Wenguang Chen. [Cost-Effective Resource Configuration for Cloud Video Streaming Services.]() ICPADS, 2015 ([PDF](/publications/.pdf))
 
 * Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan. [Database High Availability Using SHADOW Systems.]() In Proceedings of the ACM Symposium on Cloud Computing (**SoCC**), 2015 (**Best paper award**) ([PDF](/publications/2015-kim-acmsocc15.pdf))
 
@@ -58,6 +62,8 @@ permalink: /publications/
 
 ### 2014
 
+* Jidong Zhai, Mingliang Liu, Ye Jin, Xiaosong Ma, Wenguang Chen. [Automatic Cloud I/O Configurator for I/O Intensive Parallel Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2014 ([PDF](/publications/2014-zhai-pds.pdf))
+
 * Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. [Cypress: combining static and dynamic analysis for top-down communication trace compression.]() In Proceedings of the IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (**SC**), November 2014. ([PDF](/publications/2014-zhai-sc.pdf))
 
 * Kiana Calagari, Krzysztof Templin, Tarek Elgamal, Khaled Diab, Piotr Didyk, Wojciech Matusik, and Mohamed Hefeeda. [Anahita: A System for 3D Video Streaming with Depth Customization.]() In Proceedings of the ACM International Conference on Multimedia (**MM**), November 2014. ([PDF](/publications/2014-kiana-mm.pdf))
@@ -84,7 +90,7 @@ permalink: /publications/
 
 * Mostafa Ead, Herodotos Herodotou, Ashraf Aboulnaga, and Shivnath Babu. [PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs.]() In Proceedings of the International Conference on Extending Database Technology (**EDBT**), March 2014. ([PDF](/publications/.pdf))
 
-* Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan Vazhkudai. [Automatic identification of application I/O signatures from noisy server-side traces.]() In Proceedings of USENIX Conference on File and Storage Technologies (**FAST**), February 2014. ([PDF](/publications/.pdf))
+* Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan Vazhkudai. [Automatic identification of application I/O signatures from noisy server-side traces.]() In Proceedings of USENIX Conference on File and Storage Technologies (**FAST**), February 2014. ([PDF](/publications/2014-liu-fast.pdf))
 
 
 ### 2013
