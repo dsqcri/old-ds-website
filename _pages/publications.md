@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2016
 
-* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2016 ([PDF](/publications/.pdf))
+* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2016 ([PDF](/publications/2015-aji-tpds.pdf))
 
 * Ahmed Hamza, and Mohamed Hefeeda. [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), May 2016 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
@@ -19,7 +19,7 @@ permalink: /publications/
 
 ### 2015
 
-* Yunyun Jiang, Xiaosong Ma, Wenguang Chen. [Cost-Effective Resource Configuration for Cloud Video Streaming Services.]() ICPADS, 2015 ([PDF](/publications/.pdf))
+* Yunyun Jiang, Xiaosong Ma, Wenguang Chen. [Cost-Effective Resource Configuration for Cloud Video Streaming Services.]() ICPADS, 2015 ([PDF](/publications/2015-jiang-icpads.pdf))
 
 * Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan. [Database High Availability Using SHADOW Systems.]() In Proceedings of the ACM Symposium on Cloud Computing (**SoCC**), 2015 (**Best paper award**) ([PDF](/publications/2015-kim-acmsocc15.pdf))
 
