@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2016
 
-* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib (), 2016 ([PDF](/publications/.pdf))
+* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2016 ([PDF](/publications/.pdf))
 
 * Ahmed Hamza, and Mohamed Hefeeda. [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), May 2016 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
