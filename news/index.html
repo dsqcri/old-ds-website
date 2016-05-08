@@ -1,0 +1,12 @@
+---
+layout: page
+title: Archived News
+permalink: /news/
+---
+<h2>Archived News<h2>
+{% for item in site.posts  %}
+			<li class="c-archives__item">
+				<h3>{{ item.date | date: "%b %-d, %Y" }} <a href="{{ item.url }}">{{ item.title }}</a></h3>
+			</li>
+{% endfor %}
+		</ul>
