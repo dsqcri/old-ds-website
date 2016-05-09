@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="t-grey">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Seminar</title>
+  <meta name="description" content="The Distributed Systems group at QCRI is currently focusing on three research areas: (i) next generation cloud infrastructures, (ii) distributed algorithms for massive data, and (iii) cloud applications and services. 
+">
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700|Roboto+Mono:400,500' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://ds-test.qcri.org/seminars/inmemory-object-caching-abstract">
+  <link rel="alternate" type="application/rss+xml" title="Distributed Systems Group - QCRI" href="http://ds-test.qcri.org/feed.xml">
+</head>
+
+  <body>
+    <nav class="c-navigation ">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item " href="/">QCRI-DS Group</a>
+    <a class="c-navigation__item " href="/people/">People</a>
+    <a class="c-navigation__item " href="/projects/">Projects</a>
+    <a class="c-navigation__item " href="/publications/">Publications</a>
+    <a class="c-navigation__item " href="/seminar/">Seminar</a>
+    <a class="c-navigation__item " href="/contact/">Contact Us</a>
+    <a class="c-navigation__item " href="/join/">Join Us</a>
+  </div>
+</nav>
+
+
+    <article class="c-article">
+  <header class="c-header c-article__header">
+    <div class="u-container">
+      <h1 class="c-header__title"><!--img src="/static/logo.png" width=191 height=116--> Seminar</h1>
+    </div>
+  </header>
+
+  <div class="c-article__main">
+    <h2 id="an-in-memory-object-caching-framework-with-adaptive-load-balancing">An In-Memory Object Caching Framework with Adaptive Load Balancing</h2>
+
+<h3 id="speaker">Speaker:</h3>
+
+<p><a href="http://people.cs.vt.edu/butta/">Dr. Ali R. Butt</a> (External)</p>
+
+<h3 id="abstract">Abstract:</h3>
+
+<p>The extreme latency and throughput requirements of modern big data and web applications are driving the use of distributed in-memory object caches such as Memcached. While extant caching systems scale-out seamlessly, their use in the cloud — with its unique cost and multi-tenancy dynamics — presents unique opportunities and design challenges.</p>
+
+<p>In this talk, I will introduce MBal, a high-performance in-memory object caching framework with adaptive Multi-phase load Balancing. Mbal supports not only horizontal (scale-out) but vertical (scale-up) scalability as well. Mbal is able to make efficient use of available resources in the cloud through its fine-grained, partitioned, lockless design. This design also lends itself naturally to provide adaptive load balancing both within a server and across the cache cluster through an event-driven, multi-phased load balancer. While individual load balancing approaches are being leveraged in in-memory caches, MBal goes beyond the extant systems and offers a holistic solution wherein the load balancing model tracks hotspots and applies different strategies based on imbalance severity – key replication, server-local or cross-server coordinated data migration. I will present results to show that compared to a state-of-the-art approach, MBal scales with number of cores and executes up to 12x more queries/second for GET and SET operations, respectively.</p>
+
+<h3 id="bio">Bio:</h3>
+
+<p>Ali received his Ph.D. degree in Electrical and Computer Engineering from Purdue University in 2006. Ali is a recipient of an NSF CAREER Award (2008), IBM Faculty Awards (2008, 2015), a VT College of Engineering (COE) Dean’s award for “Outstanding New Assistant Professor” (2009), an IBM Shared University Research Award (2009), and NetApp Faculty Fellowships (2011, 2015). Ali was named a VT COE Faculty Fellow in 2013. He has served as the Associate Editor for IEEE Transactions on Parallel and Distributed Systems (2013–present) and Sustainable Computing: Informatics and Systems (2010–present). He was selected to participate in National Academy of Engineering’s USFOE Symposium in 2009, USJFOE in 2012, Arab-American FOE in 2015, and also as an organizer for the USFOE in 2010. Ali’s research interests are in operating systems, distributed systems, file and storage systems, and cloud computing. At Virginia Tech. he leads the Distributed Systems &amp; Storage Laboratory.</p>
+
+
+  </div>
+</article>
+
+
+    <footer class="c-footer">
+  <div class="u-container c-footer__container">
+    <p><img src="/static/logo_hbku.jpg" height="200" width="200"></p>
+    <p>
+<a href="http://qcri.com" target="_blank">Qatar Computing Rerearch Institute</a></br></br>
+<a href="http://www.hbku.edu.qa/" target="_blank">Hamad Bin Khalifah University</a></br></br>
+HBKU - Reseach Complex</br></br>PO Box 5825</br></br>Qatar</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p>
+      </br></br></br>
+      <a href="https://github.com/Qatar-Computing-Research-Institute"><img src="/static/github.png" height="25" width="30"></a>
+      <a href="https://www.facebook.com/QCRI.QA"><img src="/static/facebook.png" height="25" width="30"></a>
+      <a href="https://twitter.com/QatarComputing"><img src="/static/twitter.png" height="30" width="30"></a>
+      <a href="http://www.youtube.com/user/QatarComputing"><img src="/static/youtube.png" height="22" width="30"></a>
+      <a href="https://www.linkedin.com/company/Qatar-Computing-Research-Institute"><img src="/static/linkedin.png" height="30" width="30"></a>
+      
+      
+    </p>
+  </div>
+</footer>
+
+  </body>
+</html>
