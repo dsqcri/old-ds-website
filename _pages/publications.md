@@ -57,7 +57,7 @@ permalink: /publications/
 
 * Mohamed Hefeeda. [Cloud Computing: Towards Making Computing a Utility.](http://link.springer.com/chapter/10.1007/978-3-319-19848-4_1) Intelligent Cloud Computing (**Springer**), June 2015. ([PDF](/publications/2014-hefeeda-springer.pdf))
 
-* Yazan Boshmaf, Dionysios Logothetis, Georgos Siganos, Jorge Lería, Jose Lorenzo, Matei Ripeanu, and Konstantin Beznosov. [Íntegro: Leveraging victim prediction for robust fake account detection in OSNs.]() In Proceedings of the International Symposium on Network and Distributed System Security (**NDSS**), February 2015. ([PDF](/publications/.pdf))
+* Yazan Boshmaf, Dionysios Logothetis, Georgos Siganos, Jorge Lería, Jose Lorenzo, Matei Ripeanu, and Konstantin Beznosov. [Íntegro: Leveraging victim prediction for robust fake account detection in OSNs.]() In Proceedings of the International Symposium on Network and Distributed System Security (**NDSS**), February 2015. ([PDF](/publications/2015-boshmaf-ndss.pdf))
 
 
 ### 2014
