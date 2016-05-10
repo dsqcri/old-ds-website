@@ -206,7 +206,7 @@ blockquote cite:before {
 }
 /* Links */
 a {
-	color: #7c4dff;
+	color: #FF8000;
 	word-wrap: break-word;
 	-webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
 	-moz-transition: color 0.1s ease-in, background 0.1s ease-in;
