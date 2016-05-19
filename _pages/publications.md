@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2016
 
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. [When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]() (**ICDE**), 2016 ([PDF](/publications/2016-nasir-icde.pdf))
+
 * Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2016 ([PDF](/publications/2015-aji-tpds.pdf))
 
 * Ahmed Hamza, and Mohamed Hefeeda. [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), May 2016 ([PDF](/publications/2016-hamza-mmsys.pdf))
@@ -45,13 +47,13 @@ permalink: /publications/
 
 * Ye Jin, Xiaosong Ma, Qing Liu, Mingliang Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky. [Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation.]() In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), June 2015. ([PDF](/publications/2015-jin-sigmetrics.pdf))
 
-* Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio Junqueira, and Christof Fetzer. [Scalable Error Isolation for Distributed Systems.]() In Proceedings of USENIX International Symposium on Networked Systems Design and Implementation (**NSDI**), May 2015. ([PDF](/publications/.pdf))
+* Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio Junqueira, and Christof Fetzer. [Scalable Error Isolation for Distributed Systems.]() In Proceedings of USENIX International Symposium on Networked Systems Design and Implementation (**NSDI**), May 2015. ([PDF](/publications/2015-behrens-nsdi.pdf))
 
 * Majed Sahli, Essam Mansour, Tariq Alturkestani, and Panos Kalnis. [Automatic Tuning of Bag-of-Tasks Applications.]() In Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), April 2015. ([PDF](/publications/2015-sahli-icde.pdf))
 
 * Mohammed Shatnawi and Mohamed Hefeeda. [Real-time Failure Prediction in Online Services.]() In Proceedings of the IEEE International Conference on Computer Communications (**INFOCOM**), April 2015. ([PDF](/publications/2015-shatnawi-infocom.pdf))
 
-* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, and Marco Serafini. [The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines.]() In Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), April 2015. ([PDF](/publications/.pdf))
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, and Marco Serafini. [The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines.]() In Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), April 2015. ([PDF](/publications/2015-nasir-icde.pdf))
 
 * Mohamed Hefeeda, Tarek Elgamal, Kiana Calagari, and Ahmed Abdelsadek. [Cloud-based Multimedia Content Protection System.]() IEEE Transactions on Multimedia (**TMM**), March 2015. ([PDF](/publications/2015-hefeeda-tmm.pdf))
 
@@ -70,7 +72,7 @@ permalink: /publications/
 
 * Majed Sahli, Essam Mansour, and Panos Kalnis. [ACME: A scalable parallel system for extracting frequent patterns from a very long sequence.]() Very Large Data Bases Journal (**VLDBJ**), October 2014. ([PDF](/publications/2014-majed-vldbj.pdf))
 
-* Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, and Umar Farooq Minhas. [Accordion: Elastic scalability for database systems supporting distributed transactions.]() In Proceedings of the Very Large Data Bases Endowment (**PVLDB**), September 2014. ([PDF](/publications/2014-marco-pvldb.pdf))
+* Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, and Umar Farooq Minhas. [Accordion: Elastic scalability for database systems supporting distributed transactions.]() In Proceedings of the Very Large Data Bases Endowment (**PVLDB**), September 2014. ([PDF](/publications/2014-marco-vldb.pdf))
 
 * Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. ElmoreΑ, Ashraf Aboulnaga, Andrew Pavlo, and Michael Stonebraker. [E-Store: Fine-Grained Elastic Partitioning for Distributed Transaction Processing Systems.]() In Proceedings of the Very Large Data Bases Endowment (**PVLDB**), September 2014. ([PDF](/publications/2014-taft-vldb.pdf))
 
@@ -97,9 +99,9 @@ permalink: /publications/
 
 * Majed Sahli, Essam Mansour and Panos Kalnis. [Parallel Motif Extraction from Very Long Sequences.]() In Proceedings of the ACM International Conference on Information and Knowledge Management (**CIKM**), November 2013. ([PDF](/publications/2013-sahli-acm.pdf))
 
-* Flavio Junqueira and Marco Serafini. [On Barriers and the Gap between Active and Passive Replication.]() In Proceedings of the International Symposium on Distributed Computing (**DISC**), October 2013. ([PDF](/publications/.pdf))
+* Flavio Junqueira and Marco Serafini. [On Barriers and the Gap between Active and Passive Replication.]() In Proceedings of the International Symposium on Distributed Computing (**DISC**), October 2013. ([PDF](/publications/2013-junqueira-disc.pdf))
 
-* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. [Piggybacking on social networks.]() In Proceedings of the International Conference on Very Large Data Bases (**VLDB**), August 2013. ([PDF](/publications/.pdf))
+* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. [Piggybacking on social networks.]() In Proceedings of the International Conference on Very Large Data Bases (**VLDB**), August 2013. ([PDF](/publications/2013-gionis-vldb.pdf))
 
 * Essam Mansour, Ahmed El-Roby, Aron Ahmadia, Panos Kalnis, and Ashraf Aboulnaga. [RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long Sequences.]() In Proceedings of the Very Large Data Bases Endowment (**PVLDB**), August 2013. ([PDF](/publications/2013-mansour-vldb.pdf))
 
