@@ -35,7 +35,7 @@ if [[ $username =~ ^[a-z]*$ ]]
 	git remote add -f origin https://github.com/dsqcri/dsqcri.github.io.git
 	echo "configuring spares checkout ..."
 	git config core.sparseCheckout true
-	echo "team/$username" >> .git/info/sparse-checkout
+	echo "people/$username" >> .git/info/sparse-checkout
 	echo "Getting $username page ..."
 	git pull origin master
 	if [ $? -ne 0 ]

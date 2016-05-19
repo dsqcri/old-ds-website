@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Dr. Georgos Siganos
-permalink: /peoplesiganos/
+permalink: /people/gsiganos/
 ---
-![gsiganos](/peoplesiganos/small.png)
-
+![gsiganos](/people/gsiganos/small.png)
 
 About you
 

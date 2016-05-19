@@ -1,9 +1,15 @@
 ---
 layout: page
 title: Dr. Gianmarco De Francisci Morales
+<<<<<<< HEAD
 permalink: /peoplemorales/
 ---
 ![gmorales](/peoplemorales/small.png)
+=======
+permalink: /people/gmorales/
+---
+![gmorales](/people/gmorales/small.png)
+>>>>>>> 1c7302907fc4f36e6c289af86f2fc10d30e582e3
 
 
 About you
