@@ -12,7 +12,7 @@ permalink: /publications/
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, Tim Berners-Lee. [A Demonstration of the Solid Platform for Social Web Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the World Wide Web Conference (**WWW**), 2016 ([PDF](/publications/2016-mansour-www.pdf))
 
-* L´aszl´o Gyarmati, Mohamed Hefeeda. [Analyzing In-Game Movements of Soccer Players at Scale.](), In Proceedings of MIT Sloan Sports Analytics Conference (****), March 2016 ([PDF](/publications/2016-gyarmati-sa.pdf))
+* L´aszl´o Gyarmati, Mohamed Hefeeda. [Analyzing In-Game Movements of Soccer Players at Scale.](), In Proceedings of MIT Sloan Sports Analytics Conference, March 2016 ([PDF](/publications/2016-gyarmati-sa.pdf))
 
 * Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu. [NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers InWeak Network Infrastructures](), In Proceedings of the Multimedia Modeling Conference (**MMM**), 2016 ([PDF](/publications/2016-shah-mmm.pdf))
 
