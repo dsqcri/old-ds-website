@@ -9,7 +9,7 @@ permalink: /people/anandoriya/
 About you
 
 ### Research Focus
-- Research interest 
+- Image Processing, Computer Vision 
 
 
 ### Previous Experience
