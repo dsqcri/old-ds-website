@@ -3,7 +3,7 @@ layout: page
 title: Dr. Mohamed Hefeeda
 permalink: /people/mhefeeda/
 ---
-![mhefeeda](/people/mhefeeda/small.png)
+![mhefeeda](/people/mhefeeda/hefeeda.jpg)
 
 I am a Principal Scientist in the Distributed Systems group at QCRI. 
 
