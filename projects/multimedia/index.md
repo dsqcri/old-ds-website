@@ -33,3 +33,6 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 - Piotr Didyk  
 - Alexandre Kaspar             
 - Wojciech Matusik
+
+## Datasets
+- [Obstruction Dataset](http://10.161.200.149:5000/fbsharing/WI6Cu4Ls)
