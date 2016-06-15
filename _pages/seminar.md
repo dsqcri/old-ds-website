@@ -14,7 +14,7 @@ permalink: /seminar/
 ||||||
 |Jun 8th (Wed)		|2D to 3D conversion for close-up soccer Highlights([Abstract](/seminars/2d-to-3d-soccer/))|[Anis Troudi]()|RDC (1st floor)|11:00-12:00|
 ||||||
-|Jun 1st (Wed)		|Shepherd: Improving Datacenter Efficiency through Partitioning-Aware Scheduling([Abstract](/seminars/shepherd/))|[Xu Ji]()|RDC (1st floor)|11:00-12:00|
+|Jun 1st (Wed)		|Shepherd: Improving Datacenter Efficiency through Partitioning-Aware Scheduling([Abstract](/seminars/shepherd))|[Xu Ji]()|RDC (1st floor)|11:00-12:00|
 ||||||
 |May 25th (Wed)		|NoSE: Schema Design for NoSQL Applications([Abstract](/seminars/schema-design/))|[Ashraf Aboulnaga]()|RDC (1st floor)|11:00-12:00|
 ||||||
