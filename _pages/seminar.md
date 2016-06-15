@@ -10,6 +10,12 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
+|Jun 15th (Wed)		|Risk scoring in car insurance([Abstract](/seminars/risk-scoring/))|[Rade Stanojevic]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Jun 8th (Wed)		|2D to 3D conversion for close-up soccer Highlights([Abstract](/seminars/2d-to-3d-soccer/))|[Anis Troudi]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Jun 1st (Wed)		|Shepherd: Improving Datacenter Efficiency through Partitioning-Aware Scheduling([Abstract](/seminars/shepherd/))|[Xu Ji]()|RDC (1st floor)|11:00-12:00|
+||||||
 |May 25th (Wed)		|NoSE: Schema Design for NoSQL Applications([Abstract](/seminars/schema-design/))|[Ashraf Aboulnaga]()|RDC (1st floor)|11:00-12:00|
 ||||||
 |May 19th (Wed)		|Mobile App Development, Options and Choices([Abstract](/seminars/mobile-app-development/))|[Abdurrahman Ghanem](/team/aghanem/)|RDC (1st floor)|11:00-12:00|

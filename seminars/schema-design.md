@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schema Design for NoSQL Applications
+title: NoSE: Schema Design for NoSQL Applications
 permalink: /seminars/schema-design/
 ---
 
