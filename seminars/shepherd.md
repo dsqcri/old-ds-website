@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shepherd: Improving Datacenter Efficiency through Partitioning-Aware Scheduling
-permalink: /seminars/shepherd
+permalink: /seminars/shepherd-cat/
 ---
 
 ## Shepherd: Improving Datacenter Efficiency through Partitioning-Aware Scheduling
