@@ -8,7 +8,7 @@ permalink: /seminars/schema-design/
 
 ### Speaker:
 
-[Ashraf Aboulnaga]
+[Ashraf Aboulnaga]()
 
 ### Abstract:
 
