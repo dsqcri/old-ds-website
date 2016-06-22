@@ -35,4 +35,4 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 - Wojciech Matusik
 
 ## Datasets
-- [Obstruction Dataset](http://qcrids2015xs.quickconnect.to/fbsharing/WI6Cu4Ls)
+- [Obstruction Dataset](http://ds.qcri.org/projects/multimedia/datasets/)
