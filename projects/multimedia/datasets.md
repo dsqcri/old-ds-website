@@ -17,4 +17,4 @@ Uses include testing reflection detection, localization and removing algorithms.
 
 ### Link
 - For a google sheet containing the separate videos and their tags check [here](https://docs.google.com/spreadsheets/d/1p-jHYvbh4AM6pu4S9KVjGg-roS7V-6Vy9L5zVw8H5Xs/edit?usp=sharing)
-- For a link to the folder containing all of the videos check [here](http://qcrids2015xs.tw.quickconnect.to/fbsharing/WfILt8BQ)
+- For a link to the folder containing all of the videos check [here](http://qcrids2015xs.quickconnect.to/fbsharing/XN2RvR82)
