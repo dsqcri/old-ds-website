@@ -6,7 +6,9 @@ permalink: /people/rstanojevic/
 ![rstanojevic](/people/rstanojevic/rstanojevic.jpg)
 
 
-Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCRI) since February 2016. Before joining QCRI he was a researcher in Telefonica Research where he worked on network economics, cellular networks and, most recently, on data mining for insurance. He has a PhD from Hamilton Institute, National University of Ireland. For the joint work with his PhD advisor, Robert Shorten, he was awarded Best paper award at IWQoS 2009 and Best student paper award at ACM SIGMETRICS 2008.
+Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCRI) since February 2016. Before joining QCRI he was a researcher in Telefonica Research where he worked on network economics, 
+cellular networks and data mining for insurance. He has a PhD from Hamilton Institute, National University of Ireland. For the joint work with his PhD advisor, Robert Shorten, 
+he was awarded Best paper award at IWQoS 2009 and Best student paper award at ACM SIGMETRICS 2008.
 
 ### Research Focus
 - Network and data economics
