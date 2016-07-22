@@ -16,7 +16,11 @@ Dr. Mansour delivered a complete course in Cloud Computing at KAUST. Additionall
 
 
 ### Research Focus
-Dr. Mansour’s research interests lie in cloud computing, parallel algorithms, decentralized graph data management, elastic OLTP and OLAP systems, mining and processing very large datasets.
+Dr. Mansour’s research interests lie in database systems and Web data management with focus on:
+
+- Web-scale information sharing
+- parallel and distributed algorithms
+- decentralized graph data management
 
 
 

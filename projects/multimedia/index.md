@@ -18,14 +18,14 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 - Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
 
 ## Publications
-- K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, “Gradient-based 2D-to-3D Conversion for Soccer Videos”, ACM Multimedia (MM’15), Brisbane, Australia, October 2015. 
+- K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, “Gradient-based 2D-to-3D Conversion for Soccer Videos”, ACM Multimedia (MM’15), Brisbane, Australia, October 2015.
 
 
 ## Team
 - Kiana Calagari                      
 - Anis Troudi
-- Ahmed Musleh
-- Omar Abu Sello
+- Ahmad Musleh
+- Omar Abou Selo
 - Ahmed Mamdouh
 - Ajay Nandoria
 - Mohamed Elgharib
@@ -33,3 +33,6 @@ A wide spread adoption of 3D stereoscopic television and the coming wave of virt
 - Piotr Didyk  
 - Alexandre Kaspar             
 - Wojciech Matusik
+
+## Datasets
+- [Obstruction Dataset](http://ds.qcri.org/projects/multimedia/datasets/)
