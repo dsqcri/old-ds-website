@@ -12,7 +12,7 @@ Laszlo is focusing on sport analytics, i.e., quantitative analysis of sports. In
 
 ### Current Project
 
-- [Sport Analytics](/projects/sportsanalytics/)
+- [Sport Analytics](/projects/sports/)
 
 ### Previous Experience
 
