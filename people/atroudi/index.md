@@ -10,12 +10,12 @@ Anis is working within distributed systems group on the 2D to 3D/immersive conte
 
 
 ### Previous Experience
-2014/2015: Software engineer in STMicroelectronics, developement of demo applications exploiting graphic interfaces (DMA2D, DSI) of STM32F4 MCUs.
+- 2014/2015: Software engineer in STMicroelectronics
 
 
 ### Education
-2014 - Engineer degree from Ecole Polytechnique de Tunisie
-2011 - First-Cycle University Degree from Tunis Preparatory Engineering Institute 
+- 2014 - Engineer degree from Ecole Polytechnique de Tunisie
+- 2011 - First-Cycle University Degree from Tunis Preparatory Engineering Institute 
 
 
 
