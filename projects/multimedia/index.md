@@ -33,13 +33,13 @@ In order to serve concurrent requests from several clients in real time, the ser
 
 ## Team
 - Kiana Calagari                      
-- Anis Troudi
+- [Anis Troudi](/people/atroudi/)
 - Ahmad Musleh
 - Omar Abou Selo
-- Ahmed Mamdouh
-- Ajay Nandoria
-- Mohamed Elgharib
-- Mohamed Hefeeda  
+- [Ahmed Mamdouh](/people/ahassanien/)
+- [Ajay Nandoria](/people/anandoriya/)
+- [Mohamed Elgharib](/people/melgharib/)
+- [Mohamed Hefeeda](/people/mhefeeda/)
 - Piotr Didyk  
 - Alexandre Kaspar             
 - Wojciech Matusik
