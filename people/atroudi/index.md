@@ -3,35 +3,19 @@ layout: page
 title: Anis Troudi
 permalink: /people/atroudi/
 ---
-![atroudi](/people/atroudi/small.png)
+![atroudi](/people/atroudi/anis.jpg)
 
 
-About you
-
-### Research Focus
-- Research interest 
+Anis is working within distributed systems group on the 2D to 3D/immersive content conversion project, his work focuses on improving the quality of the 2D to 3D/immersive content conversion on Football footage. He is also involved in deploying the system on a distributed online service and designing a mobile application for content visualization on Oculus GearVR.
 
 
 ### Previous Experience
-- Experience
-
-
-### Professional Experience
-- Experience
-
-
-### Patents
-- Patent1
+2014/2015: Software engineer in STMicroelectronics, developement of demo applications exploiting graphic interfaces (DMA2D, DSI) of STM32F4 MCUs.
 
 
 ### Education
-- Research interest 
-
-
-### Publication 
-1. Paper 1
-2. Paper 2
-3. Paper 2
+2014 - Engineer degree from Ecole Polytechnique de Tunisie
+2011 - First-Cycle University Degree from Tunis Preparatory Engineering Institute 
 
 
 
