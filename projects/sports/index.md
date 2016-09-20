@@ -35,6 +35,7 @@ qScout is a _quantitative football player scouting system_ developed by QCRI. It
 
 
 ## Publications
+- L. Gyarmati, R. Stanojevic: QPass: a Merit-based Evaluation of Soccer Passes, In. Proc. of KDD Workshop on Large-Scale Sports Analytics, San Francisco, USA, August 2016. [link](http://arxiv.org/abs/1608.03532)
 - L. Gyarmati, M. Hefeeda, Analyzing In-Game Movements of Soccer Players on Scale, In Proc. of MIT Sloan Sports Analytics Conference, Boston, USA, 2016. [link](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1487-Analyzing-In-Game-Movements-of-Soccer-Players-at-Scale.pdf)
 - L. Gyarmati, X. Anguera: Automatic Extraction of the Passing Strategies of Soccer Teams, In. Proc. of KDD Workshop on Large-Scale Sports Analytics, Sydney, Australia, August 2015. [link](http://arxiv.org/pdf/1508.02171v1.pdf)
 - L. Gyarmati, M. Hefeeda, Estimating the Maximal Speed of Soccer Players on Scale, In Proc. of Machine Learning and Data Mining for Sports Analytics Workshop, Porto, Portugal, September 2015. [link](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_7.pdf)
@@ -42,7 +43,7 @@ qScout is a _quantitative football player scouting system_ developed by QCRI. It
 
 ## Invited talks
 
-- Laszlo Gyarmati: Quantitative Player Scouting: from Datasets to Insights,FC Barcelona Sport Technology Symposium [link](http://www.fcbarcelona.com/club/detail/card/laszlo-gyarmati-phd)
+- Laszlo Gyarmati: Quantitative Player Scouting: from Datasets to Insights, FC Barcelona Sport Technology Symposium [link](http://www.fcbarcelona.com/club/detail/card/laszlo-gyarmati-phd)
 - Laszlo Gyarmati: Quantitative player selection: Which player fits into the team strategy? [link](http://konferenciak.advalorem.hu/u1-sport-data-analytics-summit/?lang=en#foldal)
 
 ## Media coverage
