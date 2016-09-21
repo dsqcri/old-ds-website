@@ -10,6 +10,14 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
+|Sep 21st (Wed)		|GraphQ: Distributed Graph Search via Subgraph Isomorphism([Abstract](/seminars/GraphQ/))|[Georgos Siganos]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Sep 7th (Wed)		|Community Detection within Social Networks([Abstract](/seminars/community-detection/))|[Eslam Hussein]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Jun 29th (Wed)		|Painting Style Transfer for Head Portraits using Convolutional Neural Networks([Abstract](/seminars/painting-style-transfer/))|[Mohamed Elgharib]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Jun 22th (Wed)		|Exploring the new world of Virtual Reality and Augmented Reality([Abstract](/seminars/exploring-virtual-reality/))|[Abdurrahman Ghanem]()|RDC (1st floor)|11:00-12:00|
+||||||
 |Jun 15th (Wed)		|Risk scoring in car insurance([Abstract](/seminars/risk-scoring/))|[Rade Stanojevic]()|RDC (1st floor)|11:00-12:00|
 ||||||
 |Jun 8th (Wed)		|2D to 3D conversion for close-up soccer Highlights([Abstract](/seminars/2d-to-3d-soccer/))|[Anis Troudi]()|RDC (1st floor)|11:00-12:00|
