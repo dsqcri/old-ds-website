@@ -6,7 +6,7 @@ description: >
 baseurl: ""
 url: "http://ds-test.qcri.org"
 fixedNav: 'false' # true or false
-theme: blue # green, blue, orange, purple, grey
+theme: grey # green, blue, orange, purple, grey
 twitterUsername: QatarComputing
 githubUsername: Qatar-Computing-Research-Institute
 facebookUsername: QCRI.QA
