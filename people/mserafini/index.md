@@ -97,10 +97,10 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 # Professional Service
 
-Marco has been or will be PC member of SOSP 2017, WWW 2017, VLDB 2017, Eurosys 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011
+I have been or will be PC member of SOSP 2017, WWW 2017, VLDB 2017, Eurosys 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011
 He is the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015
 
 # Awards
 
-Nominated for the “Best PhD Thesis of 2010” by the German, Swiss and Austrian Computer Science societies and the German chapter of ACM for PhD thesis titled “Efficient and Low-Cost Fault-Tolerance for Web-Based Systems”
+My PhD thesis was nominated for the “Best PhD Thesis of 2010” by the German, Swiss and Austrian Computer Science societies and the German chapter of ACM for PhD thesis titled “Efficient and Low-Cost Fault-Tolerance for Web-Based Systems”
 
