@@ -11,6 +11,7 @@ I work at the intersection of database systems and distributed systems.
 ## Current Projects
 
 I am currently involved in three projects: 
+
 * Arabesque, a system for distributed graph mining
 * E-Store, an elastic database management system
 * Olive, a strongly-consistent geo-replication middleware that avoids coordination in most scenarios
@@ -22,8 +23,9 @@ Arabesque is an open source system running on top of Giraph and (soon) Spark.
 Check out the project homepage at [arabesque.io](http://arabesque.io)
 
 **Papers:**
-*[SOSP'15](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) Carlos T. H. Teixeira, Alex J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga, *"Arabesque: A System for Distributed Graph Mining"*. ACM Symp. on Operating Systems Principles (SOSP) 2015
-*[In progress] Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"Pan: Distributed Graph Search for Hard Queries"*.
+
+* [SOSP'15](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) Carlos T. H. Teixeira, Alex J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga, *"Arabesque: A System for Distributed Graph Mining"*. ACM Symp. on Operating Systems Principles (SOSP) 2015
+* [In progress] Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"Pan: Distributed Graph Search for Hard Queries"*.
 
 
 ###  Database elasticity (Accordion, E-Store, Clay)
@@ -31,9 +33,10 @@ Check out the project homepage at [arabesque.io](http://arabesque.io)
 Cloud computing platforms gives the opportunity to reduce the hardware cost of running a database management system by dynamically add and remove servers from a distributed cluster according to load changes. In order to leverage this flexibility, applications need to be designed to be *elastic*, i.e., to transfer data and computation to and from servers whenever it is needed. Elastic databases abstract away the complexity of elasticity from applications. They are able to detect changes in load on-line and devise a data and load migration plan that can accomodate these changes. I have worked on three systems for database elasticity: *Accordion*, which partitions the database in small blocks and transfers them as needed based on online monitoring information, *E-Store*, which uses a two-tiered approach to identify and move hot tuples at very high granularity, and *Clay*, which extends E-Store to support arbitrary transactional access patterns involving multiple tuples.
 
 **Papers:**
-*[VLDB'14](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf) Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
-*[VLDB'15](http://www.vldb.org/pvldb/vol8/p245-taft.pdf) Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. "E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems". Int. Conf. on Very Large Data Bases (VLDB) 2015
-*[Under Submission] Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*.
+
+* [VLDB'14](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf) Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
+* [VLDB'15](http://www.vldb.org/pvldb/vol8/p245-taft.pdf) Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. "E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems". Int. Conf. on Very Large Data Bases (VLDB) 2015
+* [Under Submission] Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*.
 
 ## Previous Projects
 
