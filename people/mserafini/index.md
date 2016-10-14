@@ -8,29 +8,36 @@ permalink: /people/mserafini/
 
 I work at the intersection of database systems and distributed systems.
 
-### Current Projects
+## Current Projects
 
 I am currently involved in three projects: 
-- Arabesque, a system for distributed graph mining
-- E-Store, an elastic database management system
-- Olive, a strongly-consistent geo-replication middleware that avoids coordination in most scenarios
+* Arabesque, a system for distributed graph mining
+* E-Store, an elastic database management system
+* Olive, a strongly-consistent geo-replication middleware that avoids coordination in most scenarios
 
-##### Arabesque
+### Arabesque: A system for distributed graph mining
 Graph mining algorithms such as frequent subgraph mining, motif counting, or finding dense subgraphs, are powerful tools to extract interesting subgraphs from a large graph. They are very important for areas such as social networks, semantic web, and bioinformatics. However, they have high computational complexity, which is mainly due to the need for enumerating a huge number of subgraphs of the input graph. **Arabesque** is a system that helps programmers implement graph mining algorithms by abstracting away subgraph enumeration. It offers a simple functional API where application basically just have to specify a boolean *filter* function, which takes a subgraph as input and returns whether the subgraph is interesting. Arabesque also transparently distributes and optimizes the enumeration process across multiple servers running Hadoop. It keeps all its state in memory in order to avoid the cost of random accesses to disk.
 
 Arabesque is an open source system running on top of Giraph and (soon) Spark. 
 Check out the project homepage at [arabesque.io](http://arabesque.io)
 
-Papers:
-[SOSP'15]
-[in progress] GraphQ
+**Papers:**
+*[SOSP'15](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) Carlos T. H. Teixeira, Alex J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga, *"Arabesque: A System for Distributed Graph Mining"*. ACM Symp. on Operating Systems Principles (SOSP) 2015
+*[In progress] Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"Pan: Distributed Graph Search for Hard Queries"*.
 
 
-#####  E-Store
+###  Database elasticity (Accordion, E-Store, Clay)
 
-### Previous Projects
+Cloud computing platforms gives the opportunity to reduce the hardware cost of running a database management system by dynamically add and remove servers from a distributed cluster according to load changes. In order to leverage this flexibility, applications need to be designed to be *elastic*, i.e., to transfer data and computation to and from servers whenever it is needed. Elastic databases abstract away the complexity of elasticity from applications. They are able to detect changes in load on-line and devise a data and load migration plan that can accomodate these changes. I have worked on three systems for database elasticity: *Accordion*, which partitions the database in small blocks and transfers them as needed based on online monitoring information, *E-Store*, which uses a two-tiered approach to identify and move hot tuples at very high granularity, and *Clay*, which extends E-Store to support arbitrary transactional access patterns involving multiple tuples.
 
-##### ASC model 
+**Papers:**
+*[VLDB'14](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf) Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
+*[VLDB'15](http://www.vldb.org/pvldb/vol8/p245-taft.pdf) Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. "E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems". Int. Conf. on Very Large Data Bases (VLDB) 2015
+*[Under Submission] Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*.
+
+## Previous Projects
+
+### ASC model 
 
 Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he studied the problem of protecting large scale distributed systems from hardware data corruption, which is becoming more and more frequent in the newest generation of CPUs. Unreliable commodity servers are typically used to store data that is critical from an infrastructure viewpoint (e.g., configuration metadata), personal viewpoint (e.g., emails), or financial viewpoint (e.g., ad clicks and billing information). Critical systems like Google's Mesa, for example, detect corruption errors through application-specific replication techniques. I proposed a new formal model for Arbitrary State Corruption (ASC), which captures the essential aspects of data corruption faults in an application-independent manner. I used the model to develop PASC, a runtime library that can provably detect data corruption errors in any event-based distributed system without using replication.
 
@@ -38,12 +45,18 @@ Papers:
 
 [ATC'12] Defines the first
 
-##### Zookeeper 
+### Load balancing in distributed stream processing systems
+
+
+
+### Zookeeper replication protocol
 While at Yahoo! Research, I also worked on the formal analysis of the Zookeeper Atomic Broadcast (Zab) protocol. People often have a hard time understanding the difference between active replication protocols like Paxos, which exchange operations, and passive ones like Zab, which exchange state updates. I introduced the notion of barrier to provide a simple discrimination criteria.
 
 Finally, I developed social piggybacking, a technique to increase the throughput of social event feed systems by identifying central users that can relay information across neighborhoods. 
 
-##### Tolerance of 
+### Data placement 
+
+### Dealing with severe faults in replicated systems
 
 Marco received his PhD at TU Darmstadt. His thesis introduced the concept of Eventual Linearizability, a correctness condition for systems that are usually strongly consistent and degrade consistency only when necessary. It also introduced Scrooge, a fast Byzantine fault tolerant algorithm running on a small set of replicas.
 
