@@ -47,6 +47,8 @@ Distributed stream processing system allow running user-defined operators on an 
 
 * [N choices](http://ds.qcri.org/publications/2016-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. *"When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing."* IEEE Int. Conf. on Data Engineering (ICDE), 2016 (PDF)
 
+***
+
 # Previous Projects
 
 ### ASC model 
@@ -89,6 +91,7 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 * [Scrooge](https://dwaa80npcw0ml.cloudfront.net/app/media/2100): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, "Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas", IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
 
+***
 
 # Professional Services
 
