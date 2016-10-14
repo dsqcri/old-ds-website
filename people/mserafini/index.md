@@ -7,6 +7,8 @@ permalink: /people/mserafini/
 
 I am a Scientist at the Qatar Computing Research Institute, where I work at the intersection of database systems and distributed systems. Previously I was with the Yahoo! Research Barcelona lab ([R.I.P.](http://www.huffingtonpost.com/quora/what-went-wrong-with-yaho_b_9821176.html)).
 
+***
+
 # Current Projects
 
 I am currently involved in three projects: 
@@ -51,7 +53,7 @@ Distributed stream processing system allow running user-defined operators on an 
 
 # Previous Projects
 
-### ASC model 
+### ASC model (@ Yahoo!/QCRI)
 
 Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he studied the problem of protecting large scale distributed systems from hardware data corruption, which is becoming more and more frequent in the newest generation of CPUs. Unreliable commodity servers are typically used to store data that is critical from an infrastructure viewpoint (e.g., configuration metadata), personal viewpoint (e.g., emails), or financial viewpoint (e.g., ad clicks and billing information). Critical systems like Google's Mesa, for example, detect corruption errors through application-specific replication techniques. I proposed a new formal model for Arbitrary State Corruption (ASC), which captures the essential aspects of data corruption faults in an application-independent manner. I used the model to develop PASC, a runtime library that can provably detect data corruption errors in any event-based distributed system without using replication. SEI makes PASC more practical by supporting multiple threads, substantially eliminating memory overhead, and making it easier to transparently harden existing applications.
 
@@ -61,7 +63,7 @@ Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he stu
 * [SEI](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-behrens.pdf): Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio P. Junqueira, Christof Fetzer, *"Scalable error isolation for distributed systems".* USENIX Symp. on Networked Systems Design and Implementation (NSDI) 2015.
 
 
-### Zookeeper replication protocol
+### Zookeeper replication protocol (@ Yahoo!)
 
 [Zookeeper](http://zookeeper.apache.org) is a popular open-source system use to store metadata and to coordinate distributed systems. It is used by many products and open-source projects. While at Yahoo! Research, I also worked on the formal analysis of the Zookeeper Atomic Broadcast (Zab) protocol, which is at the heart of Zookeeper. People often have a hard time understanding the difference between active replication protocols like Paxos, which exchange operations, and passive ones like Zab, which exchange state updates. I introduced the notion of barrier to provide a simple discrimination criteria.
 
@@ -70,7 +72,7 @@ Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he stu
 * [Zab](http://deptinfo.unice.fr/twiki/pub/Minfo/DistributedAlgo/zab.pdf): F. Junqueria, B. Reed and M. Serafini. *“Zab: High-Performance Broadcast for Primary-Backup Systems”.* IEEE Int’l Conf. on Dependable Systems and Networks (DSN) 2011.
 * [Zab vs. Paxos explained](https://arxiv.org/pdf/1308.2979.pdf): Flavio P. Junqueira and Marco Serafini.  *"On Barriers and the Gap between Active and Passive Replication".*  Int. Symp. on Distributed Computing (DISC) 2013.
 
-### Data placement in social networking systems
+### Data placement in social networking systems (@ Yahoo!)
 
 At Yahoo! I also developed social piggybacking, a technique to increase the throughput of social event feed systems by identifying central users that can relay information across neighborhoods. 
 
@@ -79,7 +81,7 @@ At Yahoo! I also developed social piggybacking, a technique to increase the thro
 * [Social piggybacking](http://www.vldb.org/pvldb/vol6/p409-serafini.pdf): Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, Ingmar Weber. "Piggybacking on social networks". Int. Conf. on Very Large Data Bases (VLDB) 2013.
 
 
-### Dealing with severe faults in replicated systems
+### Dealing with severe faults in replicated systems (@ TUD)
 
 I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual Linearizability, a correctness condition for systems that are usually strongly consistent and degrade consistency only when necessary. It also introduced Scrooge, a fast Byzantine fault tolerant algorithm running on a small set of replicas.
 
