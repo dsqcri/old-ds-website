@@ -7,7 +7,7 @@ permalink: /people/mserafini/
 
 I am a Scientist at the Qatar Computing Research Institute, where I work at the intersection of database systems and distributed systems. Previously I was with the Yahoo! Research Barcelona lab ([R.I.P.](http://www.huffingtonpost.com/quora/what-went-wrong-with-yaho_b_9821176.html)).
 
-## Current Projects
+# Current Projects
 
 I am currently involved in three projects: 
 
@@ -47,7 +47,7 @@ Distributed stream processing system allow running user-defined operators on an 
 
 * [N choices](http://ds.qcri.org/publications/2016-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. *"When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing."* IEEE Int. Conf. on Data Engineering (ICDE), 2016 (PDF)
 
-## Previous Projects
+# Previous Projects
 
 ### ASC model 
 
@@ -90,12 +90,12 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 * [Scrooge](https://dwaa80npcw0ml.cloudfront.net/app/media/2100): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, "Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas", IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
 
 
-### Professional Services
+# Professional Services
 
 Marco has been or will be PC member of SOSP 2017, WWW 2017, VLDB 2017, Eurosys 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011
 He is the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015
 
-### Awards
+# Awards
 
 Nominated for the “Best PhD Thesis of 2010” by the German, Swiss and Austrian Computer Science societies and the German chapter of ACM for PhD thesis titled “Efficient and Low-Cost Fault-Tolerance for Web-Based Systems”
 
