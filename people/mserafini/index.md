@@ -47,7 +47,7 @@ Distributed stream processing system allow running user-defined operators on an 
 
 * [Both choices](http://ds.qcri.org/publications/2015-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, Marco Serafini, "The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines". IEEE Int. Conf. on Data Engineering (ICDE) 2015.
 
-* [N choices](http://ds.qcri.org/publications/2016-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. *"When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing."* IEEE Int. Conf. on Data Engineering (ICDE), 2016 (PDF)
+* [N choices](http://ds.qcri.org/publications/2016-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. *"When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing."* IEEE Int. Conf. on Data Engineering (ICDE), 2016
 
 ***
 
