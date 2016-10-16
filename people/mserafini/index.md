@@ -37,7 +37,7 @@ Cloud computing platforms gives the opportunity to reduce the hardware cost of r
 
 * [Accordion](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf): Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
 * [E-Store](http://www.vldb.org/pvldb/vol8/p245-taft.pdf): Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. "E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems". Int. Conf. on Very Large Data Bases (VLDB) 2015
-* [Clay](mailto:mserafini@qf.org.qa): Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*. Under submission.
+* [Clay](mailto:mserafini@qf.org.qa): Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*. Int. Conf. on Very Large Data Bases (VLDB) 2017
 
 ### Load balancing in distributed stream processing systems
 
@@ -97,10 +97,11 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 # Professional Service
 
-I have been or will be PC member of SOSP 2017, WWW 2017, VLDB 2017, Eurosys 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011
-He is the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015
+I have been or will be PC member of SOSP 2017, VLDB 2017, Eurosys 2017, WWW 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011.
+
+He is the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015.
 
 # Awards
 
-My PhD thesis was nominated for the “Best PhD Thesis of 2010” by the German, Swiss and Austrian Computer Science societies and the German chapter of ACM for PhD thesis titled “Efficient and Low-Cost Fault-Tolerance for Web-Based Systems”
+My PhD thesis was nominated for the “Best PhD Thesis of 2010” by the German, Swiss and Austrian Computer Science societies and the German chapter of ACM for PhD thesis titled “Efficient and Low-Cost Fault-Tolerance for Web-Based Systems”.
 
