@@ -57,7 +57,7 @@ Distributed stream processing system allow running user-defined operators on an 
 
 ### ASC model (@ Yahoo!/QCRI)
 
-Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he studied the problem of protecting large scale distributed systems from hardware data corruption, which is becoming more and more frequent in the newest generation of CPUs. Unreliable commodity servers are typically used to store data that is critical from an infrastructure viewpoint (e.g., configuration metadata), personal viewpoint (e.g., emails), or financial viewpoint (e.g., ad clicks and billing information). Critical systems like Google's Mesa, for example, detect corruption errors through application-specific replication techniques. I proposed a new formal model for Arbitrary State Corruption (ASC), which captures the essential aspects of data corruption faults in an application-independent manner. I used the model to develop PASC, a runtime library that can provably detect data corruption errors in any event-based distributed system without using replication. SEI makes PASC more practical by supporting multiple threads, substantially eliminating memory overhead, and making it easier to transparently harden existing applications.
+Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he studied the problem of protecting large scale distributed systems from hardware data corruption, which is expected to becoming more and more frequent in future generations of CPUs because of reduced geometry and voltage levels. Unreliable commodity servers are typically used to store data that is critical from an infrastructure viewpoint (e.g., configuration metadata), personal viewpoint (e.g., emails), or financial viewpoint (e.g., ad clicks and billing information). Critical systems like Google's Mesa, for example, detect corruption errors through application-specific replication techniques. I proposed a new formal model for Arbitrary State Corruption (ASC), which captures the essential aspects of data corruption faults in an application-independent manner. I used the model to develop PASC, a runtime library that can provably detect data corruption errors in any event-based distributed system without using replication. SEI makes PASC more practical by supporting multiple threads, substantially eliminating memory overhead, and making it easier to transparently harden existing applications.
 
 *Papers:*
 
@@ -76,7 +76,7 @@ Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he stu
 
 ### Data placement in social networking systems (@ Yahoo!)
 
-At Yahoo! I also developed social piggybacking, a technique to increase the throughput of social event feed systems by identifying central users that can relay information across neighborhoods. 
+At Yahoo! I also developed social piggybacking, a technique that uses graph mining techniques on social graphs to increase the throughput of social event feed systems. 
 
 *Papers:*
 
