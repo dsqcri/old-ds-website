@@ -47,7 +47,7 @@ Distributed stream processing system allow running user-defined operators on an 
 
 *Papers:*
 
-* [Both choices](http://ds.qcri.org/publications/2015-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, Marco Serafini, "The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines". IEEE Int. Conf. on Data Engineering (ICDE) 2015.
+* [Both choices](http://ds.qcri.org/publications/2015-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, Marco Serafini, *"The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines".* IEEE Int. Conf. on Data Engineering (ICDE) 2015.
 
 * [N choices](http://ds.qcri.org/publications/2016-nasir-icde.pdf): Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. *"When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing."* IEEE Int. Conf. on Data Engineering (ICDE), 2016
 
@@ -80,7 +80,7 @@ At Yahoo! I also developed social piggybacking, a technique that uses graph mini
 
 *Papers:*
 
-* [Social piggybacking](http://www.vldb.org/pvldb/vol6/p409-serafini.pdf): Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, Ingmar Weber. "Piggybacking on social networks". Int. Conf. on Very Large Data Bases (VLDB) 2013.
+* [Social piggybacking](http://www.vldb.org/pvldb/vol6/p409-serafini.pdf): Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, Ingmar Weber. *"Piggybacking on social networks".* Int. Conf. on Very Large Data Bases (VLDB) 2013.
 
 
 ### Dealing with severe faults in replicated systems (@ TUD)
@@ -89,11 +89,11 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 *Papers:*
 
-* [Eventual linearizability](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/aurora.pdf): M. Serafini, D. Dobre, M. Majuntke, P. Bokor and N. Suri, “Eventually Linearizable Shared Objects”,ACM Symp on Principles of Distributed Computing (PODC), 2010.
+* [Eventual linearizability](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/aurora.pdf): M. Serafini, D. Dobre, M. Majuntke, P. Bokor and N. Suri, *“Eventually Linearizable Shared Objects”.* ACM Symp on Principles of Distributed Computing (PODC), 2010.
 
-* [Applications of EL](https://dwaa80npcw0ml.cloudfront.net/app/media/3684): Marco Serafini and Flavio Junqueira. "Weak Consistency as a Last Resort". Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
+* [Applications of EL](https://dwaa80npcw0ml.cloudfront.net/app/media/3684): Marco Serafini and Flavio Junqueira. *"Weak Consistency as a Last Resort".* Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
 
-* [Scrooge](https://dwaa80npcw0ml.cloudfront.net/app/media/2100): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, "Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas", IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
+* [Scrooge](https://dwaa80npcw0ml.cloudfront.net/app/media/2100): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, *"Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas".* IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
 
 ***
 
