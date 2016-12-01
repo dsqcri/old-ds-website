@@ -67,7 +67,7 @@ Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he stu
 
 ### Zookeeper replication protocol (@ Yahoo!)
 
-[Zookeeper](http://zookeeper.apache.org) is a popular open-source system use to store metadata and to coordinate distributed systems. It is used by many products and open-source projects. While at Yahoo! Research, I also worked on the formal analysis of the Zookeeper Atomic Broadcast (Zab) protocol, which is at the heart of Zookeeper. People often have a hard time understanding the difference between active replication protocols like Paxos, which exchange operations, and passive ones like Zab, which exchange state updates. I introduced the notion of barrier to provide a simple discrimination criteria.
+[Zookeeper](http://zookeeper.apache.org) is a popular open-source system use to store metadata and to coordinate distributed systems. It is used by many products and open-source projects. While at Yahoo! Research, I also worked on the Zookeeper Atomic Broadcast (Zab) protocol, which is at the heart of Zookeeper. People often have a hard time understanding the difference between active replication protocols like Paxos, which exchange operations, and passive ones like Zab, which exchange state updates. I introduced the notion of barrier to provide a simple discrimination criteria.
 
 *Papers:*
 
