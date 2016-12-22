@@ -91,9 +91,9 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 * [Eventual linearizability](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/aurora.pdf): M. Serafini, D. Dobre, M. Majuntke, P. Bokor and N. Suri, *“Eventually Linearizable Shared Objects”.* ACM Symp on Principles of Distributed Computing (PODC), 2010.
 
-* [Applications of EL](https://dwaa80npcw0ml.cloudfront.net/app/media/3684): Marco Serafini and Flavio Junqueira. *"Weak Consistency as a Last Resort".* Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
+* [Applications of EL](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/serafini_LADIS_2010.pdf): Marco Serafini and Flavio Junqueira. *"Weak Consistency as a Last Resort".* Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
 
-* [Scrooge](https://dwaa80npcw0ml.cloudfront.net/app/media/2100): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, *"Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas".* IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
+* [Scrooge](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.614.4376&rep=rep1&type=pdf): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, *"Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas".* IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
 
 ***
 
