@@ -6,7 +6,7 @@ permalink: /people/abghanem/
 ![abghanem](/people/abghanem/abdu.jpg)
 
 
-Abdurrahman Ghanem is a Software Engineer working on the design and implementation of a new social decentralized architecture for the web ([The Crosscloud Project](/projects/crosscloud/)). He has been working on game design and development and mobile application development for more than 6 years.
+Abdurrahman Ghanem is a Software Engineer working on the design and implementation of a new social decentralized architecture for the web ([The Crosscloud Project](/projects/crosscloud/)), also named [Solid](https://solid.mit.edu/). He has been working on game design and development and mobile application development for more than 6 years.
 
 Abdurrahman obtained his BS.c in computer and systems engineering from Alexandria University in 2008.
 
