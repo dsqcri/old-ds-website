@@ -3,7 +3,7 @@ layout: page
 title: Abdurrahman Ghanem
 permalink: /people/abghanem/
 ---
-![aghanem](/people/abghanem/abdu.jpg)
+![abghanem](/people/abghanem/abdu.jpg)
 
 
 Abdurrahman Ghanem is a Software Engineer working on the design and implementation of a new social decentralized architecture for the web ([The Crosscloud Project](/projects/crosscloud/)). He has been working on game design and development and mobile application development for more than 6 years.
