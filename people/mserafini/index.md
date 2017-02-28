@@ -71,7 +71,7 @@ Prior to joining QCRI, Marco worked at Yahoo! Research in Barcelona where he stu
 
 *Papers:*
 
-* [Zab](http://deptinfo.unice.fr/twiki/pub/Minfo/DistributedAlgo/zab.pdf): F. Junqueria, B. Reed and M. Serafini. *“Zab: High-Performance Broadcast for Primary-Backup Systems”.* IEEE Int’l Conf. on Dependable Systems and Networks (DSN) 2011.
+* [Zab](file:zab.pdf): F. Junqueria, B. Reed and M. Serafini. *“Zab: High-Performance Broadcast for Primary-Backup Systems”.* IEEE Int’l Conf. on Dependable Systems and Networks (DSN) 2011.
 * [Zab vs. Paxos explained](https://arxiv.org/pdf/1308.2979.pdf): Flavio P. Junqueira and Marco Serafini.  *"On Barriers and the Gap between Active and Passive Replication".*  Int. Symp. on Distributed Computing (DISC) 2013.
 
 ### Data placement in social networking systems (@ Yahoo!)
@@ -89,11 +89,11 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 *Papers:*
 
-* [Eventual linearizability](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/aurora.pdf): M. Serafini, D. Dobre, M. Majuntke, P. Bokor and N. Suri, *“Eventually Linearizable Shared Objects”.* ACM Symp on Principles of Distributed Computing (PODC), 2010.
+* [Eventual linearizability](file:eventual-linearizability.pdf): M. Serafini, D. Dobre, M. Majuntke, P. Bokor and N. Suri, *“Eventually Linearizable Shared Objects”.* ACM Symp on Principles of Distributed Computing (PODC), 2010.
 
-* [Applications of EL](https://www.deeds.informatik.tu-darmstadt.de/fileadmin/user_upload/GROUP_DEEDS/Publications/marco/serafini_LADIS_2010.pdf): Marco Serafini and Flavio Junqueira. *"Weak Consistency as a Last Resort".* Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
+* [Applications of EL](file:EL-ladis.pdf): Marco Serafini and Flavio Junqueira. *"Weak Consistency as a Last Resort".* Workshop on Large-Scale Distributed Systems and Middleware (LADIS) 2010.
 
-* [Scrooge](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.614.4376&rep=rep1&type=pdf): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, *"Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas".* IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
+* [Scrooge](file:scrooge): M. Serafini, P. Bokor, D. Dobre, M. Majuntke, and N. Suri, *"Scrooge: Reducing the cost of fast Byzantine replication in presence of unresponsive replicas".* IEEE Int. Conf. on Dependable Systems and Networks (DSN), 2010.
 
 ***
 
