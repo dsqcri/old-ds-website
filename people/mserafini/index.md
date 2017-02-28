@@ -39,7 +39,7 @@ The project was a collaboration with Michael Stonebraker's group at MIT.
 
 * [Accordion](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf): Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
 * [E-Store](http://www.vldb.org/pvldb/vol8/p245-taft.pdf): Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. *"E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems".* Int. Conf. on Very Large Data Bases (VLDB) 2015
-* [Clay](mailto:mserafini@qf.org.qa): Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*. Int. Conf. on Very Large Data Bases (VLDB) 2017
+* [Clay](clay.pdf): Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*. Int. Conf. on Very Large Data Bases (VLDB) 2017
 
 ### Load balancing in distributed stream processing systems
 
