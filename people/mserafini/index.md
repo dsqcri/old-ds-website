@@ -101,22 +101,6 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 I have been or will be PC member of VLDB 2018, ICDE 2018, SOSP 2017, VLDB 2017, Eurosys 2017, WWW 2017, DSN 2017, IC2E 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011.
 
-SOSP: 2017
-Eurosys: 2017, 2016
-VLDB: 2018, 2017
-SIGMOD: 2016 (demo)
-ICDE: 2018, 2016
-WWW: 2017, 2015
-ICDCS: 2016, 2015
-DSN: 2017
-SRDS: 2016, 2015
-IC2E: 2017, 2016
-OPODIS: 2014
-SSS: 2014
-Middleware: 2012
-EDCC: 2012
-SOFSEM: 2011
-
 I was the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015.
 
 # Awards
