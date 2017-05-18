@@ -135,7 +135,7 @@ A complete list of my publications is available at [DBLP](http://dblp.uni-trier.
 
 - Essam Mansour, Ibrahim Abdelaziz, Mourad Ouzzani, Ashraf Aboulnaga, Panos Kalnis. [A Demonstration of Lusail – Querying Linked Data at Scale](/people/emansour/paper/p1603-mansour.pdf). The International Conference on Management of Data  (SIGMOD), 2017.
 
-- Ibrahim Abdelaziz, Essam Mansour, Mourad Ouzzani, Ashraf Aboulnaga, Panos Kalnis. [Query Optimizations Over Decentralized RDF Graphs](/people/emansour/paper/p1603-mansour.pdf). IEEE International Conference on Data Engineering (ICDE), 2017.
+- Ibrahim Abdelaziz, Essam Mansour, Mourad Ouzzani, Ashraf Aboulnaga, Panos Kalnis. [Query Optimizations Over Decentralized RDF Graphs](/people/emansour/paper/icde17_lusail_poster.pdf). IEEE International Conference on Data Engineering (ICDE), 2017.
 
 - Raul Castro Fernandez, Dong Deng, Essam Mansour, Abdulhakim Qahtan, Ziawasch Abedjan, Ahmed Elmagarmid, Ihab F. Ilyas, Samuel Madden, Mourad Ouzzani, Michael Stonebraker, Nan Tang. [A Demo of the Data Civilizer System](/people/emansour/paper/p1639-castro-fernandez.pdf). The International Conference on Management of Data  (SIGMOD), 2017.
 
