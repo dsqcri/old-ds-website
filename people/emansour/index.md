@@ -145,7 +145,7 @@ A complete list of my publications is available at [DBLP](http://dblp.uni-trier.
 
 ## Technical Reports 
 
-- Majed Sahli, Essam Mansour, Panos Kalnis: [A Query Language for Large String Processing]. Technical Report. [PDF](StarQL-TR-201744.pdf)
+- Majed Sahli, Essam Mansour, Panos Kalnis: [A Query Language for Large String Processing](/people/emansour/paper/StarQL-TR-201744.pdf). Technical Report.
 
 
-- Andrei Vlad Sambra, Essam Mansour, Sandro Hawke, Maged Zereba, Nicola Greco, Abdur- rahman Ghanem, Dmitri Zagidulin, Ashraf Aboulnaga, Tim Berners-Lee: Solid: A Platform for Decentralized Social Applications Based on Linked Data. Technical Report. [PDF](/people/emansour/paper/solid_protocols.pdf)
+- Andrei Vlad Sambra, Essam Mansour, Sandro Hawke, Maged Zereba, Nicola Greco, Abdur- rahman Ghanem, Dmitri Zagidulin, Ashraf Aboulnaga, Tim Berners-Lee. [Solid: A Platform for Decentralized Social Applications Based on Linked Data](/people/emansour/paper/solid_protocols.pdf). Technical Report.
