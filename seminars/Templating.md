@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Templating in Personal Information Management : A Graph-Based Object-Oriented Model
+title: Templating in Personal Information Management; A Graph-Based Object-Oriented Model
 permalink: /seminars/Templating/
 date: February 22, 2017
 ---
 
-## Templating in Personal Information Management : A Graph-Based Object-Oriented Model
+## Templating in Personal Information Management: A Graph-Based Object-Oriented Model
 
 
 ### Speaker:
