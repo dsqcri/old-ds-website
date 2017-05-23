@@ -1,6 +1,6 @@
 ---
 layout: page
-title : GridGraph and Gemini: Scale-Up and Scale-Out Graph Processing
+title : GridGraph and Gemini\: Scale-Up and Scale-Out Graph Processing
 permalink: /seminars/GridGraph_Gemini/
 date: March 22, 2017
 ---
