@@ -2,6 +2,7 @@
 layout: page
 title: Arabesque In Action: Graph Mining Applications
 permalink: /seminars/ArabesqueInAction/
+date: February 01, 2017
 ---
 
 ## Arabesque In Action: Graph Mining Applications
