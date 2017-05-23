@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Securing IoT Platforms: Systematic Analysis and Design
+title : Securing IoT Platforms - Systematic Analysis and Design
 permalink: /seminars/SecuringIoTPlatforms/
 date: February 15, 2017
 ---
