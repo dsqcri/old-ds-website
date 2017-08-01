@@ -6,44 +6,95 @@ permalink: /publications/
 
 ### 2016
 
-* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini. [When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]() (**ICDE**), 2016 ([PDF](/publications/2016-nasir-icde.pdf))
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini.
+[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]()
+*IEEE International Conference on Data Engineering (ICDE)*,
+2016
+([PDF](/publications/2016-nasir-icde.pdf))
 
-* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, Rajeev Thakur. [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]() IEEE Trans. Parallel Distrib. Sys. (**PDS**), 2016 ([PDF](/publications/2015-aji-tpds.pdf))
+* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
+[MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]()
+*IEEE Trans. Parallel Distrib. Sys. (PDS)*,
+2016
+([PDF](/publications/2015-aji-tpds.pdf))
 
-* Ahmed Hamza, and Mohamed Hefeeda. [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), May 2016 ([PDF](/publications/2016-hamza-mmsys.pdf))
+* Ahmed Hamza and Mohamed Hefeeda.
+[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]()
+*ACM International Conference on Multimedia Systems (MMSys)*,
+2016
+([PDF](/publications/2016-hamza-mmsys.pdf))
 
-* Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, Tim Berners-Lee. [A Demonstration of the Solid Platform for Social Web Applications](/team/aghanem/papers/WWW16-solid-Demo-2.pdf), In Proceedings of the World Wide Web Conference (**WWW**), 2016 ([PDF](/publications/2016-mansour-www.pdf))
+* Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
+[A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529)
+*Demonstration at the International Conference on World Wide Web (WWW)*,
+2016
+([PDF](/publications/2016-mansour-www.pdf))
 
-* L´aszl´o Gyarmati, Mohamed Hefeeda. [Analyzing In-Game Movements of Soccer Players at Scale.](), In Proceedings of MIT Sloan Sports Analytics Conference, March 2016 ([PDF](/publications/2016-gyarmati-sa.pdf))
+* Laszlo Gyarmati and Mohamed Hefeeda.
+[Analyzing In-Game Movements of Soccer Players at Scale.](),
+*MIT Sloan Sports Analytics Conference*,
+2016
+([PDF](/publications/2016-gyarmati-sa.pdf))
 
-* Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu. [NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers InWeak Network Infrastructures](), In Proceedings of the Multimedia Modeling Conference (**MMM**), 2016 ([PDF](/publications/2016-shah-mmm.pdf))
+* Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu.
+[NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers InWeak Network Infrastructures](),
+*Multimedia Modeling Conference (MMM)*,
+2016
+([PDF](/publications/2016-shah-mmm.pdf))
 
 
 ### 2015
 
-* Yunyun Jiang, Xiaosong Ma, Wenguang Chen. [Cost-Effective Resource Configuration for Cloud Video Streaming Services.]() ICPADS, 2015 ([PDF](/publications/2015-jiang-icpads.pdf))
+* Yunyun Jiang, Xiaosong Ma, and Wenguang Chen.
+[Cost-Effective Resource Configuration for Cloud Video Streaming Services.](),
+*International Conference on Parallel and Distributed Systems (ICPADS)*,
+2015
+([PDF](/publications/2015-jiang-icpads.pdf))
 
-* Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan. [Database High Availability Using SHADOW Systems.]() In Proceedings of the ACM Symposium on Cloud Computing (**SoCC**), 2015 (**Best paper award**) ([PDF](/publications/2015-kim-acmsocc15.pdf))
+* Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan.
+[Database High Availability Using SHADOW Systems.](https://doi.org/10.1145/2806777.2806841)
+*ACM Symposium on Cloud Computing (SoCC)*,
+2015
+(**Best paper award**)
+([PDF](/publications/2015-kim-acmsocc15.pdf))
 
-* Majed Sahli, Essam Mansour, Panos Kalnis. [StarDB: A Large-Scale DBMS for Strings.]() The Proceedings of the VLDB Endowment (**VLDB**), 2015. ([PDF](/publications/2015-sahli-vldb.pdf))
+* K. Calagari, M. Elgharib, A. Kaspar, W. Matusik, and M. Hefeeda.
+[Gradient-based 2D-to-3D Conversion for Soccer Videos](), 
+*ACM Multimedia Conference (MM)*,
+2015
+([PDF](/publications/2015-calagari-mm.pdf))
 
-* K. Calagari, M. Elgharib, A. Kaspar, W. Matusik, M. Hefeeda, [Gradient-based 2D-to-3D Conversion for Soccer Videos](), In Proc. of ACM Multimedia (**MM**) Conference, Brisbane, Australia, October 2015. ([PDF](/publications/2015-calagari-mm.pdf))
-
-* M. Shatnawi, M. Hefeeda, [Enhancing the Quality of Interactive Multimedia Services by Proactive Monitoring and Failure Prediction](), In Proc. of ACM Multimedia (**MM**) Conference, Brisbane, Australia, October 2015. ([PDF](/publications/2015-shatnawi-mm.pdf))
+* M. Shatnawi and M. Hefeeda.
+[Enhancing the Quality of Interactive Multimedia Services by Proactive Monitoring and Failure Prediction](),
+*ACM Multimedia Conference (MM)*,
+2015
+([PDF](/publications/2015-shatnawi-mm.pdf))
 
 * H. Hong, S. Wang, C. Tan, T. El-Ganainy, K. Harras, C. Hsu, M. Hefeeda, [Challenged Content Delivery Network: Eliminating the Digital Divide](), In Proc. of ACM Multimedia (**MM**) Conference, Demo, Brisbane, Australia, October 2015. ([PDF](/publications/2015-hong-mm.pdf))
 
-* Carlos H. C. Teixeira, Alexandre J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga. [Arabesque: A System for Distributed Graph Mining](). In Proceedings of the ACM Symposium on Operating Systems Principles (**SOSP**), October 2015. ([PDF](/publications/2015-teixeira-sosp.pdf))
+* Carlos H. C. Teixeira, Alexandre J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, and Ashraf Aboulnaga. 
+[Arabesque: A System for Distributed Graph Mining](https://doi.org/10.1145/2815400.2815410),
+*ACM Symposium on Operating Systems Principles (SOSP)*,
+2015
+([PDF](/publications/2015-teixeira-sosp.pdf))
 
 * L. Gyarmati, M. Hefeeda. [Estimating the Maximal Speed of Soccer Players on Scale](), In Proc. of Machine Learning and Data Mining for Sports Analytics Workshop, Porto, Portugal, September 2015. ([PDF](/publications/2015-gyarmati-mlsa.pdf))
 
 * L. Gyarmati, X. Anguera. [Automatic Extraction of the Passing Strategies of Soccer Teams](), In. Proc. of KDD Workshop on Large-Scale Sports Analytics, Sydney, Australia, August 2015. ([PDF](/publications/2015-gyarmati-kdd.pdf))
 
-* Ahmed El-Roby and Ashraf Aboulnaga. [ALEX: Automatic Link Exploration in Linked Data](). In Proceedings of the ACM International Conference on Management of Data (**SIGMOD**), June 2015. ([PDF](/publications/2015-elroby-sigmod.pdf))
+* Ahmed El-Roby and Ashraf Aboulnaga.
+[ALEX: Automatic Link Exploration in Linked Data](https://doi.org/10.1145/2723372.2749428).
+*ACM International Conference on Management of Data (SIGMOD)*,
+2015
+([PDF](/publications/2015-elroby-sigmod.pdf))
 
 * Mohamed ElGharib, Mohamed Hefeeda, Frédo Durand, and William Freeman. [Video Magnification in Presence of Large Motions.]() In Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), June 2015. ([PDF](/publications/2015-elgharib-cvpr.pdf))
 
-* Tarek Elgamal, Maysam Yabandeh, Ashraf Aboulnaga, Waleed Mustafa, and Mohamed Hefeeda. [sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms.]() In Proceedings of the ACM International Conference on Management of Data (**SIGMOD**), June 2015. ([PDF](/publications/2015-elgamal-sigmod.pdf))
+* Tarek Elgamal, Maysam Yabandeh, Ashraf Aboulnaga, Waleed Mustafa, and Mohamed Hefeeda.
+[sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms.](https://doi.org/10.1145/2723372.2751520) 
+*ACM International Conference on Management of Data (SIGMOD)*,
+2015
+([PDF](/publications/2015-elgamal-sigmod.pdf))
 
 * Ye Jin, Xiaosong Ma, Qing Liu, Mingliang Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky. [Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation.]() In Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), June 2015. ([PDF](/publications/2015-jin-sigmetrics.pdf))
 
