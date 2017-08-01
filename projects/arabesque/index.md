@@ -20,16 +20,19 @@ Benefits of Arabesque:
 - Designed for Hadoop. Runs as an Apache Giraph Job.
 - Open-Source with Apache 2.0 license.
 
-## Demo (optional)
+## Demo
 - [http://arabesque.io](http://arabesque.io)
 
 
-## publications
-- Check our SOSP 2015 [paper](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) that describe the system.
+## Publications
+- Check our SOSP 2015 [paper](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf) that describes the system
+and our [demo paper](http://dl.acm.org/citation.cfm?doid=3035918.3058742) in SIGMOD 2017.
 
 
 ## Team
-- Marco Serafini
-- Gianmarco De Francisci Morales
 - Ashraf Aboulnaga
+- Gianmarco De Francisci Morales
+- Abdurrahman Ghanem
+- Eslam Hussein
+- Marco Serafini
 - Georgos Siganos
