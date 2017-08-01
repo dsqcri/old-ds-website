@@ -22,9 +22,13 @@ permalink: /people/
 
 - [Marco Serafini](/people/mserafini), Scientist
 
+- Lolwa Al Maadid, Software Engineer -- on study leave
+
 - [Abdurrahman Ghanem](/people/abghanem), Software Engineer
 
 - Nosayba El-Sayed, Postdoctoral Researcher (joint postdoc with MIT-CSAIL)
+
+- Meshaal Al Saffar, Research Associate -- on study leave 
 
 - Ahmed Hassanien, Research Associate
 
