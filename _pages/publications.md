@@ -6,17 +6,17 @@ permalink: /publications/
 
 ### 2016
 
-* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini.
-[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]()
-*IEEE International Conference on Data Engineering (ICDE)*,
-2016
-([PDF](/publications/2016-nasir-icde.pdf))
-
 * Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
 [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]()
 *IEEE Trans. Parallel Distrib. Sys. (PDS)*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
+
+* Laszlo Gyarmati and Mohamed Hefeeda.
+[Analyzing In-Game Movements of Soccer Players at Scale.](),
+*MIT Sloan Sports Analytics Conference*,
+2016
+([PDF](/publications/2016-gyarmati-sa.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda.
 [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]()
@@ -30,11 +30,11 @@ permalink: /publications/
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
 
-* Laszlo Gyarmati and Mohamed Hefeeda.
-[Analyzing In-Game Movements of Soccer Players at Scale.](),
-*MIT Sloan Sports Analytics Conference*,
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini.
+[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]()
+*IEEE International Conference on Data Engineering (ICDE)*,
 2016
-([PDF](/publications/2016-gyarmati-sa.pdf))
+([PDF](/publications/2016-nasir-icde.pdf))
 
 * Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu.
 [NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers InWeak Network Infrastructures](),
