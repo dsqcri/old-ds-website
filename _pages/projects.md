@@ -7,8 +7,6 @@ permalink: /projects/
 
 - [Arabesque](/projects/arabesque/)
 
-- [Crosscloud](/projects/crosscloud/)
-
 - [Multimedia](/projects/multimedia/)
      
 - [Sports Analytics](/projects/sports/)
@@ -18,3 +16,4 @@ permalink: /projects/
 
 ## Past Projects
 
+- [Crosscloud](/projects/crosscloud/)
