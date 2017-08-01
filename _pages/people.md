@@ -48,11 +48,14 @@ permalink: /people/
 - Mohamed Hefeeda, Principal Scientist -- to Professor, Simon Fraser University
 - Omar Alrawi, Senior Software Engineer -- to PhD Student, Georgia Tech
 - Mingliang Liu, Research Associate -- to Amazon, Palo Alto
-- Kareem El Gebaly, Research Associate -- to PhD Student, University of Waterloo
-- Ahmed El-Roby, Research Associate -- to PhD Student, University of Waterloo
+- Alexandre Fonseca, Research Associate 
 - Tarek El Gamal, Software Engineer, -- to PhD Student, University of Illinois at Urbana-Champaign
 - Kiana Calagari, Research Associate -- to PhD Student, Simon Fraser University
 - Tarek Elganainy, Research Associate -- to PhD Student, Simon Fraser University
+- Muhammad Zeeshan Munir, Senior Software Engineer
+- Kareem El Gebaly, Research Associate -- to PhD Student, University of Waterloo
+- Ahmed El-Roby, Research Associate -- to PhD Student, University of Waterloo
+- Ye Jin, Research Associate
 - Yehia Zakaria Rabei, Research Associate -- to PhD Student, Queen's University
 - Khaled M. Diab, Research Associate -- to PhD Student, Simon Fraser University
 - Safdar Kureishy, Software Engineer
