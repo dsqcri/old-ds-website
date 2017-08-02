@@ -3,18 +3,18 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 ## Current Projects
 
 - [Arabesque](/projects/arabesque/)
 
-- [Crosscloud](/projects/crosscloud/)
-
-- [Multimedia](/projects/multimedia/)
-     
-- [Sports Analytics](/projects/sports/)
-  
 - [Uberun](/projects/uberun/)
 
+- [Immersive Video Generation](/projects/multimedia/)
+     
+- [Sports Analytics](/projects/sports/)
 
+ 
 ## Past Projects
 
+- [Crosscloud](/projects/crosscloud/)
