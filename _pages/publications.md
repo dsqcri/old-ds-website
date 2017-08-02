@@ -7,13 +7,13 @@ permalink: /publications/
 ### 2016
 
 * Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
-[MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]()
+[MPI-ACC: Accelerator-Aware MPI for Scientific Applications,](https://doi.org/10.1109/TPDS.2015.2446479)
 *IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
 
 * Laszlo Gyarmati and Mohamed Hefeeda.
-[Analyzing In-Game Movements of Soccer Players at Scale.](),
+[Analyzing In-Game Movements of Soccer Players at Scale,](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1487-Analyzing-In-Game-Movements-of-Soccer-Players-at-Scale.pdf),
 *MIT Sloan Sports Analytics Conference*,
 2016
 ([PDF](/publications/2016-gyarmati-sa.pdf))
@@ -80,7 +80,10 @@ permalink: /publications/
 
 * L. Gyarmati, M. Hefeeda. [Estimating the Maximal Speed of Soccer Players on Scale](), In Proc. of Machine Learning and Data Mining for Sports Analytics Workshop, Porto, Portugal, September 2015. ([PDF](/publications/2015-gyarmati-mlsa.pdf))
 
-* L. Gyarmati, X. Anguera. [Automatic Extraction of the Passing Strategies of Soccer Teams](), In. Proc. of KDD Workshop on Large-Scale Sports Analytics, Sydney, Australia, August 2015. ([PDF](/publications/2015-gyarmati-kdd.pdf))
+* L. Gyarmati, X. Anguera. [Automatic Extraction of the Passing Strategies of Soccer Teams](),
+*KDD Workshop on Large-Scale Sports Analytics*, 
+2015
+([PDF](/publications/2015-gyarmati-kdd.pdf))
 
 * Ahmed El-Roby and Ashraf Aboulnaga.
 [ALEX: Automatic Link Exploration in Linked Data](https://doi.org/10.1145/2723372.2749428).
