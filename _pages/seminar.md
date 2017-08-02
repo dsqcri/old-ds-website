@@ -10,6 +10,26 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
+|May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud([Abstract](/seminars/BigDataDaaS/))|[Fatos Xhafa]()|RDC (1st floor)|11:00-12:00|
+||||||
+|May 3rd (Wed)		|Crowdsourcing the Acquisition of Video Segmentations by Propagation, Evaluation and Merge([Abstract](/seminars/CrowdsourcingElgharib/))|[Mohamed Elgharib]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Apr 19th (Wed)		|Quantifying and Reducing Controversy in Social Media([Abstract](/seminars/Controversy/))|[Gianmarco De Francisci Morales]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Apr 12th (Wed)		|Kharita: Robust Map Inference using Graph Spanners([Abstract](/seminars/Kharita/))|[Rade Stanojevic]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Apr 5th (Wed)		|Cloudy with a chance of heavy Fog([Abstract](/seminars/FogComputing/))|[Yehia El Khatib]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Mar 22nd (Wed)		|GridGraph and Gemini: Scale-Up and Scale-Out Graph Processing([Abstract](/seminars/GridGraph_Gemini/))|[Xiaowei Zhu]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Mar 8th (Wed)		|1) Vision Perception Models and Their Applications to Image Processing and Computer Vision 2) An Accurate View Generation from a Single Image using Convolutional Neural Networks([Abstract](/seminars/SungHoBae/))|[Sung-Ho Bae]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 22nd (Wed)		|Templating in Personal Information Management: A Graph-Based Object-Oriented Model([Abstract](/seminars/Templating/))|[Meshaal Al-Saffar]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 15th (Wed)		|Securing IoT Platforms: Systematic Analysis and Design([Abstract](/seminars/SecuringIoTPlatforms/))|[Atul Prakash]()|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 8th (Wed)		|A practical, lightweight, hybrid cache sharing/partitioning scheme for multicore systems([Abstract](/seminars/CashePartitioning/))|[Nosayba El-Sayed]()|RDC (1st floor)|11:00-12:00|
+||||||
 |Feb 1st (Wed)		|Arabesque In Action: Graph Mining Applications([Abstract](/seminars/ArabesqueInAction/))|[Eslam Hussein]()|RDC (1st floor)|11:00-12:00|
 
 -----------------------------------------
