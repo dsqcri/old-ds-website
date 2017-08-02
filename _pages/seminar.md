@@ -5,6 +5,15 @@ permalink: /seminar/
 ---
 ## Seminars
 
+### 2017
+
+| Date				| Title 												| Speaker				| Location		| Time		|
+|:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
+||||||
+|Feb 1st (Wed)		|Arabesque In Action: Graph Mining Applications([Abstract](/seminars/ArabesqueInAction/))|[Eslam Hussein]()|RDC (1st floor)|11:00-12:00|
+
+-----------------------------------------
+
 ### 2016
 
 | Date				| Title 												| Speaker				| Location		| Time		|
