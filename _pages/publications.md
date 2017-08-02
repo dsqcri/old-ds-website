@@ -8,7 +8,7 @@ permalink: /publications/
 
 * Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
 [MPI-ACC: Accelerator-Aware MPI for Scientific Applications.]()
-*IEEE Trans. Parallel Distrib. Sys. (PDS)*,
+*IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
 
