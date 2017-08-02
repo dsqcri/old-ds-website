@@ -151,27 +151,71 @@ permalink: /publications/
 
 ### 2013
 
-* Majed Sahli, Essam Mansour and Panos Kalnis. [Parallel Motif Extraction from Very Long Sequences.]() In Proceedings of the ACM International Conference on Information and Knowledge Management (**CIKM**), November 2013. ([PDF](/publications/2013-sahli-acm.pdf))
+* Majed Sahli, Essam Mansour, and Panos Kalnis. 
+[Parallel Motif Extraction from Very Long Sequences,](https://doi.org/10.1145/2505515.2505575)
+*ACM International Conference on Information and Knowledge Management*, 
+2013 
+([PDF](/publications/2013-sahli-acm.pdf))
 
-* Flavio Junqueira and Marco Serafini. [On Barriers and the Gap between Active and Passive Replication.]() In Proceedings of the International Symposium on Distributed Computing (**DISC**), October 2013. ([PDF](/publications/2013-junqueira-disc.pdf))
+* Flavio Junqueira and Marco Serafini. 
+[On Barriers and the Gap between Active and Passive Replication,](https://doi.org/10.1007/978-3-642-41527-2_21)
+*International Symposium on Distributed Computing*, 
+2013 
+([PDF](/publications/2013-junqueira-disc.pdf))
 
-* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. [Piggybacking on social networks.]() In Proceedings of the International Conference on Very Large Data Bases (**VLDB**), August 2013. ([PDF](/publications/2013-gionis-vldb.pdf))
+* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. 
+[Piggybacking on social networks,](https://doi.org/10.14778/2536336.2536342) 
+*International Conference on Very Large Data Bases*, 
+2013 
+([PDF](/publications/2013-gionis-vldb.pdf))
 
-* Essam Mansour, Ahmed El-Roby, Aron Ahmadia, Panos Kalnis, and Ashraf Aboulnaga. [RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long Sequences.]() In Proceedings of the Very Large Data Bases Endowment (**PVLDB**), August 2013. ([PDF](/publications/2013-mansour-vldb.pdf))
+* Essam Mansour, Ahmed El-Roby, Aron Ahmadia, Panos Kalnis, and Ashraf Aboulnaga. 
+[RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long Sequences,](http://www.vldb.org/pvldb/vol6/p865-mansour.pdf)
+*Very Large Data Bases Endowment*,
+2013 
+([PDF](/publications/2013-mansour-vldb.pdf))
 
-* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. [DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting.]() In Proceedings of the Very Large Data Bases Endowment (**VLDB**), August 2013. ([PDF](/publications/2013-liu-vldb.pdf))
+* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. 
+[DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting,](https://doi.org/10.14778/2535570.2488332) 
+*Very Large Data Bases Endowment*, 
+2013 
+([PDF](/publications/2013-liu-vldb.pdf))
 
 
 ### 2012
 
-* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. [Distributed Approximate Spectral Clustering for Large-Scale Datasets.]() In Proceedings of the ACM International Conference on High-Performance Parallel and Distributed Computing (**HPDC**), June 2012. ([PDF](/publications/2012-gao-hpdc.pdf))
+* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. 
+[Distributed Approximate Spectral Clustering for Large-Scale Datasets,](https://doi.org/10.1145/2287076.2287111) 
+*ACM International Conference on High-Performance Parallel and Distributed Computing*,
+2012
+([PDF](/publications/2012-gao-hpdc.pdf))
 
-* R. Cameron, Mohamed Hefeeda. [Spatio-Temporal Video Copy Detection.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), June 2012. ([PDF](/publications/2012-cameron-mmsys.pdf))
+* R. Cameron and Mohamed Hefeeda. 
+[Spatio-Temporal Video Copy Detection,](https://doi.org/10.1145/2155555.2155562)
+*ACM International Conference on Multimedia Systems*,
+2012
+([PDF](/publications/2012-cameron-mmsys.pdf))
 
-* Naghmeh Khodabakshi and Mohamed Hefeeda. [Copy Detection of 3D Videos.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MMSys**), February 2012. ([PDF](/publications/2012-khodabakshi-mmsys.pdf))
+* Naghmeh Khodabakshi and Mohamed Hefeeda. 
+[Copy Detection of 3D Videos,](https://doi.org/10.1145/2155555.2155578)
+*ACM International Conference on Multimedia Systems*, 
+2012
+([PDF](/publications/2012-khodabakshi-mmsys.pdf))
 
-* Ahmed Hamza and Mohamed Hefeeda. [Multicasting of Multiview 3D Videos over Wireless Networks.]() In Proceedings of the ACM International Conference on Multimedia Systems (**MoVid**), February 2012. ([PDF](/publications/2012-hamza-movid.pdf))
+* Ahmed Hamza and Mohamed Hefeeda. 
+[Multicasting of Multiview 3D Videos over Wireless Networks,](https://doi.org/10.1145/2151677.2151687)
+*ACM International Conference on Multimedia Systems*,
+2012
+([PDF](/publications/2012-hamza-movid.pdf))
 
-* Hamed S. Neshat and Mohamed Hefeeda. [Ranking of New Sponsored Online Ads Using Semantically Related Historical Ads.]() In Proceedings of the International Conference on the Applications of Digital Information and Web Technologies (**ICADIWT**), February 2012. ([PDF](/publications/2012-neshat-icadiwt.pdf))
+* Hamed S. Neshat and Mohamed Hefeeda. 
+[Ranking of New Sponsored Online Ads Using Semantically Related Historical Ads,](https://doi.org/10.1109/ICADIWT.2011.6041398)
+*The International Conference on the Applications of Digital Information and Web Technologies*
+2012
+([PDF](/publications/2012-neshat-icadiwt.pdf))
 
-* Mohammed Shatnawi and Mohamed Hefeeda. [Real-time Failure Prediction in Online Services.]() In Proceedings of the IEEE International Conference on Computer Communications (**INFOCOM**), February 2012. ([PDF](/publications/2012-shatnawi-infocom.pdf))
+* Mohammed Shatnawi and Mohamed Hefeeda. 
+[Real-time Failure Prediction in Online Services,](https://doi.org/10.1109/INFOCOM.2015.7218516)
+*IEEE International Conference on Computer Communications*
+2012
+([PDF](/publications/2012-shatnawi-infocom.pdf))
