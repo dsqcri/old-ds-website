@@ -7,6 +7,8 @@ permalink: /people/mserafini/
 
 I am a Scientist at the Qatar Computing Research Institute, where I work at the intersection of database systems and distributed systems. Previously I was a postdoc at the Yahoo! Research Barcelona lab ([R.I.P.](http://www.huffingtonpost.com/quora/what-went-wrong-with-yaho_b_9821176.html)).
 
+In January 2018, I will join the faculty of the [College of Information and Computer Sciences at the University of Massachusetts Amherst](https://www.cics.umass.edu).
+
 ***
 
 # Current Projects
@@ -26,7 +28,7 @@ Check out the project homepage at [arabesque.io](http://arabesque.io)
 *Papers:*
 
 * [Arabesque](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf): Carlos T. H. Teixeira, Alex J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga, *"Arabesque: A System for Distributed Graph Mining"*. ACM Symp. on Operating Systems Principles (SOSP) 2015
-* [Pan](mailto:mserafini@qf.org.qa): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"Pan: Distributed Graph Search for Hard Queries"*. Work in progress.
+* [QFrag](mailto:mserafini@qf.org.qa): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"QFrag: Distributed Graph Search via Subgraph Isomorphism"*. ACM Symp. on Cloud Computing (SoCC) 2017
 
 
 ###  Database elasticity (Accordion, E-Store, Clay)
