@@ -45,11 +45,83 @@ permalink: /publications/
 
 ### 2015
 
+* Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio Junqueira, and Christof Fetzer.
+[Scalable Error Isolation for Distributed Systems](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-behrens.pdf),
+*USENIX Conference on Networked Systems Design and Implementation (NSDI)*,
+2015
+([PDF](/publications/2015-behrens-nsdi.pdf))
+
+* Yazan Boshmaf, Dionysios Logothetis, Georgos Siganos, Jorge Lería, Jose Lorenzo, Matei Ripeanu, and Konstantin Beznosov.
+[Íntegro: Leveraging victim prediction for robust fake account detection in OSNs](https://www.internetsociety.org/sites/default/files/07_4_2.pdf),
+*International Symposium on Network and Distributed System Security (NDSS)*,
+2015
+([PDF](/publications/2015-boshmaf-ndss.pdf))
+
+* Kiana Calagari, Mohamed Elgharib, Piotr Didyk, Alexandre Kaspar, Wojciech Matusik, and Mohamed Hefeeda.
+[Gradient-based 2D-to-3D Conversion for Soccer Videos](https://doi.org/10.1145/2733373.2806262), 
+*ACM Multimedia Conference (MM)*,
+2015
+([PDF](/publications/2015-calagari-mm.pdf))
+
+* Ahmed El-Roby and Ashraf Aboulnaga.
+[ALEX: Automatic Link Exploration in Linked Data](https://doi.org/10.1145/2723372.2749428),
+*ACM International Conference on Management of Data (SIGMOD)*,
+2015
+([PDF](/publications/2015-elroby-sigmod.pdf))
+
+* Tarek Elgamal, Maysam Yabandeh, Ashraf Aboulnaga, Waleed Mustafa, and Mohamed Hefeeda.
+[sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms](https://doi.org/10.1145/2723372.2751520), 
+*ACM International Conference on Management of Data (SIGMOD)*,
+2015
+([PDF](/publications/2015-elgamal-sigmod.pdf))
+
+* Mohamed ElGharib, Mohamed Hefeeda, Frédo Durand, and William Freeman.
+[Video Magnification in Presence of Large Motions](https://doi.org/10.1109/CVPR.2015.7299039),
+*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*,
+2015
+([PDF](/publications/2015-elgharib-cvpr.pdf))
+
+* Laszlo Gyarmati and Xavier Anguera.
+[Automatic Extraction of the Passing Strategies of Soccer Teams](http://large-scale-sports-analytics.org/Large-Scale-Sports-Analytics/Submissions2015_files/paperID09-football_patterns_2015_cr.pdf),
+*KDD Workshop on Large-Scale Sports Analytics*, 
+2015
+([PDF](/publications/2015-gyarmati-kdd.pdf))
+
+* Laszlo Gyarmati and Mohamed Hefeeda.
+[Estimating the Maximal Speed of Soccer Players on Scale](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_7.pdf),
+*Machine Learning and Data Mining for Sports Analytics Workshop*,
+2015
+([PDF](/publications/2015-gyarmati-mlsa.pdf))
+
+* Mohamed Hefeeda.
+[Cloud Computing: Towards Making Computing a Utility](https://doi.org/10.1007/978-3-319-19848-4_1),
+*Intelligent Cloud Computing (Springer)*,
+2015
+([PDF](/publications/2014-hefeeda-springer.pdf))
+
+* Mohamed Hefeeda, Tarek Elgamal, Kiana Calagari, and Ahmed Abdelsadek.
+[Cloud-based Multimedia Content Protection System](https://doi.org/10.1109/TMM.2015.2389628),
+*IEEE Transactions on Multimedia (TMM)*,
+2015
+([PDF](/publications/2015-hefeeda-tmm.pdf))
+
+* Hua-Jun Hong, Shu-Ting Wang, Chih-Pin Tan, Tarek El-Ganainy, Khaled Harras, Cheng-Hsin Hsu, and Mohamed Hefeeda.
+[Challenged Content Delivery Network: Eliminating the Digital Divide](https://doi.org/10.1145/2733373.2807970),
+*ACM Multimedia Conference (MM)*,
+2015
+([PDF](/publications/2015-hong-mm.pdf))
+
 * Yunyun Jiang, Xiaosong Ma, and Wenguang Chen.
 [Cost-Effective Resource Configuration for Cloud Video Streaming Services](https://doi.org/10.1109/ICPADS.2015.61),
 *International Conference on Parallel and Distributed Systems (ICPADS)*,
 2015
 ([PDF](/publications/2015-jiang-icpads.pdf))
+
+* Ye Jin, Xiaosong Ma, Mingliang Liu, Qing Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky.
+[Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation](https://doi.org/10.1145/2745844.2745876),
+*ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)*,
+2015
+([PDF](/publications/2015-jin-sigmetrics.pdf))
 
 * Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, and Xin Pan.
 [Database High Availability Using SHADOW Systems](https://doi.org/10.1145/2806777.2806841),
@@ -58,71 +130,11 @@ permalink: /publications/
 (**Best paper award**)
 ([PDF](/publications/2015-kim-acmsocc15.pdf))
 
-* Kiana Calagari, Mohamed Elgharib, Piotr Didyk, Alexandre Kaspar, Wojciech Matusik, and Mohamed Hefeeda.
-[Gradient-based 2D-to-3D Conversion for Soccer Videos](https://doi.org/10.1145/2733373.2806262), 
-*ACM Multimedia Conference (MM)*,
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, and Marco Serafini.
+[The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines](https://doi.org/10.1109/ICDE.2015.7113279),
+*IEEE International Conference on Data Engineering (ICDE)*,
 2015
-([PDF](/publications/2015-calagari-mm.pdf))
-
-* Mohammed Shatnawi and Mohamed Hefeeda.
-[Enhancing the Quality of Interactive Multimedia Services by Proactive Monitoring and Failure Prediction](https://doi.org/10.1145/2733373.2806275),
-*ACM Multimedia Conference (MM)*,
-2015
-([PDF](/publications/2015-shatnawi-mm.pdf))
-
-* Hua-Jun Hong, Shu-Ting Wang, Chih-Pin Tan, Tarek El-Ganainy, Khaled Harras, Cheng-Hsin Hsu, and Mohamed Hefeeda.
-[Challenged Content Delivery Network: Eliminating the Digital Divide](https://doi.org/10.1145/2733373.2807970),
-*ACM Multimedia Conference (MM)*,
-2015
-([PDF](/publications/2015-hong-mm.pdf))
-
-* Carlos H. C. Teixeira, Alexandre J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, and Ashraf Aboulnaga. 
-[Arabesque: A System for Distributed Graph Mining](https://doi.org/10.1145/2815400.2815410),
-*ACM Symposium on Operating Systems Principles (SOSP)*,
-2015
-([PDF](/publications/2015-teixeira-sosp.pdf))
-
-* Laszlo Gyarmati and Mohamed Hefeeda.
-[Estimating the Maximal Speed of Soccer Players on Scale](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_7.pdf),
-*Machine Learning and Data Mining for Sports Analytics Workshop*,
-2015
-([PDF](/publications/2015-gyarmati-mlsa.pdf))
-
-* Laszlo Gyarmati and Xavier Anguera.
-[Automatic Extraction of the Passing Strategies of Soccer Teams](http://large-scale-sports-analytics.org/Large-Scale-Sports-Analytics/Submissions2015_files/paperID09-football_patterns_2015_cr.pdf),
-*KDD Workshop on Large-Scale Sports Analytics*, 
-2015
-([PDF](/publications/2015-gyarmati-kdd.pdf))
-
-* Ahmed El-Roby and Ashraf Aboulnaga.
-[ALEX: Automatic Link Exploration in Linked Data](https://doi.org/10.1145/2723372.2749428),
-*ACM International Conference on Management of Data (SIGMOD)*,
-2015
-([PDF](/publications/2015-elroby-sigmod.pdf))
-
-* Mohamed ElGharib, Mohamed Hefeeda, Frédo Durand, and William Freeman.
-[Video Magnification in Presence of Large Motions](https://doi.org/10.1109/CVPR.2015.7299039),
-*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*,
-2015
-([PDF](/publications/2015-elgharib-cvpr.pdf))
-
-* Tarek Elgamal, Maysam Yabandeh, Ashraf Aboulnaga, Waleed Mustafa, and Mohamed Hefeeda.
-[sPCA: Scalable Principal Component Analysis for Big Data on Distributed Platforms](https://doi.org/10.1145/2723372.2751520), 
-*ACM International Conference on Management of Data (SIGMOD)*,
-2015
-([PDF](/publications/2015-elgamal-sigmod.pdf))
-
-* Ye Jin, Xiaosong Ma, Mingliang Liu, Qing Liu, Jeremy Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky.
-[Combining Phase Identification and Statistical Modeling for Automated Parallel Benchmark Generation](https://doi.org/10.1145/2745844.2745876),
-*ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)*,
-2015
-([PDF](/publications/2015-jin-sigmetrics.pdf))
-
-* Diogo Behrens, Marco Serafini, Sergei Arnautov, Flavio Junqueira, and Christof Fetzer.
-[Scalable Error Isolation for Distributed Systems](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-behrens.pdf),
-*USENIX Conference on Networked Systems Design and Implementation (NSDI)*,
-2015
-([PDF](/publications/2015-behrens-nsdi.pdf))
+([PDF](/publications/2015-nasir-icde.pdf))
 
 * Majed Sahli, Essam Mansour, Tariq Alturkestani, and Panos Kalnis.
 [Automatic Tuning of Bag-of-Tasks Applications](https://doi.org/10.1109/ICDE.2015.7113338),
@@ -131,34 +143,22 @@ permalink: /publications/
 ([PDF](/publications/2015-sahli-icde.pdf))
 
 * Mohammed Shatnawi and Mohamed Hefeeda.
+[Enhancing the Quality of Interactive Multimedia Services by Proactive Monitoring and Failure Prediction](https://doi.org/10.1145/2733373.2806275),
+*ACM Multimedia Conference (MM)*,
+2015
+([PDF](/publications/2015-shatnawi-mm.pdf))
+
+* Mohammed Shatnawi and Mohamed Hefeeda.
 [Real-time Failure Prediction in Online Services](https://doi.org/10.1109/INFOCOM.2015.7218516),
 *IEEE International Conference on Computer Communications (INFOCOM)*,
 2015
 ([PDF](/publications/2015-shatnawi-infocom.pdf))
 
-* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, David García-Soriano, Nicolas Kourtellis, and Marco Serafini.
-[The Power of Both Choices: Practical Load Balancing for Distributed Stream Processing Engines](https://doi.org/10.1109/ICDE.2015.7113279),
-*IEEE International Conference on Data Engineering (ICDE)*,
+* Carlos H. C. Teixeira, Alexandre J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, and Ashraf Aboulnaga. 
+[Arabesque: A System for Distributed Graph Mining](https://doi.org/10.1145/2815400.2815410),
+*ACM Symposium on Operating Systems Principles (SOSP)*,
 2015
-([PDF](/publications/2015-nasir-icde.pdf))
-
-* Mohamed Hefeeda, Tarek Elgamal, Kiana Calagari, and Ahmed Abdelsadek.
-[Cloud-based Multimedia Content Protection System](https://doi.org/10.1109/TMM.2015.2389628),
-*IEEE Transactions on Multimedia (TMM)*,
-2015
-([PDF](/publications/2015-hefeeda-tmm.pdf))
-
-* Mohamed Hefeeda.
-[Cloud Computing: Towards Making Computing a Utility](https://doi.org/10.1007/978-3-319-19848-4_1),
-*Intelligent Cloud Computing (Springer)*,
-2015
-([PDF](/publications/2014-hefeeda-springer.pdf))
-
-* Yazan Boshmaf, Dionysios Logothetis, Georgos Siganos, Jorge Lería, Jose Lorenzo, Matei Ripeanu, and Konstantin Beznosov.
-[Íntegro: Leveraging victim prediction for robust fake account detection in OSNs](https://www.internetsociety.org/sites/default/files/07_4_2.pdf),
-*International Symposium on Network and Distributed System Security (NDSS)*,
-2015
-([PDF](/publications/2015-boshmaf-ndss.pdf))
+([PDF](/publications/2015-teixeira-sosp.pdf))
 
 
 ### 2014
