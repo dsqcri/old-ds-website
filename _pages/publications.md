@@ -6,39 +6,39 @@ permalink: /publications/
 
 ### 2016
 
-* Ashwin M. Aji, Lokendra S. Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John M. Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
-[MPI-ACC: Accelerator-Aware MPI for Scientific Applications,](https://doi.org/10.1109/TPDS.2015.2446479)
-*IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
+* Ashwin Mandayam Aji, Lokendra Singh Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
+[MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479)
+*IEEE Transactions on Parallel and Distributed Systems*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
 
 * Laszlo Gyarmati and Mohamed Hefeeda.
-[Analyzing In-Game Movements of Soccer Players at Scale,](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1487-Analyzing-In-Game-Movements-of-Soccer-Players-at-Scale.pdf),
+[Analyzing In-Game Movements of Soccer Players at Scale](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1487-Analyzing-In-Game-Movements-of-Soccer-Players-at-Scale.pdf),
 *MIT Sloan Sports Analytics Conference*,
 2016
 ([PDF](/publications/2016-gyarmati-sa.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda.
-[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients.]()
-*ACM International Conference on Multimedia Systems (MMSys)*,
+[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610)
+*ACM International Conference on Multimedia Systems*,
 2016
 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
 [A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529)
-*Demonstration at the International Conference on World Wide Web (WWW)*,
+*Demonstration at the International Conference on World Wide Web*,
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
 
-* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis and Marco Serafini.
-[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing.]()
-*IEEE International Conference on Data Engineering (ICDE)*,
+* Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis, and Marco Serafini.
+[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273)
+*IEEE International Conference on Data Engineering*,
 2016
 ([PDF](/publications/2016-nasir-icde.pdf))
 
 * Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu.
-[NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers InWeak Network Infrastructures](),
-*Multimedia Modeling Conference (MMM)*,
+[NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers in Weak Network Infrastructures](https://doi.org/10.1007/978-3-319-27671-7_9),
+*International Conference on Multimedia Modeling*,
 2016
 ([PDF](/publications/2016-shah-mmm.pdf))
 
