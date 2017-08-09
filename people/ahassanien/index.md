@@ -11,10 +11,10 @@ permalink: /people/ahassanien/
 - I am interested in computer vision, deep learning and graphical models. My research focuses on data domain adaptation, unsupervised learning and self supervised representation learining.
 
 ### Previous Experience
-- January 2016 to present, research associate at Qatar Computing Research Institute.
-- September 2014 to August 2015, research interna and master thesis student at Sony Technology Center in Stuttgart.
-- August 2013 to August 2014, research assistatnt at Advanced Technoogy Lab in Cairo - Microsoft Research.
-- Febraury 2012 to July 2013, research assistant at Nile University.
+- Research associate at Qatar Computing Research Institute.
+- Research interna and master thesis student at Sony Technology Center in Stuttgart.
+- Research assistatnt at Advanced Technoogy Lab in Cairo - Microsoft Research.
+- Research assistant at Nile University.
  
 
 
