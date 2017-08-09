@@ -3,8 +3,8 @@ layout: page
 title: Ahmed Hassanien
 permalink: /people/ahassanien/
 ---
-![ahassanien](/people/ahassanien/ahassanien.jpg =120x)
 
+<img src="/people/ahassanien/ahassanien.jpg" alt="Drawing" style="width: 200px;"/>
 
 
 ### Research Focus
