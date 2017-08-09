@@ -3,7 +3,7 @@ layout: page
 title: Ahmed Hassanien
 permalink: /people/ahassanien/
 ---
-![ahassanien](/people/ahassanien/ahassanien.jpg)
+![ahassanien](/people/ahassanien/ahassanien.jpg =120x100)
 
 
 
