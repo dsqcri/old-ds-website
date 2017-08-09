@@ -10,15 +10,15 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
-|May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud([Abstract](/seminars/BigDataDaaS/))|Fatos Xhafa|RDC (1st floor)|11:00-12:00|
+|May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud([Abstract](/seminars/BigDataDaaS/))|[Fatos Xhafa](http://www.cs.upc.edu/~fatos/)|RDC (1st floor)|11:00-12:00|
 ||||||
 |May 3rd (Wed)		|Crowdsourcing the Acquisition of Video Segmentations by Propagation, Evaluation and Merge([Abstract](/seminars/CrowdsourcingElgharib/))|Mohamed Elgharib|RDC (1st floor)|11:00-12:00|
 ||||||
 |Apr 19th (Wed)		|Quantifying and Reducing Controversy in Social Media([Abstract](/seminars/Controversy/))|[Gianmarco De Francisci Morales](https://gdfm.me/)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 12th (Wed)		|Kharita: Robust Map Inference using Graph Spanners([Abstract](/seminars/Kharita/))|[Rade Stanojevic]()|RDC (1st floor)|11:00-12:00|
+|Apr 12th (Wed)		|Kharita: Robust Map Inference using Graph Spanners([Abstract](/seminars/Kharita/))|[Rade Stanojevic](http://ds.qcri.org/people/rstanojevic)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 5th (Wed)		|Cloudy with a chance of heavy Fog([Abstract](/seminars/FogComputing/))|Yehia El Khatib|RDC (1st floor)|11:00-12:00|
+|Apr 5th (Wed)		|Cloudy with a chance of heavy Fog([Abstract](/seminars/FogComputing/))|[Yehia El Khatib](http://www.comp.lancs.ac.uk/~elkhatib/)|RDC (1st floor)|11:00-12:00|
 ||||||
 |Mar 22nd (Wed)		|GridGraph and Gemini: Scale-Up and Scale-Out Graph Processing([Abstract](/seminars/GridGraph_Gemini/))|Xiaowei Zhu|RDC (1st floor)|11:00-12:00|
 ||||||
@@ -28,7 +28,7 @@ permalink: /seminar/
 ||||||
 |Feb 15th (Wed)		|Securing IoT Platforms: Systematic Analysis and Design([Abstract](/seminars/SecuringIoTPlatforms/))|Atul Prakash|RDC (1st floor)|11:00-12:00|
 ||||||
-|Feb 8th (Wed)		|A practical, lightweight, hybrid cache sharing/partitioning scheme for multicore systems([Abstract](/seminars/CashePartitioning/))|Nosayba El-Sayed|RDC (1st floor)|11:00-12:00|
+|Feb 8th (Wed)		|A practical, lightweight, hybrid cache sharing/partitioning scheme for multicore systems([Abstract](/seminars/CashePartitioning/))|[Nosayba El-Sayed](http://www.cs.utoronto.ca/~nosayba/)|RDC (1st floor)|11:00-12:00|
 ||||||
 |Feb 1st (Wed)		|Arabesque In Action: Graph Mining Applications([Abstract](/seminars/ArabesqueInAction/))|Eslam Hussein|RDC (1st floor)|11:00-12:00|
 
@@ -55,9 +55,9 @@ permalink: /seminar/
 ||||||
 |May 25th (Wed)		|NoSE: Schema Design for NoSQL Applications([Abstract](/seminars/schema-design/))|[Dr. Ashraf Aboulnaga](https://ashraf.aboulnaga.me/)|RDC (1st floor)|11:00-12:00|
 ||||||
-|May 19th (Wed)		|Mobile App Development, Options and Choices([Abstract](/seminars/mobile-app-development/))|[Abdurrahman Ghanem](/people/aghanem/)|RDC (1st floor)|11:00-12:00|
+|May 19th (Wed)		|Mobile App Development, Options and Choices([Abstract](/seminars/mobile-app-development/))|[Abdurrahman Ghanem](http://ds.qcri.org/people/abghanem)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 4th (Mon)		|Building an Open Stack for IoT([Abstract](/seminars/iot-abstract))|[Dr. Khalid Elgazzar](/seminars/iot-abstract)|Tornado Tower (18th floor)|11:00-12:00|
+|Apr 4th (Mon)		|Building an Open Stack for IoT([Abstract](/seminars/iot-abstract))|[Dr. Khalid Elgazzar](http://www.cs.cmu.edu/~kelgazza/)|Tornado Tower (18th floor)|11:00-12:00|
 ||||||
 
 -----------------------------------------
