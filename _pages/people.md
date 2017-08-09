@@ -30,7 +30,7 @@ permalink: /people/
 
 - Meshaal Al Saffar, Research Associate -- on study leave 
 
-- Ahmed Hassanien, Research Associate
+- [Ahmed Hassanien](/people/ahassanien), Research Associate
 
 - Eslam Hussein, Research Associate
 
