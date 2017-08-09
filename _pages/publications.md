@@ -7,7 +7,7 @@ permalink: /publications/
 ### 2016
 
 * Ashwin Mandayam Aji, Lokendra Singh Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
-[MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479)
+[MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479),
 *IEEE Transactions on Parallel and Distributed Systems*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
@@ -19,19 +19,19 @@ permalink: /publications/
 ([PDF](/publications/2016-gyarmati-sa.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda.
-[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610)
+[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610),
 *ACM International Conference on Multimedia Systems*,
 2016
 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
-[A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529)
+[A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
 *Demonstration at the International Conference on World Wide Web*,
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
 
 * Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis, and Marco Serafini.
-[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273)
+[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273),
 *IEEE International Conference on Data Engineering*,
 2016
 ([PDF](/publications/2016-nasir-icde.pdf))
