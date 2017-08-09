@@ -7,7 +7,7 @@ permalink: /people/mserafini/
 
 I am a Scientist at the Qatar Computing Research Institute, where I work at the intersection of database systems and distributed systems. Previously I was a postdoc at the Yahoo! Research Barcelona lab ([R.I.P.](http://www.huffingtonpost.com/quora/what-went-wrong-with-yaho_b_9821176.html)).
 
-In January 2018, I will join the faculty of the [College of Information and Computer Sciences](https://www.cics.umass.edu) at the [University of Massachusetts Amherst](https://www.umass.edu).
+In January 2018, I will join the faculty of the [College of Information and Computer Sciences](https://www.cics.umass.edu) at the [University of Massachusetts Amherst](https://www.umass.edu) as Assistant Professor.
 
 ***
 
