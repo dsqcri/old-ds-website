@@ -8,7 +8,7 @@ permalink: /people/ahassanien/
 
 
 ### Research Focus
-- I am interested in computer vision, deep learning and graphical models. I am specifically interested in data domain adaptation, unsupervised learning and self supervised representation learining.
+- I am interested in computer vision, deep learning and graphical models. My research focuses on data domain adaptation, unsupervised learning and self supervised representation learining.
 
 ### Previous Experience
 - January 2016 to present, research associate at Qatar Computing Research Institute.
