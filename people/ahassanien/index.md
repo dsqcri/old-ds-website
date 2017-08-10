@@ -4,7 +4,7 @@ title: Ahmed Hassanien
 permalink: /people/ahassanien/
 ---
 
-<img src="/people/ahassanien/ahassanien.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="/people/ahassanien/ahassanien.jpg" alt="Drawing" style="width: 150px;"/>
 
 
 ### Research Focus
