@@ -7,7 +7,7 @@ permalink: /publications/
 ### 2016
 
 * Ashwin Mandayam Aji, Lokendra Singh Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
-[MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479)
+[MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479),
 *IEEE Transactions on Parallel and Distributed Systems*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
@@ -19,19 +19,19 @@ permalink: /publications/
 ([PDF](/publications/2016-gyarmati-sa.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda.
-[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610)
+[Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610),
 *ACM International Conference on Multimedia Systems*,
 2016
 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
-[A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529)
+[A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
 *Demonstration at the International Conference on World Wide Web*,
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
 
 * Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis, and Marco Serafini.
-[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273)
+[When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273),
 *IEEE International Conference on Data Engineering*,
 2016
 ([PDF](/publications/2016-nasir-icde.pdf))
@@ -256,11 +256,11 @@ permalink: /publications/
 
 ### 2013
 
-* Majed Sahli, Essam Mansour, and Panos Kalnis. 
-[Parallel Motif Extraction from Very Long Sequences,](https://doi.org/10.1145/2505515.2505575)
-*ACM International Conference on Information and Knowledge Management*, 
+* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. 
+[Piggybacking on social networks,](https://doi.org/10.14778/2536336.2536342) 
+*International Conference on Very Large Data Bases (PVLDB)*, 
 2013 
-([PDF](/publications/2013-sahli-acm.pdf))
+([PDF](/publications/2013-gionis-vldb.pdf))
 
 * Flavio Junqueira and Marco Serafini. 
 [On Barriers and the Gap between Active and Passive Replication,](https://doi.org/10.1007/978-3-642-41527-2_21)
@@ -268,50 +268,50 @@ permalink: /publications/
 2013 
 ([PDF](/publications/2013-junqueira-disc.pdf))
 
-* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. 
-[Piggybacking on social networks,](https://doi.org/10.14778/2536336.2536342) 
-*International Conference on Very Large Data Bases*, 
+* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. 
+[DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting,](https://doi.org/10.14778/2535570.2488332) 
+*Very Large Data Bases Endowment (PVLDB)*, 
 2013 
-([PDF](/publications/2013-gionis-vldb.pdf))
+([PDF](/publications/2013-liu-vldb.pdf))
 
 * Essam Mansour, Ahmed El-Roby, Aron Ahmadia, Panos Kalnis, and Ashraf Aboulnaga. 
 [RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long Sequences,](http://www.vldb.org/pvldb/vol6/p865-mansour.pdf)
-*Very Large Data Bases Endowment*,
+*Very Large Data Bases Endowment (PVLDB)*,
 2013 
 ([PDF](/publications/2013-mansour-vldb.pdf))
 
-* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. 
-[DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting,](https://doi.org/10.14778/2535570.2488332) 
-*Very Large Data Bases Endowment*, 
+* Majed Sahli, Essam Mansour, and Panos Kalnis. 
+[Parallel Motif Extraction from Very Long Sequences,](https://doi.org/10.1145/2505515.2505575)
+*ACM International Conference on Information and Knowledge Management*, 
 2013 
-([PDF](/publications/2013-liu-vldb.pdf))
+([PDF](/publications/2013-sahli-acm.pdf))
 
 
 ### 2012
 
-* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. 
-[Distributed Approximate Spectral Clustering for Large-Scale Datasets,](https://doi.org/10.1145/2287076.2287111) 
-*ACM International Conference on High-Performance Parallel and Distributed Computing*,
-2012
-([PDF](/publications/2012-gao-hpdc.pdf))
-
 * R. Cameron and Mohamed Hefeeda. 
 [Spatio-Temporal Video Copy Detection,](https://doi.org/10.1145/2155555.2155562)
-*ACM International Conference on Multimedia Systems*,
+*ACM International Conference on Multimedia Systems (MMSys)*,
 2012
 ([PDF](/publications/2012-cameron-mmsys.pdf))
 
-* Naghmeh Khodabakshi and Mohamed Hefeeda. 
-[Copy Detection of 3D Videos,](https://doi.org/10.1145/2155555.2155578)
-*ACM International Conference on Multimedia Systems*, 
+* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. 
+[Distributed Approximate Spectral Clustering for Large-Scale Datasets,](https://doi.org/10.1145/2287076.2287111) 
+*ACM International Conference on High-Performance Parallel and Distributed Computing (HPDC)*,
 2012
-([PDF](/publications/2012-khodabakshi-mmsys.pdf))
+([PDF](/publications/2012-gao-hpdc.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda. 
 [Multicasting of Multiview 3D Videos over Wireless Networks,](https://doi.org/10.1145/2151677.2151687)
-*ACM International Conference on Multimedia Systems*,
+*ACM International Conference on Multimedia Systems (MMSys)*,
 2012
 ([PDF](/publications/2012-hamza-movid.pdf))
+
+* Naghmeh Khodabakshi and Mohamed Hefeeda. 
+[Copy Detection of 3D Videos,](https://doi.org/10.1145/2155555.2155578)
+*ACM International Conference on Multimedia Systems (MMSys)*, 
+2012
+([PDF](/publications/2012-khodabakshi-mmsys.pdf))
 
 * Hamed S. Neshat and Mohamed Hefeeda. 
 [Ranking of New Sponsored Online Ads Using Semantically Related Historical Ads,](https://doi.org/10.1109/ICADIWT.2011.6041398)
@@ -321,6 +321,6 @@ permalink: /publications/
 
 * Mohammed Shatnawi and Mohamed Hefeeda. 
 [Real-time Failure Prediction in Online Services,](https://doi.org/10.1109/INFOCOM.2015.7218516)
-*IEEE International Conference on Computer Communications*
+*IEEE International Conference on Computer Communications (INFOCOM)*,
 2012
 ([PDF](/publications/2012-shatnawi-infocom.pdf))
