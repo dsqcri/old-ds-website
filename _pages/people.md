@@ -41,27 +41,27 @@ permalink: /people/
 
 ## Alumni
 
-- Xiaowei Zhu, Research Associate &rarr; -- to PhD Student, Tsinghua University
+- Xiaowei Zhu, Research Associate &rarr; PhD Student, Tsinghua University
 - Anis Troudi, Research Assistant
-- Xu Ji, Research Associate -- to PhD Student, Tsinghua University
+- Xu Ji, Research Associate &rarr; PhD Student, Tsinghua University
 - Essam Mansour, Senior Software Engineer
 - Maged Zereba, Senior Software Engineer
-- Khaled Harras, Senior Scientist -- to Associate Professor, Carnegie Mellon University, Qatar
-- Mohamed Hefeeda, Principal Scientist -- to Professor, Simon Fraser University
-- Omar Alrawi, Senior Software Engineer -- to PhD Student, Georgia Tech
-- Mingliang Liu, Research Associate -- to Amazon, Palo Alto
+- Khaled Harras, Senior Scientist &rarr; Associate Professor, Carnegie Mellon University, Qatar
+- Mohamed Hefeeda, Principal Scientist &rarr; Professor, Simon Fraser University
+- Omar Alrawi, Senior Software Engineer &rarr; PhD Student, Georgia Tech
+- Mingliang Liu, Research Associate &rarr; Amazon, Palo Alto
 - Alexandre Fonseca, Research Associate 
-- Tarek El Gamal, Software Engineer, -- to PhD Student, University of Illinois at Urbana-Champaign
-- Kiana Calagari, Research Associate -- to PhD Student, Simon Fraser University
-- Tarek Elganainy, Research Associate -- to PhD Student, Simon Fraser University
+- Tarek El Gamal, Software Engineer, &rarr; PhD Student, University of Illinois at Urbana-Champaign
+- Kiana Calagari, Research Associate &rarr; PhD Student, Simon Fraser University
+- Tarek Elganainy, Research Associate &rarr; PhD Student, Simon Fraser University
 - Muhammad Zeeshan Munir, Senior Software Engineer
-- Kareem El Gebaly, Research Associate -- to PhD Student, University of Waterloo
-- Ahmed El-Roby, Research Associate -- to PhD Student, University of Waterloo
+- Kareem El Gebaly, Research Associate &rarr; PhD Student, University of Waterloo
+- Ahmed El-Roby, Research Associate &rarr; PhD Student, University of Waterloo
 - Ye Jin, Research Associate
-- Yehia Zakaria Rabei, Research Associate -- to PhD Student, Queen's University
-- Khaled M. Diab, Research Associate -- to PhD Student, Simon Fraser University
+- Yehia Zakaria Rabei, Research Associate &rarr; PhD Student, Queen's University
+- Khaled M. Diab, Research Associate &rarr; PhD Student, Simon Fraser University
 - Safdar Kureishy, Software Engineer
 - Dr. Gokop Goteng, Postdoctoral researcher
 - Dr. Maysam Yabandeh, Postdoctoral researcher
 - Simon Guerrero, Senior Software Engineer
-- Simon Ponsford, Senior Scientist -- to CTO at Cloud Direct
+- Simon Ponsford, Senior Scientist &rarr; CTO at Cloud Direct
