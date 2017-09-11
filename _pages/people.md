@@ -26,6 +26,8 @@ permalink: /people/
 
 - [Abdurrahman Ghanem](/people/abghanem), Software Engineer
 
+- Thanaa Ghanem, Visiting Scientist
+
 - Nosayba El-Sayed, Postdoctoral Researcher (joint postdoc with MIT-CSAIL)
 
 - Meshaal Al Saffar, Research Associate -- on study leave 
@@ -39,7 +41,7 @@ permalink: /people/
 
 ## Alumni
 
-- Xiaowei Zhu, Research Associate -- to PhD Student, Tsinghua University
+- Xiaowei Zhu, Research Associate &rightarrow; -- to PhD Student, Tsinghua University
 - Anis Troudi, Research Assistant
 - Xu Ji, Research Associate -- to PhD Student, Tsinghua University
 - Essam Mansour, Senior Software Engineer
