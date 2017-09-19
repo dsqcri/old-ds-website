@@ -4,7 +4,7 @@ title: Ahmed Hassanien
 permalink: /people/ahassanien/
 ---
 
-<img src="/people/ahassanien/ahassanien.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="/people/ahassanien/ahassanien.jpg" alt="Drawing" style="width: 180px;"/>
 
 
 ### Research Focus
@@ -19,6 +19,7 @@ permalink: /people/ahassanien/
 
 
 ### Professional Experience
+- Participated in the international computer vision summer school (ICVSS 2017)
 - 3rd place in the ACM-ICPC regional contest 2011 (MMAW)
 - 3 rd place in the ACM-ICPC national contest 2011 (MMAW)
 - 3 rd place in SRM 526 div2 TopCoder (devils13)

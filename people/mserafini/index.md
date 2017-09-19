@@ -28,7 +28,7 @@ Check out the project homepage at [arabesque.io](http://arabesque.io)
 *Papers:*
 
 * [Arabesque](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/093-teixeira.pdf): Carlos T. H. Teixeira, Alex J. Fonseca, Marco Serafini, Georgos Siganos, Mohammed J. Zaki, Ashraf Aboulnaga, *"Arabesque: A System for Distributed Graph Mining"*. ACM Symp. on Operating Systems Principles (SOSP) 2015
-* [QFrag](mailto:mserafini@qf.org.qa): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"QFrag: Distributed Graph Search via Subgraph Isomorphism"*. ACM Symp. on Cloud Computing (SoCC) 2017
+* [QFrag](http://ds.qcri.org/people/mserafini/QFrag.pdf): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"QFrag: Distributed Graph Search via Subgraph Isomorphism"*. ACM Symp. on Cloud Computing (SoCC) 2017
 
 
 ###  Database elasticity (Accordion, E-Store, Clay)

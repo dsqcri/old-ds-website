@@ -8,7 +8,7 @@ permalink: /publications/
 
 * Ashwin Mandayam Aji, Lokendra Singh Panwar, Feng Ji, Karthik Murthy, Milind Chabbi, Pavan Balaji, Keith R. Bisset, James Dinan, Wu-chun Feng, John Mellor-Crummey, Xiaosong Ma, and Rajeev Thakur.
 [MPI-ACC: Accelerator-Aware MPI for Scientific Applications](https://doi.org/10.1109/TPDS.2015.2446479),
-*IEEE Transactions on Parallel and Distributed Systems*,
+*IEEE Transactions on Parallel and Distributed Systems (PDS)*,
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
 
@@ -20,25 +20,25 @@ permalink: /publications/
 
 * Ahmed Hamza and Mohamed Hefeeda.
 [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610),
-*ACM International Conference on Multimedia Systems*,
+*ACM International Conference on Multimedia Systems (MMSys)*,
 2016
 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
 [A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
-*Demonstration at the International Conference on World Wide Web*,
+*Demonstration at the International Conference on World Wide Web (WWW)*,
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
 
 * Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis, and Marco Serafini.
 [When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273),
-*IEEE International Conference on Data Engineering*,
+*IEEE International Conference on Data Engineering (ICDE)*,
 2016
 ([PDF](/publications/2016-nasir-icde.pdf))
 
 * Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu.
 [NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers in Weak Network Infrastructures](https://doi.org/10.1007/978-3-319-27671-7_9),
-*International Conference on Multimedia Modeling*,
+*International Conference on Multimedia Modeling (MMM)*,
 2016
 ([PDF](/publications/2016-shah-mmm.pdf))
 
@@ -163,44 +163,104 @@ permalink: /publications/
 
 ### 2014
 
-* Jidong Zhai, Mingliang Liu, Ye Jin, Xiaosong Ma, and Wenguang Chen. [Automatic Cloud I/O Configurator for I/O Intensive Parallel Applications](https://doi.org/10.1109/TPDS.2014.2378277), *IEEE Transactions on Parallel and Distributed Systems (PDS)*, 2014 ([PDF](/publications/2014-zhai-pds.pdf))
+* Jidong Zhai, Mingliang Liu, Ye Jin, Xiaosong Ma, and Wenguang Chen. 
+[Automatic Cloud I/O Configurator for I/O Intensive Parallel Applications](https://doi.org/10.1109/TPDS.2014.2378277), 
+*IEEE Transactions on Parallel and Distributed Systems (PDS)*, 
+2014 
+([PDF](/publications/2014-zhai-pds.pdf))
 
-* Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. [Cypress: combining static and dynamic analysis for top-down communication trace compression](https://doi.org/10.1109/SC.2014.17), *IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (SC)*, 2014. ([PDF](/publications/2014-zhai-sc.pdf))
+* Jidong Zhai, Jianfei Hu, Xiongchao Tang, Xiaosong Ma, and Wenguang Chen. 
+[Cypress: combining static and dynamic analysis for top-down communication trace compression](https://doi.org/10.1109/SC.2014.17), 
+*IEEE International Conference on High Performance Computing, Networking, Storage, and Analysis (SC)*, 
+2014 
+([PDF](/publications/2014-zhai-sc.pdf))
 
-* Kiana Calagari, Krzysztof Templin, Tarek Elgamal, Khaled Diab, Piotr Didyk, Wojciech Matusik, and Mohamed Hefeeda. [Anahita: A System for 3D Video Streaming with Depth Customization](https://doi.org/10.1145/2647868.2654899), *ACM International Conference on Multimedia (MM)*, 2014. ([PDF](/publications/2014-kiana-mm.pdf))
+* Kiana Calagari, Krzysztof Templin, Tarek Elgamal, Khaled Diab, Piotr Didyk, Wojciech Matusik, and Mohamed Hefeeda. 
+[Anahita: A System for 3D Video Streaming with Depth Customization](https://doi.org/10.1145/2647868.2654899), 
+*ACM International Conference on Multimedia (MM)*, 
+2014 
+([PDF](/publications/2014-kiana-mm.pdf))
 
-* Majed Sahli, Essam Mansour, and Panos Kalnis. [ACME: A scalable parallel system for extracting frequent patterns from a very long sequence](https://doi.org/10.1007/s00778-014-0370-1), *Very Large Data Bases Journal (VLDBJ)*, 2014. ([PDF](/publications/2014-majed-vldbj.pdf))
+* Majed Sahli, Essam Mansour, and Panos Kalnis. 
+[ACME: A scalable parallel system for extracting frequent patterns from a very long sequence](https://doi.org/10.1007/s00778-014-0370-1), 
+*Very Large Data Bases Journal (VLDBJ)*, 
+2014 
+([PDF](/publications/2014-majed-vldbj.pdf))
 
-* Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, and Umar Farooq Minhas. [Accordion: Elastic scalability for database systems supporting distributed transactions](https://doi.org/10.14778/2732977.2732979), *Very Large Data Bases Endowment (PVLDB)*, 2014. ([PDF](/publications/2014-marco-vldb.pdf))
+* Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, and Umar Farooq Minhas. 
+[Accordion: Elastic scalability for database systems supporting distributed transactions](https://doi.org/10.14778/2732977.2732979), 
+*Very Large Data Bases Endowment (PVLDB)*, 
+2014 
+([PDF](/publications/2014-marco-vldb.pdf))
 
-* Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. ElmoreΑ, Ashraf Aboulnaga, Andrew Pavlo, and Michael Stonebraker. [E-Store: Fine-Grained Elastic Partitioning for Distributed Transaction Processing Systems](https://doi.org/10.14778/2735508.2735514), *Very Large Data Bases Endowment (PVLDB)*, 2014. ([PDF](/publications/2014-taft-vldb.pdf))
+* Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. ElmoreΑ, Ashraf Aboulnaga, Andrew Pavlo, and Michael Stonebraker. 
+[E-Store: Fine-Grained Elastic Partitioning for Distributed Transaction Processing Systems](https://doi.org/10.14778/2735508.2735514), 
+*Very Large Data Bases Endowment (PVLDB)*, 
+2014 
+([PDF](/publications/2014-taft-vldb.pdf))
 
-* Laszlo Gyarmati, Haewoon Kwak, and Pablo Rodriguez. [Searching for a Unique Style in Soccer](http://large-scale-sports-analytics.org/Large-Scale-Sports-Analytics/Submissions2014_files/paperID5.pdf), *ACM International Conference on Knowledge Discovery and Data Mining (KDD)* workshop on Large-Scale Sports Analytics, August 2014. ([PDF](/publications/2014-gyarmati-acm.pdf))
+* Laszlo Gyarmati, Haewoon Kwak, and Pablo Rodriguez. 
+[Searching for a Unique Style in Soccer](http://large-scale-sports-analytics.org/Large-Scale-Sports-Analytics/Submissions2014_files/paperID5.pdf), 
+*ACM International Conference on Knowledge Discovery and Data Mining (KDD)* workshop on Large-Scale Sports Analytics, 
+2014 
+([PDF](/publications/2014-gyarmati-acm.pdf))
 
-* Krzysztof Templin, Piotr Didyk, Karol Myszkowski, Mohamed Hefeeda, Hans-Peter Seidel, and Wojciech Matusik. [Modeling and optimizing eye vergence response to stereoscopic cuts](https://doi.org/10.1145/2601097.2601148), *ACM Transactions on Graphics (TOG)*, 2014. ([PDF](/publications/2014-templin-tog.pdf))
+* Krzysztof Templin, Piotr Didyk, Karol Myszkowski, Mohamed Hefeeda, Hans-Peter Seidel, and Wojciech Matusik. 
+[Modeling and optimizing eye vergence response to stereoscopic cuts](https://doi.org/10.1145/2601097.2601148), 
+*ACM Transactions on Graphics (TOG)*, 
+2014 
+([PDF](/publications/2014-templin-tog.pdf))
 
-* Fei Meng, Li Zhou, Xiaosong Ma, Sandeep Uttamchandani, and Deng Liu. [vCacheShare: automated server flash cache space management in a virtualization environment](https://www.usenix.org/system/files/conference/atc14/atc14-paper-meng.pdf), *USENIX Annual Technical Conference (ATC)*, 2014. ([PDF](/publications/2014-meng-atc.pdf))
+* Fei Meng, Li Zhou, Xiaosong Ma, Sandeep Uttamchandani, and Deng Liu. 
+[vCacheShare: automated server flash cache space management in a virtualization environment](https://www.usenix.org/system/files/conference/atc14/atc14-paper-meng.pdf), 
+*USENIX Annual Technical Conference (ATC)*, 
+2014 
+([PDF](/publications/2014-meng-atc.pdf))
 
-* Jingen Xiang, Huangdong Meng, and Ashraf Aboulnaga. [Scalable matrix inversion using MapReduce](https://doi.org/10.1145/2600212.2600220), *ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)*, 2014. ([PDF](/publications/2014-xiang-hpdc.pdf))
+* Jingen Xiang, Huangdong Meng, and Ashraf Aboulnaga. 
+[Scalable matrix inversion using MapReduce](https://doi.org/10.1145/2600212.2600220), 
+*ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)*, 
+2014 
+([PDF](/publications/2014-xiang-hpdc.pdf))
 
-* Xiaosong Ma. [On the feasibility of data loss insurance for personal cloud storage](https://www.usenix.org/system/files/conference/hotstorage14/hotstorage14-paper-ma.pdf), *USENIX Conference on Hot Topics in Storage and File Systems (HotStorage)*, 2014. ([PDF](/publications/2014-ma-hotstorage.pdf))
+* Xiaosong Ma. 
+[On the feasibility of data loss insurance for personal cloud storage](https://www.usenix.org/system/files/conference/hotstorage14/hotstorage14-paper-ma.pdf), 
+*USENIX Conference on Hot Topics in Storage and File Systems (HotStorage)*, 
+2014 
+([PDF](/publications/2014-ma-hotstorage.pdf))
 
-* Ahmed Abdelsadek and Mohamed Hefeeda. [DIMO: distributed index for matching multimedia objects using MapReduce](https://doi.org/10.1145/2557642.2557650), *ACM International Conference on Multimedia Systems (MMSys)*, 2014. ([PDF](/publications/2014-abdelsadek-mmsys.pdf))
+* Ahmed Abdelsadek and Mohamed Hefeeda. 
+[DIMO: distributed index for matching multimedia objects using MapReduce](https://doi.org/10.1145/2557642.2557650), 
+*ACM International Conference on Multimedia Systems (MMSys)*, 
+2014 
+([PDF](/publications/2014-abdelsadek-mmsys.pdf))
 
-* Khaled Diab, Tarek Elgamal, Kiana Calagari, and Mohamed Hefeeda. [Storage optimization for 3D streaming systems](https://doi.org/10.1145/2557642.2557651), *ACM International Conference on Multimedia Systems (MMSys)*, 2014. ([PDF](/publications/2014-diab-mmsys.pdf))
+* Khaled Diab, Tarek Elgamal, Kiana Calagari, and Mohamed Hefeeda. 
+[Storage optimization for 3D streaming systems](https://doi.org/10.1145/2557642.2557651), 
+*ACM International Conference on Multimedia Systems (MMSys)*, 
+2014 
+([PDF](/publications/2014-diab-mmsys.pdf))
 
-* Mostafa Ead, Herodotos Herodotou, Ashraf Aboulnaga, and Shivnath Babu. [PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs]() *International Conference on Extending Database Technology (EDBT)*, 2014. ([PDF](/publications/.pdf))
+* Mostafa Ead, Herodotos Herodotou, Ashraf Aboulnaga, and Shivnath Babu. 
+[PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs]() 
+*International Conference on Extending Database Technology (EDBT)*, 
+2014 
+([PDF](/publications/.pdf))
 
-* Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan Vazhkudai. [Automatic identification of application I/O signatures from noisy server-side traces](https://www.usenix.org/system/files/conference/fast14/fast14-paper_liu.pdf), *USENIX Conference on File and Storage Technologies (FAST)*, 2014. ([PDF](/publications/2014-liu-fast.pdf))
+* Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan Vazhkudai. 
+[Automatic identification of application I/O signatures from noisy server-side traces](https://www.usenix.org/system/files/conference/fast14/fast14-paper_liu.pdf), 
+*USENIX Conference on File and Storage Technologies (FAST)*, 
+2014 
+([PDF](/publications/2014-liu-fast.pdf))
 
 
 ### 2013
 
-* Majed Sahli, Essam Mansour, and Panos Kalnis. 
-[Parallel Motif Extraction from Very Long Sequences,](https://doi.org/10.1145/2505515.2505575)
-*ACM International Conference on Information and Knowledge Management*, 
+* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. 
+[Piggybacking on social networks,](https://doi.org/10.14778/2536336.2536342) 
+*International Conference on Very Large Data Bases (PVLDB)*, 
 2013 
-([PDF](/publications/2013-sahli-acm.pdf))
+([PDF](/publications/2013-gionis-vldb.pdf))
 
 * Flavio Junqueira and Marco Serafini. 
 [On Barriers and the Gap between Active and Passive Replication,](https://doi.org/10.1007/978-3-642-41527-2_21)
@@ -208,50 +268,50 @@ permalink: /publications/
 2013 
 ([PDF](/publications/2013-junqueira-disc.pdf))
 
-* Aristides Gionis, Flavio Junqueira, Vincent Leroy, Marco Serafini, and Ingmar Weber. 
-[Piggybacking on social networks,](https://doi.org/10.14778/2536336.2536342) 
-*International Conference on Very Large Data Bases*, 
+* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. 
+[DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting,](https://doi.org/10.14778/2535570.2488332) 
+*Very Large Data Bases Endowment (PVLDB)*, 
 2013 
-([PDF](/publications/2013-gionis-vldb.pdf))
+([PDF](/publications/2013-liu-vldb.pdf))
 
 * Essam Mansour, Ahmed El-Roby, Aron Ahmadia, Panos Kalnis, and Ashraf Aboulnaga. 
 [RACE: A Scalable and Elastic Parallel System for Discovering Repeats in Very Long Sequences,](http://www.vldb.org/pvldb/vol6/p865-mansour.pdf)
-*Very Large Data Bases Endowment*,
+*Very Large Data Bases Endowment (PVLDB)*,
 2013 
 ([PDF](/publications/2013-mansour-vldb.pdf))
 
-* Rui Liu, Ashraf Aboulnaga, and Kenneth Salem. 
-[DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting,](https://doi.org/10.14778/2535570.2488332) 
-*Very Large Data Bases Endowment*, 
+* Majed Sahli, Essam Mansour, and Panos Kalnis. 
+[Parallel Motif Extraction from Very Long Sequences,](https://doi.org/10.1145/2505515.2505575)
+*ACM International Conference on Information and Knowledge Management*, 
 2013 
-([PDF](/publications/2013-liu-vldb.pdf))
+([PDF](/publications/2013-sahli-acm.pdf))
 
 
 ### 2012
 
-* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. 
-[Distributed Approximate Spectral Clustering for Large-Scale Datasets,](https://doi.org/10.1145/2287076.2287111) 
-*ACM International Conference on High-Performance Parallel and Distributed Computing*,
-2012
-([PDF](/publications/2012-gao-hpdc.pdf))
-
 * R. Cameron and Mohamed Hefeeda. 
 [Spatio-Temporal Video Copy Detection,](https://doi.org/10.1145/2155555.2155562)
-*ACM International Conference on Multimedia Systems*,
+*ACM International Conference on Multimedia Systems (MMSys)*,
 2012
 ([PDF](/publications/2012-cameron-mmsys.pdf))
 
-* Naghmeh Khodabakshi and Mohamed Hefeeda. 
-[Copy Detection of 3D Videos,](https://doi.org/10.1145/2155555.2155578)
-*ACM International Conference on Multimedia Systems*, 
+* Fei Gao, Wael Abd-Almageed, and Mohamed Hefeeda. 
+[Distributed Approximate Spectral Clustering for Large-Scale Datasets,](https://doi.org/10.1145/2287076.2287111) 
+*ACM International Conference on High-Performance Parallel and Distributed Computing (HPDC)*,
 2012
-([PDF](/publications/2012-khodabakshi-mmsys.pdf))
+([PDF](/publications/2012-gao-hpdc.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda. 
 [Multicasting of Multiview 3D Videos over Wireless Networks,](https://doi.org/10.1145/2151677.2151687)
-*ACM International Conference on Multimedia Systems*,
+*ACM International Conference on Multimedia Systems (MMSys)*,
 2012
 ([PDF](/publications/2012-hamza-movid.pdf))
+
+* Naghmeh Khodabakshi and Mohamed Hefeeda. 
+[Copy Detection of 3D Videos,](https://doi.org/10.1145/2155555.2155578)
+*ACM International Conference on Multimedia Systems (MMSys)*, 
+2012
+([PDF](/publications/2012-khodabakshi-mmsys.pdf))
 
 * Hamed S. Neshat and Mohamed Hefeeda. 
 [Ranking of New Sponsored Online Ads Using Semantically Related Historical Ads,](https://doi.org/10.1109/ICADIWT.2011.6041398)
@@ -261,6 +321,6 @@ permalink: /publications/
 
 * Mohammed Shatnawi and Mohamed Hefeeda. 
 [Real-time Failure Prediction in Online Services,](https://doi.org/10.1109/INFOCOM.2015.7218516)
-*IEEE International Conference on Computer Communications*
+*IEEE International Conference on Computer Communications (INFOCOM)*,
 2012
 ([PDF](/publications/2012-shatnawi-infocom.pdf))
