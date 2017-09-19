@@ -3,6 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+### 2017
+
+* Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos.
+[QFrag: Distributed Graph Search via Subgraph Isomorphism](/publications/2017-serafini-socc.pdf),
+*ACM Symposium on Cloud Computing (SoCC)*,
+2017
+([PDF](/publications/2017-serafini-socc.pdf))
 
 ### 2016
 
@@ -41,6 +48,12 @@ permalink: /publications/
 *International Conference on Multimedia Modeling (MMM)*,
 2016
 ([PDF](/publications/2016-shah-mmm.pdf))
+
+* Marco Serafini, Rebecca Taft, Aaron J. Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker.
+[Clay: Fine-Grained Adaptive Partitioning for General Database Schemas](https://doi.org/10.14778/3025111.3025125),
+*Proceedings of the VLDB Endowment (PVLDB)*,
+2016
+([PDF](/publications/2016-serafini-vldb.pdf))
 
 
 ### 2015
