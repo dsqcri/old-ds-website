@@ -31,11 +31,11 @@ The figure above shows the high-level design of V3V systemXXXX...........
 - [Mohamed Elgharib](/people/melgharib/) 
 - [Ahmed Mamdouh](/people/ahassanien/)
 - [Ajay Nandoria](/people/anandoriya/)
-- [Wojciech Matusik](http://people.csail.mit.edu/wojciech/)
+- [Wojciech Matusik](http://people.csail.mit.edu/wojciech)
 - [Alexandre Kaspar](http://w-x.ch/)
 
 ## Past Members
 - [Mohamed Hefeeda](/people/mhefeeda/)
 - Kiana Calagari                 
-- [Piotr Didyk](https://people.mpi-inf.mpg.de/~pdidyk/)
+- [Piotr Didyk](https://people.mpi-inf.mpg.de/~pdidyk)
 
