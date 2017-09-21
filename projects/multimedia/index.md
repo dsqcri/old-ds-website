@@ -4,7 +4,7 @@ title: Multimedia
 permalink: /projects/multimedia/
 ---
 
-![multimedia](/projects/multimedia/VettaEx.png)
+![multimedia](/projects/multimedia/VettaEx.png =100x20)
 
 # 2D to Immersive video conversion
 
