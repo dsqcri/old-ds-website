@@ -29,7 +29,7 @@ The figure above shows the high-level design of V3V systemXXXX...........
 
 
 ## Press
-- [MIT News](http://news.mit.edu/2015/software-converts-2-d-3-d-video-1104), [WIRED](https://www.wired.de/collection/tech/mit-fifa-13-lassen-sich-fussballuebertragungen-echtzeit-von-2d-3d-umwandeln)
+- [MIT News](http://news.mit.edu/2015/software-converts-2-d-3-d-video-1104), [WIRED](https://www.wired.de/collection/tech/mit-fifa-13-lassen-sich-fussballuebertragungen-echtzeit-von-2d-3d-umwandeln), [ACM Tech News](https://cacm.acm.org/news/193762-system-automatically-converts-2d-video-to-3d/fulltext), [Tech Times](http://www.techtimes.com/articles/103048/20151104/mits-software-converts-2d-video-soccer-games-3d.htm)
 
 
 ## Patents
