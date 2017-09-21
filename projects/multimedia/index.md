@@ -5,7 +5,7 @@ permalink: /projects/multimedia/
 ---
 
 <img src="/projects/multimedia/VettaEx.png " width="900" height="300" align="middle" />
-  <figcaption> Figure 1 
+  <figcaption> Figure 1. 
 We present an automated system for converting the traditional 2D video feed into an immersive, sterescopic format.
 The generated content can be viewed on several devices such as card-boards, VR headsets and S3D-enabled TVs and mobile phones. Our system aims to replace the usage of the complex hard-ware camera set-ups.</figcaption>
 
