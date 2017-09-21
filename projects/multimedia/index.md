@@ -27,6 +27,11 @@ The figure above shows the high-level design of V3V systemXXXX...........
 - A. Hassanien, M. Elgharib, A. Selim, S. Bae, M. Hefeeda, and W. Matusik, " Large-Scale, Fast And Accurate Shot Boundary Detection Through Spatio-Temporal Convolutional Neural Networks ", CoRR abs/1705.03281 (2017).
 - S. Bae, M. Elgharib, M. Hefeeda, and W. Matusik, " Efficient And Scalable View Generation From A Single Image Using Fully Convolutional Networks", CoRR abs/1705.03737 (2017).
 
+
+## Press
+- [MIT News](http://news.mit.edu/2015/software-converts-2-d-3-d-video-1104), [WIRED](https://www.wired.de/collection/tech/mit-fifa-13-lassen-sich-fussballuebertragungen-echtzeit-von-2d-3d-umwandeln)
+
+
 ## Patents
 - Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
 
