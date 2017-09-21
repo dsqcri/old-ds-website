@@ -23,6 +23,8 @@ The figure above shows the high-level design of V3V systemXXXX...........
 - K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, "Gradient-based 2D-to-3D Conversion for Soccer Videos", ACM Multimedia (MM'15), Brisbane, Australia, October 2015.
 - K. Calagari, M. Elgharib, S. Shirmohammadi, and M. Hefeeda, "Sports VR Content Generation from Regular Camera Feeds", ACM Multimedia (MM'17), San Francisco, California, October 2017.
 - K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, " Data Driven 2D-to-3D Video Conversion for Soccer ", IEEE Transactions on Multimedia, 2017. 
+- A. Hassanien, M. Elgharib, A. Selim, S. Bae, M. Hefeeda, and W. Matusik, " Large-Scale, Fast And Accurate Shot Boundary Detection Through Spatio-Temporal Convolutional Neural Networks ", CoRR abs/1705.03281 (2017).
+- S. Bae, M. Elgharib, M. Hefeeda, and W. Matusik, " Efficient And Scalable View Generation From A Single Image Using Fully Convolutional Networks", CoRR abs/1705.03737 (2017).
 
 ## Patents
 - Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
