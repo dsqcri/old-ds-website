@@ -31,7 +31,7 @@ The figure above shows the high-level design of V3V systemXXXX...........
 - Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
 
 ## Current Members
-- [Mohamed Elgharib](/people/melgharib/) 
+- [Mohamed Elgharib](/https://scholar.google.com/citations?user=e1WLgm8AAAAJ/)
 - [Ahmed Mamdouh](/people/ahassanien/)
 - [Ajay Nandoria](/people/anandoriya/)
 - [Wojciech Matusik](http://people.csail.mit.edu/wojciech/)
