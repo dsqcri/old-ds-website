@@ -21,6 +21,17 @@ As shown in the figure, the entry point to the server is the REST interface. The
 
 In order to serve concurrent requests from several clients in real time, the server has a module to provision on demand computing resources from public/private clouds. This module initializes a  cluster of machines for each client registered with the system. It balances the workload on the cluster, it can dynamically scale up/down cluster based on the processing requirements to meet the real time constraints. The module is designed to be independent of the APIs of the cloud providers.
 
+## System Architecture
+
+![multimedia](/projects/multimedia/system-architecture.png)
+
+The figure above shows the high-level design of V3V system. The main goal of the system is to convert 2D video segments into 3D. The system consists of (i) server that receives a 2D video segment, converts it to 3D, and  provides a url for downloading the converted 3D segment, (ii) client application from which users can send 2D segments to the server and downloads the converted 3D segments.
+
+As shown in the figure, the entry point to the server is the REST interface. The REST interface intercepts the requests coming to the server and passes them to the system in the form of actions (see Section 3 for the list of supported actions). The REST interface logs the requests coming to it in a repository that is used to monitor the activity of the server. The repository is monitored by a system administrator who can also set some internal system parameters through web management console.
+
+In order to serve concurrent requests from several clients in real time, the server has a module to provision on demand computing resources from public/private clouds. This module initializes a  cluster of machines for each client registered with the system. It balances the workload on the cluster, it can dynamically scale up/down cluster based on the processing requirements to meet the real time constraints. The module is designed to be independent of the APIs of the cloud providers.
+
+
 ## Demo website
 - [http://v3v.qcri.org](http://v3v.qcri.org)
 
