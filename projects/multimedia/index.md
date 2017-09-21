@@ -39,6 +39,6 @@ The figure above shows the high-level design of V3V systemXXXX...........
 
 ## Past Members
 - [Mohamed Hefeeda](/people/mhefeeda/)
-- Kiana Calagari                 
+- [Kiana Calagari](/https://www.linkedin.com/in/kianacalagari/?ppe=1/)                 
 - [Piotr Didyk](https://people.mpi-inf.mpg.de/~pdidyk/)
 
