@@ -4,7 +4,7 @@ title: Multimedia
 permalink: /projects/multimedia/
 ---
 
-![multimedia](/projects/multimedia/VettaEx.png=100x300)
+![multimedia](/projects/multimedia/VettaEx.png =100x300)
 
 # 2D to Immersive video conversion
 
@@ -12,7 +12,9 @@ Immersive video is experiencing a growing interest for some time now. Despite la
 
 ## Project Overview
 
-In this project we present an automated system for converting the commonly accesable 2D video content into a multi-view, sterescocpic 3D format. Current conversion methods porduce low-quality video results that exhibit artifacts. Such artifacts are not acceptable to many viewers. Our system is largely data-driven;  Our techniques are largely data-driven; we leverage the power of big data through the latest advances in A.I. and deep neural networks. This allows us to generate high quality conversion for wide spectrum of video content. Motivated by Qatar's hosting of 2022 World Cup, we pay a special attention to processing soccer videos. Our system is also capable of handling a wider spectrum of sports games aswell as handling more generic content such as movies, TV programs and others.
+In this project we present an automated system for converting the commonly accesable 2D video content into a multi-view, sterescocpic 3D format. Current conversion methods porduce low-quality video results that exhibit artifacts. Such artifacts are not acceptable to many viewers. Our system is largely data-driven; we leverage the power of big data through the latest advances in A.I. and deep neural networks. This allows us to generate high quality conversion for wide spectrum of video content. 
+
+Motivated by Qatar's hosting of the 2022 soccer World Cup, we pay a special attention to processing soccer videos. Our system is also capable of handling a wider spectrum of sports games aswell as handling more generic content such as movies, TV programs and others.
 
 
 ## Publications
