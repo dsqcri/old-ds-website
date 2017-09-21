@@ -5,6 +5,8 @@ permalink: /projects/multimedia/
 ---
 
 <img src="/projects/multimedia/VettaEx.png " width="900" height="300" align="middle" />
+  <figcaption> We present an automated system for converting the traditional 2D video feed into an immersive, sterescopic format.
+The generated content can be observed on several devices such as card-boards, VR devices and S3D-enabled TVs and mobile phones. Our system aims to replace the usage of the complex hard-ware camera set-ups.</figcaption>
 
 # 2D to Immersive video conversion
 
@@ -14,7 +16,7 @@ Immersive video is experiencing a growing interest for some time now. Despite la
 
 In this project we present an automated system for converting the commonly accesable 2D video content into a multi-view, sterescocpic 3D format. Current conversion methods porduce low-quality video results that exhibit artifacts. Such artifacts are not acceptable to many viewers. Our system is largely data-driven; we leverage the power of big data through the latest advances in A.I. and deep neural networks. This allows us to generate high quality conversion for wide spectrum of video content. 
 
-Motivated by Qatar's hosting of the 2022 soccer World Cup, we pay a special attention to processing soccer videos. Our system is also capable of handling a wider spectrum of sports games aswell as handling more generic content such as movies, TV programs and others.
+Motivated by Qatar's hosting of the 2022 soccer World Cup, we pay a special attention to processing soccer videos. Our system is also capable of handling a wider spectrum of sports games and generic content such as movies, TV programs and others.
 
 
 ## Publications
