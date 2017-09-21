@@ -38,10 +38,10 @@ Motivated by Qatar's hosting of the 2022 soccer World Cup, we pay a special atte
 
 ## Current Members
 - [Mohamed Elgharib](https://scholar.google.com/citations?user=e1WLgm8AAAAJ/)
-- [Ahmed Mamdouh](/people/ahassanien/)
-- [Ajay Nandoria](/people/anandoriya/)
 - [Wojciech Matusik](http://people.csail.mit.edu/wojciech/)
+- [Ahmed Mamdouh](/people/ahassanien/)
 - [Alexandre Kaspar](http://w-x.ch/)
+- [Ajay Nandoria](/people/anandoriya/)
 
 ## Past Members
 - [Mohamed Hefeeda](/people/mhefeeda/)
