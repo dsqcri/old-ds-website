@@ -19,6 +19,9 @@ Current conversion methods porduce low-quality video results that exhibit artifa
 
 The figure above shows the high-level design of V3V systemXXXX...........
 
+## Publications
+- K. Calagari, M. Elgharib, P. Didyk, A. Kaspar, W. Matusik, and M. Hefeeda, "Gradient-based 2D-to-3D Conversion for Soccer Videos", ACM Multimedia (MM'15), Brisbane, Australia, October 2015.
+
 ## Patents
 - Gradient-based 2D to 3D Video Conversion, US Provisional Patent Application, Filed August 2015.
 
