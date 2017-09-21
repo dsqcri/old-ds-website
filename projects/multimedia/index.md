@@ -5,7 +5,7 @@ permalink: /projects/multimedia/
 ---
 
 # 2D to Immersive content conversion
-A wide spread adoption of 3D stereoscopic television and the coming wave of virtual reality devices are hindered by the lack of high-quality 3D and immersive content. One promising solution to address this need is to use automated 2D-to-Immersive content conversion.
+XXXXA wide spread adoption of 3D stereoscopic television and the coming wave of virtual reality devices are hindered by the lack of high-quality 3D and immersive content. One promising solution to address this need is to use automated 2D-to-Immersive content conversion.XXXX
 
 
 ## Project Overview
