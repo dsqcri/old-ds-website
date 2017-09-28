@@ -5,11 +5,79 @@ permalink: /publications/
 ---
 ### 2017
 
+* Ahmed El-Roby and Ashraf Aboulnaga.
+[UFeed: Refining Web Data Integration Based on User Feedback](https://doi.org/10.1145/3132847.3132887),
+*ACM International Conference on Information and Knowledge Management (CIKM)*,
+2017
+([PDF](/publications/2017-elroby-cikm.pdf))
+
+* Kiana Calagari, Mohamed Elgharib, Shervin Shirmohammadi, and Mohamed Hefeeda.
+[Sports VR Content Generation from Regular Camera Feeds](),
+*ACM Multimedia (MM)*,
+2017
+([PDF](/publications/2017-calagari-acmmm.pdf))
+
+* Kiana Calagari, Mohamed Elgharib, Piotr Didyk, Alexander Kaspar, Wojciech Matusik and Mohamed Hefeeda.
+[Data Driven 2D-to-3D Video Conversion for Soccer](https://doi.org/10.1109/TMM.2017.2748458),
+*IEEE Transactions on Multimedia*,
+2017
+([PDF](/publications/2017-calagari-ieeemm.pdf))
+
+* Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
+[The Effect of Collective Attention on Controversial Debates on Social Media](https://doi.org/10.1145/3091478.3091486),
+*International ACM Web Science Conference (WebSci)*,
+2017
+(**Best student paper award**)
+([PDF](/publications/2017-garimella-websci.pdf))
+
+* Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
+[Reducing Controversy by Connecting Opposing Views](https://doi.org/10.1145/3018661.3018703),
+*ACM International Conference on Web Search and Data Mining (WSDM)*,
+2017
+(**Best student paper award**)
+([PDF](/publications/2017-garimella-wsdm.pdf))
+
+* Eslam Hussein, Abdurrahman Ghanem, Vinicius Vitor dos Santos Dias, Carlos H. C. Teixeira, Ghadeer AboUda, Marco Serafini, Georgos Siganos, Gianmarco De Francisci Morales, Ashraf Aboulnaga, and Mohammed Zaki.
+[Graph Data Mining with Arabesque](https://doi.org/10.1145/3035918.3058742),
+*ACM International Conference on Management of Data (SIGMOD)*,
+2017
+([PDF](/publications/2017-hussein-sigmod.pdf))
+
+* Preethi Lahoti, Gianmarco De Francisci Morales, and Aristides Gionis.
+[Finding topical experts in Twitter via query-dependent personalized PageRank](),
+*IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*,
+2017
+([PDF](/publications/2017-lahoti-asonam.pdf))
+
+* Michael J. Mior, Kenneth Salem, Ashraf Aboulnaga, and Rui Liu.
+[NoSE: Schema Design for NoSQL Applications.](https://doi.org/10.1109/TKDE.2017.2722412),
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)*,
+2017
+([PDF](/publications/2016-mior-tkde.pdf))
+
+* Ajay Nandoriya, Mohamed Elgharib, Changil Kim, and Wojciech Matusik.
+[Video Reflection Removal through Spatio-temporal Optimization](),
+*IEEE International Conference on Computer Vision (ICCV)*,
+2017
+([PDF](/publications/2017-nandoriya-iccv.pdf))
+
+* Muhammad Anis Uddin Nasir, Aristides Gionis, Gianmarco De Francisci Morales, Sarunas Girdzijauskas.
+[Fully Dynamic Algorithm for Top-k Densest Subgraphs](),
+*ACM International Conference on Information and Knowledge Management (CIKM)*,
+2017
+([PDF](/publications/2017-nasir-cikm.pdf))
+
 * Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos.
 [QFrag: Distributed Graph Search via Subgraph Isomorphism](/publications/2017-serafini-socc.pdf),
 *ACM Symposium on Cloud Computing (SoCC)*,
 2017
 ([PDF](/publications/2017-serafini-socc.pdf))
+
+* Theodore Vasiloudis, Foteini Beligianni, and Gianmarco De Francisci Morales.
+[BoostVHT: Boosting Distributed Streaming Decision Trees](),
+*ACM International Conference on Information and Knowledge Management (CIKM)*,
+2017
+([PDF](/publications/2017-Vasiloudis-cikm.pdf))
 
 ### 2016
 
@@ -31,11 +99,41 @@ permalink: /publications/
 2016
 ([PDF](/publications/2016-hamza-mmsys.pdf))
 
+* Nicolas Kourtellis, Gianmarco De Francisci Morales, Albert Bifet, and Arinto Murdopo.
+[VHT: Vertical Hoeffding Tree](https://doi.org/10.1109/BigData.2016.7840687),
+*IEEE International Conference on Big Data (BigData)*,
+2016
+([PDF](/publications/2016-kourtellis-bigdata.pdf))
+
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
 [A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
 *Demonstration at the International Conference on World Wide Web (WWW)*,
 2016
 ([PDF](/publications/2016-mansour-www.pdf))
+
+* Panagiota Micholiaa, Merkouris Karaliopoulosa, Iordanis Koutsopoulosa, Luca Maria Aielloc, Gianmarco De Francisci Morales, and Daniele Querciac.
+[Incentivizing Social Media Users for Mobile Crowdsourcing](https://doi.org/10.1016/j.ijhcs.2016.09.007),
+*International Journal of Human-Computer Studies (IJHCS)*,
+2016
+([PDF](/publications/2016-micholiaa-ijhcs.pdf))
+
+* Michael J. Mior, Kenneth Salem, Ashraf Aboulnaga, and Rui Liu.
+[NoSE: Schema Design for NoSQL Applications.](https://doi.org/10.1109/ICDE.2016.7498239),
+*IEEE International Conference on Data Engineering (ICDE)*,
+2016
+([PDF](/publications/2016-mior-icde.pdf))
+
+* Gianmarco De Francisci Morales, and Aristides Gionis.
+[Streaming Similarity Self-Join](https://doi.org/10.14778/2977797.2977805),
+*Proceedings of the VLDB Endowment (PVLDB)*,
+2016
+([PDF](/publications/2016-morales-pvldb.pdf))
+
+* Gianmarco De Francisci Morales, and Aristides Gionis.
+[Streaming Similarity Self-Join](https://doi.org/10.14778/2977797.2977805),
+*Proceedings of the VLDB Endowment (PVLDB)*,
+2016
+([PDF](/publications/2016-morales-pvldb.pdf))
 
 * Muhammad Anis Uddin Nasir, Gianmarco De Francisci Morales, Nicolas Kourtellis, and Marco Serafini.
 [When Two Choices Are not Enough: Balancing at Scale in Distributed Stream Processing](https://doi.org/10.1109/ICDE.2016.7498273),
@@ -49,11 +147,23 @@ permalink: /publications/
 2016
 ([PDF](/publications/2016-shah-mmm.pdf))
 
-* Marco Serafini, Rebecca Taft, Aaron J. Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker.
+* Ahmed Selim, Mohamed Elgharib, and Linda Doyle.
+[Painting Style Transfer for Head Portraits using Convolutional Neural Networks](https://doi.org/10.1145/2897824.2925968),
+*ACM Transactions on Graphics (proceedings of SIGGRAPH)*,
+2016
+([PDF]())
+
+* Marco Serafini, Rebecca Taft, Aaron J. Elmore, Andrew Pavlo, Ashraf Aboulnaga, and Michael Stonebraker.
 [Clay: Fine-Grained Adaptive Partitioning for General Database Schemas](https://doi.org/10.14778/3025111.3025125),
 *Proceedings of the VLDB Endowment (PVLDB)*,
 2016
 ([PDF](/publications/2016-serafini-vldb.pdf))
+
+* Ioanna Tsalouchidou, Gianmarco De Francisci Morales, Francesco Bonchi, and Ricardo Baeza-Yates.
+[Scalable Dynamic Graph Summarization](https://doi.org/10.1109/BigData.2016.7840704),
+*IEEE International Conference on Big Data (BigData)*,
+2016
+([PDF](/publications/2016-tsalouchidou-bigdata.pdf))
 
 
 ### 2015
