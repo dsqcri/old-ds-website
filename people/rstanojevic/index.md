@@ -6,9 +6,7 @@ permalink: /people/rstanojevic/
 ![rstanojevic](/people/rstanojevic/rstanojevic.jpg)
 
 
-Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCRI) since February 2016. Before joining QCRI he was a researcher in Telefonica Research where he worked on network economics, 
-cellular networks and data mining for insurance. He has a PhD from Hamilton Institute, National University of Ireland. For the joint work with his PhD advisor, Robert Shorten, 
-he was awarded Best paper award at IWQoS 2009 and Best student paper award at ACM SIGMETRICS 2008.
+Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCRI) since February 2016. Before joining QCRI he was a researcher in Telefonica Research. Currently, his research focuses on spatial data analytics. He has a PhD from Hamilton Institute, National University of Ireland. For the joint work with his PhD advisor, Robert Shorten, he was awarded Best paper award at IWQoS 2009 and Best student paper award at ACM SIGMETRICS 2008.
 
 ### Research Focus
 - Network and data economics
@@ -21,6 +19,13 @@ he was awarded Best paper award at IWQoS 2009 and Best student paper award at AC
 - Research Assistant Professor. IMDEA Networks October 2010 - March 2012.
 
 ### Recent Publications
+
+- Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Gianmarco De Francisci Morales, Sanjay Chawla, Fethi Filali, Ahid Aleimat. “Road Network Fusion for Incremental Map Updates”. In Proceedings of LBS 2018 (to appear). 
+- Rade Stanojevic. “How safe is your (taxi) driver?”.  In Proceedings of ACM CIKM 2017. 
+- Rade Stanojevic, Mohamed Nabeel, Ting Yu. “Distributed Cardinality Estimation of Set Operations with Differential Privacy”.  In Proceedings of IEEE PAC 2017. 
+- Zachary S. Bischof, Fabian E. Bustamante, Rade Stanojevic: “The Utility Argument - Making a Case for Broadband SLAs”.  In Proceedings of PAM 2017.
+- Rade Stanojevic, Laszlo Gyarmati. “Towards Data-Driven Football Player Assessment”. In Proceedings of ICDM Workshop on Data Mining for the Analysis of Performance and Success, 2016. 
+- Laszlo Gyarmati, Rade Stanojevic. “QPass: a Merit-based Evaluation of Soccer Passes”. In. Proceedings of ACM KDD Workshop on Large-Scale Sports Analytics, 2016.
 - A. Lima, R. Stanojevic, D. Papagiannaki, P. Rodriguez, M.C. Gonzalez. “Understanding individual routing behaviour”. Journal of The Royal Society Interface vol. 13(116), 2016.
 - A. Lutu, M. Bagnulo, C. Pelsser, K. Cho, R. Stanojevic. “An analysis of the economic impact of strategic deaggregation”. Computer Networks, vol. 81(C), 2015.
 - I. Leontiadis, A. Lima, H. Kwak, R. Stanojevic, D. Wetherall, K. Papagiannaki. “From Cells to Streets: Estimating Mobile Paths with Cellular-Side Data”. In Proceedings of ACM CoNEXT 2014, Sydney, Australia.
