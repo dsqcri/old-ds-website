@@ -3,7 +3,22 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+### 2018
+
+* Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Gianmarco De Francisci Morales, Sanjay Chawla, Fethi Filali, and Ahid Aleimat.
+[Road Network Fusion for Incremental Map Updates](/publications/2018-stanojevic-lbs.pdf),
+*International Conference on Location Based Services (LBS)*,
+2018
+([PDF](/publications/2018-stanojevic-lbs.pdf))
+
 ### 2017
+
+* Zachary S. Bischof, Fabian E. Bustamante, and Rade Stanojevic.
+[The Utility Argument - Making a Case for Broadband SLAs](https://doi.org/10.1007/978-3-319-54328-4_12),
+*International Conference on Passive and Active Network Measurement (PAM)*,
+2017
+([PDF](/publications/2017-bischof-pam.pdf))
 
 * Ahmed El-Roby and Ashraf Aboulnaga.
 [UFeed: Refining Web Data Integration Based on User Feedback](https://doi.org/10.1145/3132847.3132887),
@@ -49,8 +64,14 @@ permalink: /publications/
 2017
 ([PDF](/publications/2017-lahoti-asonam.pdf))
 
+* Claudio Martella, Dionysios Logothetis, Andreas Loukas, and Georgos Siganos.
+[Spinner: Scalable Graph Partitioning in the Cloud](https://doi.org/10.1109/ICDE.2017.153),
+*IEEE International Conference on Data Engineering (ICDE)*,
+2017
+([PDF](/publications/2017-martella-icde.pdf))
+
 * Michael J. Mior, Kenneth Salem, Ashraf Aboulnaga, and Rui Liu.
-[NoSE: Schema Design for NoSQL Applications.](https://doi.org/10.1109/TKDE.2017.2722412),
+[NoSE: Schema Design for NoSQL Applications](https://doi.org/10.1109/TKDE.2017.2722412),
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*,
 2017
 ([PDF](/publications/2016-mior-tkde.pdf))
@@ -73,6 +94,18 @@ permalink: /publications/
 2017
 ([PDF](/publications/2017-serafini-socc.pdf))
 
+* Rade Stanojevic.
+[How safe is your (taxi) driver?](/publications/2017-stanojevic-cikm.pdf),
+*ACM International Conference on Information and Knowledge Management (CIKM)*,
+2017
+([PDF](/publications/2017-stanojevic-cikm.pdf))
+
+* Rade Stanojevic, Mohamed Nabeel, and Ting Yu.
+[Distributed Cardinality Estimation of Set Operations with Differential Privacy](/publications/2017-stanojevic-pac.pdf),
+*IEEE Symposium on Privacy-aware Computing (PAC)*,
+2017
+([PDF](/publications/2017-stanojevic-pac.pdf))
+
 * Theodore Vasiloudis, Foteini Beligianni, and Gianmarco De Francisci Morales.
 [BoostVHT: Boosting Distributed Streaming Decision Trees](),
 *ACM International Conference on Information and Knowledge Management (CIKM)*,
@@ -87,11 +120,17 @@ permalink: /publications/
 2016
 ([PDF](/publications/2015-aji-tpds.pdf))
 
-* Laszlo Gyarmati and Mohamed Hefeeda.
+* Laszlo Gyarmati, and Mohamed Hefeeda.
 [Analyzing In-Game Movements of Soccer Players at Scale](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1487-Analyzing-In-Game-Movements-of-Soccer-Players-at-Scale.pdf),
 *MIT Sloan Sports Analytics Conference*,
 2016
 ([PDF](/publications/2016-gyarmati-sa.pdf))
+
+* Laszlo Gyarmati, and Rade Stanojevic.
+[QPass: a Merit-based Evaluation of Soccer Passes](https://arxiv.org/abs/1608.03532),
+*ACM Workshop on Large-Scale Sports Analytics (KDD)*,
+2016
+([PDF](/publications/2016-gyarmati-kdd.pdf))
 
 * Ahmed Hamza and Mohamed Hefeeda.
 [Adaptive Streaming of Interactive Free Viewpoint Videos to Heterogeneous Clients](https://doi.org/10.1145/2910017.2910610),
@@ -104,6 +143,12 @@ permalink: /publications/
 *IEEE International Conference on Big Data (BigData)*,
 2016
 ([PDF](/publications/2016-kourtellis-bigdata.pdf))
+
+* Antonio Lima, Rade Stanojevic, Dina Papagiannaki, Pablo Rodriguez, and  Marta C. Gonzalez.
+[Understanding individual routing behaviour](https://doi.org/10.1098/rsif.2016.0021),
+*Journal of The Royal Society Interface (RSIF)*,
+2016
+([PDF](/publications/2016-lima-rsif.pdf))
 
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
 [A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
@@ -140,6 +185,12 @@ permalink: /publications/
 *IEEE International Conference on Data Engineering (ICDE)*,
 2016
 ([PDF](/publications/2016-nasir-icde.pdf))
+
+* Rade Stanojevic, and Laszlo Gyarmati.
+[Towards Data-Driven Football Player Assessment](https://doi.org/10.1109/ICDMW.2016.0031),
+*IEEE Workshop on Data Mining for the Analysis of Performance and Success (ICDMW)*,
+2016
+([PDF](/publications/2016-stanojevic-icdmw.pdf))
 
 * Rajiv Ratn Shah, Mohamed Hefeeda, Roger Zimmermann, Khaled Harras, Cheng-Hsin Hsu, and Yi Yu.
 [NEWSMAN: Uploading Videos over Adaptive Middleboxes to News Servers in Weak Network Infrastructures](https://doi.org/10.1007/978-3-319-27671-7_9),
