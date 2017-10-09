@@ -58,6 +58,12 @@ permalink: /publications/
 2017
 ([PDF](/publications/2017-hussein-sigmod.pdf))
 
+* Xu Ji, Chao Wang, Nosayba El-Sayed, Xiaosong Ma, Youngjae Kim, Sudharshan Vazhkudai, Wei Xue, and Daniel Sanchez.
+[Understanding Object-Level Memory Access Patterns Across the Spectrum](/publications/2017-ji-sc.pdf),
+*International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*,
+2017
+([PDF](/publications/2017-ji-sc.pdf))
+
 * Preethi Lahoti, Gianmarco De Francisci Morales, and Aristides Gionis.
 [Finding topical experts in Twitter via query-dependent personalized PageRank](),
 *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*,
@@ -150,6 +156,12 @@ permalink: /publications/
 2016
 ([PDF](/publications/2016-lima-rsif.pdf))
 
+* Yang Liu, Raghul Gunasekaran, Xiaosong Ma, and Sudharshan S. Vazhkudai.
+[Server-side Log Data Analytics for I/O Workload Characterization and Coordination on Large Shared Storage Systems](https://doi.org/10.1109/SC.2016.69),
+*International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*,
+2016
+([PDF](/publications/2016-liu-sc.pdf))
+
 * Essam Mansour, Andrei Vlad Sambra, Sandro Hawke, Maged Zereba, Sarven Capadisli, Abdurrahman Ghanem, Ashraf Aboulnaga, and Tim Berners-Lee.
 [A Demonstration of the Solid Platform for Social Web Applications](https://doi.org/10.1145/2872518.2890529),
 *Demonstration at the International Conference on World Wide Web (WWW)*,
@@ -215,6 +227,12 @@ permalink: /publications/
 *IEEE International Conference on Big Data (BigData)*,
 2016
 ([PDF](/publications/2016-tsalouchidou-bigdata.pdf))
+
+* Xiaowei Zhu, Wenguang Chen, Weimin Zheng, and Xiaosong Ma.
+[Gemini: A Computation-Centric Distributed Graph Processing System](https://www.usenix.org/system/files/conference/osdi16/osdi16-zhu.pdf),
+*USENIX Symposium on Operating Systems Design and Implementation (OSDI)*,
+2016
+([PDF](/publications/2016-zhu-osdi.pdf))
 
 
 ### 2015
