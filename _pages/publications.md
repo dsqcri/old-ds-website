@@ -52,12 +52,6 @@ permalink: /publications/
 (**Best student paper award**)
 ([PDF](/publications/2017-garimella-wsdm.pdf))
 
-* Eslam Hussein, Abdurrahman Ghanem, Vinicius Vitor dos Santos Dias, Carlos H. C. Teixeira, Ghadeer AboUda, Marco Serafini, Georgos Siganos, Gianmarco De Francisci Morales, Ashraf Aboulnaga, and Mohammed Zaki.
-[Graph Data Mining with Arabesque](https://doi.org/10.1145/3035918.3058742),
-*ACM International Conference on Management of Data (SIGMOD)*,
-2017
-([PDF](/publications/2017-hussein-sigmod.pdf))
-
 * Xu Ji, Chao Wang, Nosayba El-Sayed, Xiaosong Ma, Youngjae Kim, Sudharshan Vazhkudai, Wei Xue, and Daniel Sanchez.
 [Understanding Object-Level Memory Access Patterns Across the Spectrum](/publications/2017-ji-sc.pdf),
 *International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*,
