@@ -74,7 +74,7 @@ permalink: /publications/
 [NoSE: Schema Design for NoSQL Applications](https://doi.org/10.1109/TKDE.2017.2722412),
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*,
 2017
-([PDF](/publications/2016-mior-tkde.pdf))
+([PDF](/publications/2017-mior-tkde.pdf))
 
 * Ajay Nandoriya, Mohamed Elgharib, Changil Kim, and Wojciech Matusik.
 [Video Reflection Removal through Spatio-temporal Optimization](),
