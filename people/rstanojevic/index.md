@@ -20,7 +20,7 @@ Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCR
 
 ### Recent Publications
 
-- R. Stanojevic, S. Abbar, S. Thirumuruganathan, G. De Francisci Morales, S. Chawla, F. Filali, A. Aleimat. “Road Network Fusion for Incremental Map Updates”. In Proceedings of LBS 2018 (to appear). 
+- R. Stanojevic, S. Abbar, S. Thirumuruganathan, G. De Francisci Morales, S. Chawla, F. Filali, A. Aleimat. “Road Network Fusion for Incremental Map Updates”. In Proceedings of LBS 2018 (to appear). [PDF](http://ds.qcri.org/publications/2018-stanojevic-lbs.pdf)
 - R. Stanojevic. “How safe is your (taxi) driver?”.  In Proceedings of ACM CIKM 2017. 
 - R. Stanojevic, Mohamed Nabeel, Ting Yu. “Distributed Cardinality Estimation of Set Operations with Differential Privacy”.  In Proceedings of IEEE PAC 2017. 
 - Z. Bischof, F. Bustamante, R. Stanojevic: “The Utility Argument - Making a Case for Broadband SLAs”.  In Proceedings of PAM 2017.
