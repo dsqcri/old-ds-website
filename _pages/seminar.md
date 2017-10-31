@@ -10,6 +10,8 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
+|Sep 20th (Wed)		|Video Reflection Removal Through Spatio-Temporal Optimization([Abstract](/seminars/VideoReflectionRemoval/))|Ajay N. Nandoriya|RDC (1st floor)|11:00-12:00|
+||||||
 |May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud([Abstract](/seminars/BigDataDaaS/))|[Fatos Xhafa](http://www.cs.upc.edu/~fatos/)|RDC (1st floor)|11:00-12:00|
 ||||||
 |May 3rd (Wed)		|Crowdsourcing the Acquisition of Video Segmentations by Propagation, Evaluation and Merge([Abstract](/seminars/CrowdsourcingElgharib/))|Mohamed Elgharib|RDC (1st floor)|11:00-12:00|
