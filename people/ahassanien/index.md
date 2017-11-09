@@ -8,11 +8,11 @@ permalink: /people/ahassanien/
 
 
 ### Research Focus
-- I am interested in computer vision, deep learning and graphical models. My research focuses on data domain adaptation, unsupervised learning and self supervised representation learining.
+- I am interested in computer vision, deep learning and graphical models. My research focuses on variational models, data domain adaptation, unsupervised learning and self supervised representation learining.
 
 ### Previous Experience
 - Research associate at Qatar Computing Research Institute.
-- Research interna and master thesis student at Sony Technology Center in Stuttgart.
+- Research intern and master thesis student at Sony Technology Center in Stuttgart.
 - Research assistatnt at Advanced Technoogy Lab in Cairo - Microsoft Research.
 - Research assistant at Nile University.
  
