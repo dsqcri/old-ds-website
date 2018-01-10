@@ -26,6 +26,8 @@ permalink: /people/
 
 - Thanaa Ghanem, Visiting Scientist
 
+- Tae-Hyun Oh, Postdoctoral Researcher (joint postdoc with MIT-CSAIL)
+
 - Meshaal Al Saffar, Research Associate -- on study leave 
 
 - [Ahmed Hassanien](/people/ahassanien), Research Associate
@@ -35,7 +37,6 @@ permalink: /people/
 - Xiongchao Tang, Research Associate
 
 - Haojie Wang, Research Associate
-
 
 
 ## Alumni
