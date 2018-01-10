@@ -10,25 +10,21 @@ permalink: /people/
 
 - Xiaosong Ma, Principal Scientist
 
-- Georgos Siganos, Senior Scientist
-
 - [Rade Stanojevic](/people/rstanojevic), Senior Scientist
 
-- [Laszlo Gyarmati](/people/lgyarmati), Senior Software Engineer
-
 - [Gianmarco De Francisci Morales](https://gdfm.me/), Scientist
+
+- Nosayba El-Sayed, Scientist
 
 - Mohamed Elgharib, Scientist
 
 - [Marco Serafini](/people/mserafini), Scientist
 
-- Lolwa Al Maadid, Software Engineer -- on study leave
+- Lolwa Al Maadid, Software Engineer
 
 - [Abdurrahman Ghanem](/people/abghanem), Software Engineer
 
 - Thanaa Ghanem, Visiting Scientist
-
-- Nosayba El-Sayed, Postdoctoral Researcher (joint postdoc with MIT-CSAIL)
 
 - Meshaal Al Saffar, Research Associate -- on study leave 
 
@@ -36,11 +32,17 @@ permalink: /people/
 
 - Eslam Hussein, Research Associate
 
-- Ajay Nandoriya, Research Associate
+- Xiongchao Tang, Research Associate
+
+- Haojie Wang, Research Associate
+
 
 
 ## Alumni
 
+- Georgos Siganos, Senior Scientist
+- Ajay Nandoriya, Research Associate &rarr; Kyoto Robotics, Kyoto
+- Laszlo Gyarmati, Senior Software Engineer
 - Xiaowei Zhu, Research Associate &rarr; PhD Student, Tsinghua University
 - Anis Troudi, Research Assistant
 - Xu Ji, Research Associate &rarr; PhD Student, Tsinghua University
