@@ -6,6 +6,12 @@ permalink: /publications/
 
 ### 2018
 
+* Nosayba El-Sayed, Anurag Mukkara, Po-An Tsai, Harshad Kasture, Xiaosong Ma, and Daniel Sanchez.
+[KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](/publications/2018-elsayed-hpca.pdf),
+*International Symposium on High Performance Computer Architecture (HPCA)*,
+2018
+([PDF](/publications/2018-elsayed-hpca.pdf))
+
 * Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Gianmarco De Francisci Morales, Sanjay Chawla, Fethi Filali, and Ahid Aleimat.
 [Road Network Fusion for Incremental Map Updates](/publications/2018-stanojevic-lbs.pdf),
 *International Conference on Location Based Services (LBS)*,
