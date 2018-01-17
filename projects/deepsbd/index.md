@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large-scale, Fast and Accurate Shot Boundary Detection through Convolutional Neural Networks
+title: Deep Shot Boundary Detection
 permalink: /projects/deepsbd/
 ---
 
@@ -13,8 +13,9 @@ Since current datasets are not large enough to train an accurate SBD CNN, we are
 
 ## Dataset
 
+![synthetic data](/projects/crosscloud/3.jpg)
+
 - [Dataset](deepsbd.qcri.org/DeepSBD.tar.gz)
-- [synthetic data](/projects/crosscloud/3.jpg)
 
 ## publications
 - Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks, A Hassanien, M Elgharib, A Selim, M Hefeeda… - arXiv preprint arXiv:1705.03281, 2017
