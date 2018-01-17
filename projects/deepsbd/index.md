@@ -15,7 +15,7 @@ Since current datasets are not large enough to train an accurate SBD CNN, we are
 
 ![synthetic data](/projects/deepsbd/3.jpg)
 
-- [Dataset](deepsbd.qcri.org/DeepSBD.tar.gz)
+- [Dataset](http://deepsbd.qcri.org/DeepSBD.tar.gz)
 
 - [github](https://github.com/melgharib/DSBD)
 ## publications
