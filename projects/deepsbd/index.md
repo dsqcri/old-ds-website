@@ -17,6 +17,7 @@ Since current datasets are not large enough to train an accurate SBD CNN, we are
 
 - [Dataset](deepsbd.qcri.org/DeepSBD.tar.gz)
 
+- [github](https://github.com/melgharib/DSBD)
 ## publications
 - Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks, A Hassanien, M Elgharib, A Selim, M Hefeeda… - arXiv preprint arXiv:1705.03281, 2017
 ## Team
