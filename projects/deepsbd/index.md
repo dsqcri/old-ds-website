@@ -13,7 +13,7 @@ Since current datasets are not large enough to train an accurate SBD CNN, we are
 
 ## Dataset
 
-![synthetic data](/projects/crosscloud/3.jpg)
+![synthetic data](/projects/deepsbd/3.jpg)
 
 - [Dataset](deepsbd.qcri.org/DeepSBD.tar.gz)
 
