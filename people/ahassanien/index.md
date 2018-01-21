@@ -38,7 +38,11 @@ permalink: /people/ahassanien/
 
 ### Contacts
 
-I am Moving to ElementAI, Montreal, Quebec. Please contact me on my personal E-mail a.mamd007@gmail.com
+
+
+
+
+Please contact me on my personal E-mail a.mamd007@gmail.com
 
 
 
