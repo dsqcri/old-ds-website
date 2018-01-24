@@ -36,6 +36,31 @@ permalink: /people/ahassanien/
 1. Hassanien A, Elgharib M, Selim A, Sung-Ho Bae, Hefeeda M, and Wojciech Matusik. "Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks." arXiv preprint arXiv:1705.03281 (2017).
 2. Hassanien A, Blaxall Mark, Cardinaux Fabien. "Sequence to sequence learning for unconstrained scene text recognition." arXiv preprint arXiv:1607.06125 (2016).
 
+### Contacts
+
+
+
+
+
+Please contact me on my personal E-mail a.mamd007@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
