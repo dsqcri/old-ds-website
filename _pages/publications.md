@@ -12,7 +12,7 @@ permalink: /publications/
 2018
 ([PDF](/publications/2018-elsayed-hpca.pdf))
 
-Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
+* Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
 [Robust Road Map Inference through Network Alignment of Trajectories](/publications/2018-stanojevic-sdm.pdf),
 *Proceedings of SIAM International Conference on Data Mining (SDM)*,
 2018
