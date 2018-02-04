@@ -24,6 +24,18 @@ permalink: /publications/
 2018
 ([PDF](/publications/2018-stanojevic-lbs.pdf))
 
+* Rebecca Taft, Nosayba El-Sayed, Marco Serafini, Yu Lu, Ashraf Aboulnaga, Michael Stonebraker, Ricardo Mayerhofer, Francisco Andrade.
+[P-Store: An Elastic Database System with Predictive Provisioning](/publications/2018-taft-sigmod.pdf),
+*ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2018)*,
+2018
+([PDF](/publications/2018-taft-sigmod.pdf))
+
+* Guangyan Zhang, Zican Huang, Xiaosong Ma, Songlin Yang, Zhufan Wang, and Weimin Zheng.
+[RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures](/publications/2018-zhang-fast.pdf),
+*The 16th USENIX Conference on File and Storage Technologies (FAST 2018)*,
+2018
+([PDF](/publications/2018-zhang-fast.pdf))
+
 ### 2017
 
 * Zachary S. Bischof, Fabian E. Bustamante, and Rade Stanojevic.
