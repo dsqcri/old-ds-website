@@ -22,10 +22,10 @@ I am currently involved in three projects:
 ### Arabesque: A system for distributed graph mining and search
 Graph mining algorithms such as frequent subgraph mining, motif counting, or finding dense subgraphs, are powerful tools to extract interesting subgraphs from a large graph. They are very important for areas such as social networks, semantic web, and bioinformatics. However, they have high computational complexity, which is mainly due to the need for enumerating a huge number of subgraphs of the input graph. **Arabesque** is a system that helps programmers implement graph mining algorithms by abstracting away subgraph enumeration. It offers a simple functional API where application basically just have to specify a boolean *filter* function, which takes a subgraph as input and returns whether the subgraph is interesting. Arabesque also transparently distributes and optimizes the enumeration process across multiple servers running Hadoop. It keeps all its state in memory in order to avoid the cost of random accesses to disk.
 
-Arabesque is an open source system running on top of Giraph and (soon) Spark. 
-Check out the project homepage at [arabesque.io](http://arabesque.io)
-
 Graph search is a different problem than graph mining: in this case, we have a specific pattern of interest (i.e., a query graph) and we want to find all of its instances in a large data graph. In **QFrag**, we implement graph search by *partitioning computation, not data*: every worker has a complete copy of the data graph, like in Arabesque. This enables using state-of-the-art sequential subgraph isomorphism algorithms for distributed graph search. QFrag introduces a technique called *task fragmentation* to balance load while preserving the sequential nature of the subgraph isomorphism algorithms it uses.
+
+Arabesque is an open source system running on top of Spark. QFrag will be open sourced soon.
+Check out the project homepage at [arabesque.io](http://arabesque.io)
 
 *Papers:*
 
