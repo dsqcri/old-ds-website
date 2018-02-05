@@ -31,7 +31,7 @@ Check out the project homepage at [arabesque.io](http://arabesque.io)
 * [QFrag](http://ds.qcri.org/people/mserafini/QFrag.pdf): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"QFrag: Distributed Graph Search via Subgraph Isomorphism"*. ACM Symp. on Cloud Computing (SoCC) 2017
 
 
-###  Database elasticity (Accordion, E-Store, Clay)
+###  Database elasticity
 
 Cloud computing platforms gives the opportunity to reduce the hardware cost of running a database management system by dynamically add and remove servers from a distributed cluster according to load changes. In order to leverage this flexibility, applications need to be designed to be *elastic*, i.e., to transfer data and computation to and from servers whenever it is needed. Elastic databases abstract away the complexity of elasticity from applications. They are able to detect changes in load on-line and devise a data and load migration plan that can accomodate these changes. I have worked on three systems for database elasticity: *Accordion*, which partitions the database in small blocks and transfers them as needed based on online monitoring information, *E-Store*, which uses a two-tiered approach to identify and move hot tuples at very high granularity, and *Clay*, which extends E-Store to support arbitrary transactional access patterns involving multiple tuples.
 
