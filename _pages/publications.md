@@ -6,6 +6,18 @@ permalink: /publications/
 
 ### 2018
 
+* Nosayba El-Sayed, Anurag Mukkara, Po-An Tsai, Harshad Kasture, Xiaosong Ma, and Daniel Sanchez.
+[KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](/publications/2018-elsayed-hpca.pdf),
+*International Symposium on High Performance Computer Architecture (HPCA)*,
+2018
+([PDF](/publications/2018-elsayed-hpca.pdf))
+
+* Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
+[Robust Road Map Inference through Network Alignment of Trajectories](/publications/2018-stanojevic-sdm.pdf),
+*Proceedings of SIAM International Conference on Data Mining (SDM)*,
+2018
+([PDF](/publications/2018-stanojevic-sdm.pdf))
+
 * Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Gianmarco De Francisci Morales, Sanjay Chawla, Fethi Filali, and Ahid Aleimat.
 [Road Network Fusion for Incremental Map Updates](/publications/2018-stanojevic-lbs.pdf),
 *International Conference on Location Based Services (LBS)*,
