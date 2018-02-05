@@ -16,7 +16,7 @@ I am a Scientist at the Qatar Computing Research Institute, where I work at the 
 I am currently involved in three projects: 
 
 * Arabesque, a system for distributed graph mining
-* Elastic database management systems (Accordion, E-Store, Clay)
+* Elastic database management systems
 * Load balancing in distributed stream processing systems
 
 ### Arabesque: A system for distributed graph mining and search
