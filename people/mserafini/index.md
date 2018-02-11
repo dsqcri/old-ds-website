@@ -16,13 +16,15 @@ I am a Scientist at the Qatar Computing Research Institute, where I work at the 
 I am currently involved in three projects: 
 
 * Arabesque, a system for distributed graph mining
-* Elastic database management systems (Accordion, E-Store, Clay)
+* Elastic database management systems
 * Load balancing in distributed stream processing systems
 
-### Arabesque: A system for distributed graph mining
-Graph mining algorithms such as frequent subgraph mining, motif counting, or finding dense subgraphs, are powerful tools to extract interesting subgraphs from a large graph. They are very important for areas such as social networks, semantic web, and bioinformatics. However, they have high computational complexity, which is mainly due to the need for enumerating a huge number of subgraphs of the input graph. Arabesque is a system that helps programmers implement graph mining algorithms by abstracting away subgraph enumeration. It offers a simple functional API where application basically just have to specify a boolean *filter* function, which takes a subgraph as input and returns whether the subgraph is interesting. Arabesque also transparently distributes and optimizes the enumeration process across multiple servers running Hadoop. It keeps all its state in memory in order to avoid the cost of random accesses to disk.
+### Arabesque: A system for distributed graph mining and search
+Graph mining algorithms such as frequent subgraph mining, motif counting, or finding dense subgraphs, are powerful tools to extract interesting subgraphs from a large graph. They are very important for areas such as social networks, semantic web, and bioinformatics. However, they have high computational complexity, which is mainly due to the need for enumerating a huge number of subgraphs of the input graph. **Arabesque** is a system that helps programmers implement graph mining algorithms by abstracting away subgraph enumeration. It offers a simple functional API where application basically just have to specify a boolean *filter* function, which takes a subgraph as input and returns whether the subgraph is interesting. Arabesque also transparently distributes and optimizes the enumeration process across multiple servers running Hadoop. It keeps all its state in memory in order to avoid the cost of random accesses to disk.
 
-Arabesque is an open source system running on top of Giraph and (soon) Spark. 
+Graph search is a different problem than graph mining: in this case, we have a specific pattern of interest (i.e., a query graph) and we want to find all of its instances in a large data graph. In **QFrag**, we implement graph search by *partitioning computation, not data*: every worker has a complete copy of the data graph, like in Arabesque. This enables using state-of-the-art sequential subgraph isomorphism algorithms for distributed graph search. QFrag introduces a technique called *task fragmentation* to balance load while preserving the sequential nature of the subgraph isomorphism algorithms it uses.
+
+Arabesque is an open source system running on top of Spark. QFrag will be open sourced soon.
 Check out the project homepage at [arabesque.io](http://arabesque.io)
 
 *Papers:*
@@ -31,9 +33,9 @@ Check out the project homepage at [arabesque.io](http://arabesque.io)
 * [QFrag](http://ds.qcri.org/people/mserafini/QFrag.pdf): Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos, *"QFrag: Distributed Graph Search via Subgraph Isomorphism"*. ACM Symp. on Cloud Computing (SoCC) 2017
 
 
-###  Database elasticity (Accordion, E-Store, Clay)
+###  Database elasticity
 
-Cloud computing platforms gives the opportunity to reduce the hardware cost of running a database management system by dynamically add and remove servers from a distributed cluster according to load changes. In order to leverage this flexibility, applications need to be designed to be *elastic*, i.e., to transfer data and computation to and from servers whenever it is needed. Elastic databases abstract away the complexity of elasticity from applications. They are able to detect changes in load on-line and devise a data and load migration plan that can accomodate these changes. I have worked on three systems for database elasticity: *Accordion*, which partitions the database in small blocks and transfers them as needed based on online monitoring information, *E-Store*, which uses a two-tiered approach to identify and move hot tuples at very high granularity, and *Clay*, which extends E-Store to support arbitrary transactional access patterns involving multiple tuples.
+Cloud computing platforms gives the opportunity to reduce the hardware cost of running a database management system by dynamically add and remove servers from a distributed cluster according to load changes. In order to leverage this flexibility, applications need to be designed to be *elastic*, i.e., to transfer data and computation to and from servers whenever it is needed. Elastic databases abstract away the complexity of elasticity from applications. They are able to detect changes in load on-line and devise a data and load migration plan that can accomodate these changes. I have worked on four systems for database elasticity. **Accordion** partitions the database in small blocks and transfers them as needed based on online monitoring information. **E-Store** uses a two-tiered approach to identify and move hot tuples at very high granularity. **Clay** extends E-Store to support arbitrary transactional access patterns involving multiple tuples. All these systems use a *reactive* approach, where reconfigurations are triggered whenever a workload change is detected. **P-Store** uses workload prediction to start reconfigurations ahead of time. This avoids reconfiguring the system at peak load.
 
 The project was a collaboration with Michael Stonebraker's group at MIT.
 
@@ -42,6 +44,7 @@ The project was a collaboration with Michael Stonebraker's group at MIT.
 * [Accordion](http://www.vldb.org/pvldb/vol7/p1035-serafini.pdf): Marco Serafini, Essam Mansour, Ashraf Aboulnaga, Kenneth Salem, Taha Rafiq, Umar Farooq Minhas. *"Accordion: Elastic Scalability for Database Systems Supporting Distributed Transactions".* Int. Conf. on Very Large Data Bases (VLDB) 2014 
 * [E-Store](http://www.vldb.org/pvldb/vol8/p245-taft.pdf): Rebecca Taft, Essam Mansour, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker. *"E-Store: Fine-Grained Elastic Partitioning for Distributed Transactions Processing Systems".* Int. Conf. on Very Large Data Bases (VLDB) 2015
 * [Clay](http://ds.qcri.org/people/mserafini/clay.pdf): Marco Serafini, Rebecca Taft, Aaron Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker. *"Clay: Fine-Grained Adaptive Partitioning for General Database Schemas"*. Int. Conf. on Very Large Data Bases (VLDB) 2017
+* [P-Store](mailto:mserafini@hbku.edu.qa): Rebecca Taft, Nosayba El-Sayed, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker, Ricardo Mayerhofer, Francisco Andrade. *"P-Store: An Elastic Database System with Predictive Provisioning"*. ACM SIGMOD Int. Conf. on Management of Data (SIGMOD) 2018
 
 ### Load balancing in distributed stream processing systems
 
@@ -103,6 +106,7 @@ I received my PhD at TU Darmstadt. My thesis introduced the concept of Eventual 
 
 I have been or will be PC member of VLDB 2018, ICDE 2018, SOSP 2017, VLDB 2017, Eurosys 2017, WWW 2017, DSN 2017, IC2E 2017, APSys 2017, Eurosys 2016, ICDCS 2016, ICDE 2016, SRDS 2106, IC2E 2016, SIGMOD 2016 demo, ICDCS 2015, WWW 2015, SRDS 2015, OPODIS 2014, SSS 2014, Middleware 2012 (Industry track), EDCC 2012, SOFSEM 2011.
 
+I will be the co-PC chair of the LADIS 2018 workshop (Large-Scale Distributed Systems and Middleware), colocated with PODC 2018.
 I was the co-PC chair of the PaPoC 2015 workshop (Principles and Practice of Consistency for Distributed Data), colocated with Eurosys 2015.
 
 # Awards
