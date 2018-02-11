@@ -12,6 +12,12 @@ permalink: /publications/
 2018
 ([PDF](/publications/2018-elsayed-hpca.pdf))
 
+* Alexandre Kaspar, Geneviève Patterson, Changil Kim, Yagiz Aksoy, Wojciech Matusik, and Mohamed Elgharib.
+[Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?](http://people.inf.ethz.ch/aksoyy/crowdroto/),
+*The ACM CHI Conference on Human Factors in Computing Systems (CHI)*,
+2018
+([PDF](/publications/2018-kaspar-chi.pdf))
+
 * Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
 [Robust Road Map Inference through Network Alignment of Trajectories](/publications/2018-stanojevic-sdm.pdf),
 *Proceedings of SIAM International Conference on Data Mining (SDM)*,
