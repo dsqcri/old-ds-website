@@ -10,7 +10,13 @@ permalink: /publications/
 [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](/publications/2018-elsayed-hpca.pdf),
 *International Symposium on High Performance Computer Architecture (HPCA)*,
 2018
-([PDF](/publications/2018-elsayed-hpca.pdf))
+([PDF](/publications/2018-elsayed-hpca.pdf
+
+* Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
+[Quantifying Controversy on Social Media](/publications/2018-garimella-tsc.pdf),
+*ACM Transactions on Social Computing (TSC)*,
+2018
+([PDF](/publications/2018-garimella-tsc.pdf))
 
 * Alexandre Kaspar, Geneviève Patterson, Changil Kim, Yagiz Aksoy, Wojciech Matusik, and Mohamed Elgharib.
 [Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?](http://people.inf.ethz.ch/aksoyy/crowdroto/),
