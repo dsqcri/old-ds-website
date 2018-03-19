@@ -10,7 +10,7 @@ permalink: /publications/
 [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](/publications/2018-elsayed-hpca.pdf),
 *International Symposium on High Performance Computer Architecture (HPCA)*,
 2018
-([PDF](/publications/2018-elsayed-hpca.pdf)
+([PDF](/publications/2018-elsayed-hpca.pdf))
 
 * Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
 [Quantifying Controversy on Social Media](/publications/2018-garimella-tsc.pdf),
