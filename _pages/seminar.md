@@ -10,9 +10,9 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
-|March 21st (Wed)		|Partnership with Karwa ([Abstract](/seminars/karwa/))|Rade Stanojevic|RDC (1st floor)|11:00-12:00|
+|March 21st (Wed)		|Partnership with Karwa ([Abstract](../seminars/karwa.md/))|Rade Stanojevic|RDC (1st floor)|11:00-12:00|
 ||||||
-|March 7th (Wed)		|vSensor: Leveraging Fixed-Workload Snippets of Programs for Performance Variance Detection ([Abstract](/seminars/vSensor/))|Xiongchao Tang|RDC (1st floor)|11:00-12:00|
+|March 7th (Wed)		|vSensor: Leveraging Fixed-Workload Snippets of Programs for Performance Variance Detection ([Abstract](../seminars/vSensor/))|Xiongchao Tang|RDC (1st floor)|11:00-12:00|
 ||||||
 |Jan 24th (Wed)		|Spindle: Informed Memory Access Monitoring ([Abstract](/seminars/Spindle/))|Haojie Wang|RDC (1st floor)|11:00-12:00|
 ||||||
