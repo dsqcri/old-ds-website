@@ -18,3 +18,4 @@ permalink: /projects/
 ## Past Projects (since 2015)
 
 - [Crosscloud](/projects/crosscloud/)
+- [DeepSBD](/projects/deepsbd/)
