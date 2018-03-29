@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Partnership with Karwa
-permalink: /seminars/karwa/
+permalink: /seminars/Karwa/
 date: March 21, 2018
 ---
 
