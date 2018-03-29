@@ -5,34 +5,61 @@ permalink: /seminar/
 ---
 ## Seminars
 
+### 2018
+
+| Date				| Title 												| Speaker				| Location		| Time		|
+|:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
+||||||
+|March 21st (Wed)		|Partnership with Karwa ([Abstract](/seminars/karwa/))|Rade Stanojevic|RDC (1st floor)|11:00-12:00|
+||||||
+|March 7th (Wed)		|vSensor: Leveraging Fixed-Workload Snippets of Programs for Performance Variance Detection ([Abstract](/seminars/vSensor/))|Xiongchao Tang|RDC (1st floor)|11:00-12:00|
+||||||
+|Jan 24th (Wed)		|Spindle: Informed Memory Access Monitoring ([Abstract](/seminars/Spindle/))|Haojie Wang|RDC (1st floor)|11:00-12:00|
+||||||
+|Jan 17th (Wed)		|Logical Leases: Scalable Hardware and Software Systems through Time Traveling ([Abstract](/seminars/LogicalLeases/))|Xiangyao Yu|RDC (1st floor)|11:00-12:00|
+||||||
+|Jan 3rd (Wed)		|A Benchmark and a Data-Driven Solution for Facial Relighting ([Abstract](/seminars/FacialRelighting/))|Ahmed Hassanien|RDC (1st floor)|11:00-12:00|
+
 ### 2017
 
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
-|Sep 20th (Wed)		|Video Reflection Removal Through Spatio-Temporal Optimization([Abstract](/seminars/VideoReflectionRemoval/))|Ajay N. Nandoriya|RDC (1st floor)|11:00-12:00|
+|Nov 27th (Mon)		|Improving Mobile Application Performance : Challenges,  Solutions and Best Practices ([Abstract](/seminars/SubhabrataSen/))|Dr. Subhabrata (Shubho) Sen|RDC (1st floor)|11:00-12:00|
 ||||||
-|May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud([Abstract](/seminars/BigDataDaaS/))|[Fatos Xhafa](http://www.cs.upc.edu/~fatos/)|RDC (1st floor)|11:00-12:00|
+|Nov 22nd (Wed)		|Optimizing the memory utilization of Arabesque ([Abstract](/seminars/ArabesqueMemory/))|Eslam Hussein|RDC (1st floor)|11:00-12:00|
 ||||||
-|May 3rd (Wed)		|Crowdsourcing the Acquisition of Video Segmentations by Propagation, Evaluation and Merge([Abstract](/seminars/CrowdsourcingElgharib/))|Mohamed Elgharib|RDC (1st floor)|11:00-12:00|
+|Nov 8th (Wed)		|LiveGraph: Supporting Simultaneous Transaction and Analytics Processing of Graph Data ([Abstract](/seminars/LiveGraph/))|Marco Serafini|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 19th (Wed)		|Quantifying and Reducing Controversy in Social Media([Abstract](/seminars/Controversy/))|[Gianmarco De Francisci Morales](https://gdfm.me/)|RDC (1st floor)|11:00-12:00|
+|Nov 1st (Wed)		|Exploiting Geo-tagged Tweets to Understand Localized Language Diversity ([Abstract](/seminars/GeotaggedTweets/))|Thanaa Ghanem|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 12th (Wed)		|Kharita: Robust Map Inference using Graph Spanners([Abstract](/seminars/Kharita/))|[Rade Stanojevic](http://ds.qcri.org/people/rstanojevic)|RDC (1st floor)|11:00-12:00|
+|Oct 25th (Wed)		|Understanding Object-level Memory Access Patterns (and Are HPC Applications Different?) ([Abstract](/seminars/MemoryAccessPatterns/))|Xiaosong Ma|RDC (1st floor)|11:00-12:00|
 ||||||
-|Apr 5th (Wed)		|Cloudy with a chance of heavy Fog([Abstract](/seminars/FogComputing/))|[Yehia El Khatib](http://www.comp.lancs.ac.uk/~elkhatib/)|RDC (1st floor)|11:00-12:00|
+|Oct 4th (Wed)		|A High-level Glance At Cryptocurrencies as a Distributed Cash Exchange System ([Abstract](/seminars/Cryptocurrencies/))|Abdurrahman Ghanem|RDC (1st floor)|11:00-12:00|
 ||||||
-|Mar 22nd (Wed)		|GridGraph and Gemini: Scale-Up and Scale-Out Graph Processing([Abstract](/seminars/GridGraph_Gemini/))|Xiaowei Zhu|RDC (1st floor)|11:00-12:00|
+|Sep 27th (Wed)		|Video Reflection Removal Through Spatio-Temporal Optimization ([Abstract](/seminars/VideoReflectionRemoval/))|Ajay N. Nandoriya|RDC (1st floor)|11:00-12:00|
 ||||||
-|Mar 8th (Wed)		|1) Vision Perception Models and Their Applications to Image Processing and Computer Vision 2) An Accurate View Generation from a Single Image using Convolutional Neural Networks([Abstract](/seminars/SungHoBae/))|Sung-Ho Bae|RDC (1st floor)|11:00-12:00|
+|May 7th (Sun)		|Massive Processing and Mining of Big Data on DaaS-based Cloud ([Abstract](/seminars/BigDataDaaS/))|[Fatos Xhafa](http://www.cs.upc.edu/~fatos/)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Feb 22nd (Wed)		|Templating in Personal Information Management: A Graph-Based Object-Oriented Model([Abstract](/seminars/Templating/))|Meshaal Al-Saffar|RDC (1st floor)|11:00-12:00|
+|May 3rd (Wed)		|Crowdsourcing the Acquisition of Video Segmentations by Propagation, Evaluation and Merge ([Abstract](/seminars/CrowdsourcingElgharib/))|Mohamed Elgharib|RDC (1st floor)|11:00-12:00|
 ||||||
-|Feb 15th (Wed)		|Securing IoT Platforms: Systematic Analysis and Design([Abstract](/seminars/SecuringIoTPlatforms/))|Atul Prakash|RDC (1st floor)|11:00-12:00|
+|Apr 19th (Wed)		|Quantifying and Reducing Controversy in Social Media ([Abstract](/seminars/Controversy/))|[Gianmarco De Francisci Morales](https://gdfm.me/)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Feb 8th (Wed)		|A practical, lightweight, hybrid cache sharing/partitioning scheme for multicore systems([Abstract](/seminars/CashePartitioning/))|[Nosayba El-Sayed](http://www.cs.utoronto.ca/~nosayba/)|RDC (1st floor)|11:00-12:00|
+|Apr 12th (Wed)		|Kharita: Robust Map Inference using Graph Spanners ([Abstract](/seminars/Kharita/))|[Rade Stanojevic](http://ds.qcri.org/people/rstanojevic)|RDC (1st floor)|11:00-12:00|
 ||||||
-|Feb 1st (Wed)		|Arabesque In Action: Graph Mining Applications([Abstract](/seminars/ArabesqueInAction/))|Eslam Hussein|RDC (1st floor)|11:00-12:00|
+|Apr 5th (Wed)		|Cloudy with a chance of heavy Fog ([Abstract](/seminars/FogComputing/))|[Yehia El Khatib](http://www.comp.lancs.ac.uk/~elkhatib/)|RDC (1st floor)|11:00-12:00|
+||||||
+|Mar 22nd (Wed)		|GridGraph and Gemini: Scale-Up and Scale-Out Graph Processing ([Abstract](/seminars/GridGraph_Gemini/))|Xiaowei Zhu|RDC (1st floor)|11:00-12:00|
+||||||
+|Mar 8th (Wed)		|1) Vision Perception Models and Their Applications to Image Processing and Computer Vision 2) An Accurate View Generation from a Single Image using Convolutional Neural Networks ([Abstract](/seminars/SungHoBae/))|Sung-Ho Bae|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 22nd (Wed)		|Templating in Personal Information Management: A Graph-Based Object-Oriented Model ([Abstract](/seminars/Templating/))|Meshaal Al-Saffar|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 15th (Wed)		|Securing IoT Platforms: Systematic Analysis and Design ([Abstract](/seminars/SecuringIoTPlatforms/))|Atul Prakash|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 8th (Wed)		|A practical, lightweight, hybrid cache sharing/partitioning scheme for multicore systems ([Abstract](/seminars/CashePartitioning/))|[Nosayba El-Sayed](http://www.cs.utoronto.ca/~nosayba/)|RDC (1st floor)|11:00-12:00|
+||||||
+|Feb 1st (Wed)		|Arabesque In Action: Graph Mining Applications ([Abstract](/seminars/ArabesqueInAction/))|Eslam Hussein|RDC (1st floor)|11:00-12:00|
 
 -----------------------------------------
 
