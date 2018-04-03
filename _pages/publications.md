@@ -12,6 +12,18 @@ permalink: /publications/
 2018
 ([PDF](/publications/2018-elsayed-hpca.pdf))
 
+* Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
+[Quantifying Controversy on Social Media](/publications/2018-garimella-tsc.pdf),
+*ACM Transactions on Social Computing (TSC)*,
+2018
+([PDF](/publications/2018-garimella-tsc.pdf))
+
+* Alexandre Kaspar, Geneviève Patterson, Changil Kim, Yagiz Aksoy, Wojciech Matusik, and Mohamed Elgharib.
+[Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?](http://people.inf.ethz.ch/aksoyy/crowdroto/),
+*The ACM CHI Conference on Human Factors in Computing Systems (CHI)*,
+2018
+([PDF](/publications/2018-kaspar-chi.pdf))
+
 * Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
 [Robust Road Map Inference through Network Alignment of Trajectories](/publications/2018-stanojevic-sdm.pdf),
 *Proceedings of SIAM International Conference on Data Mining (SDM)*,
@@ -23,6 +35,18 @@ permalink: /publications/
 *International Conference on Location Based Services (LBS)*,
 2018
 ([PDF](/publications/2018-stanojevic-lbs.pdf))
+
+* Rebecca Taft, Nosayba El-Sayed, Marco Serafini, Yu Lu, Ashraf Aboulnaga, Michael Stonebraker, Ricardo Mayerhofer, Francisco Andrade.
+[P-Store: An Elastic Database System with Predictive Provisioning](/publications/2018-taft-sigmod.pdf),
+*ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2018)*,
+2018
+([PDF](/publications/2018-taft-sigmod.pdf))
+
+* Guangyan Zhang, Zican Huang, Xiaosong Ma, Songlin Yang, Zhufan Wang, and Weimin Zheng.
+[RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures](/publications/2018-zhang-fast.pdf),
+*The 16th USENIX Conference on File and Storage Technologies (FAST 2018)*,
+2018
+([PDF](/publications/2018-zhang-fast.pdf))
 
 ### 2017
 
