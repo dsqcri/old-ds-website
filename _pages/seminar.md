@@ -10,6 +10,20 @@ permalink: /seminar/
 | Date				| Title 												| Speaker				| Location		| Time		|
 |:------------------|:------------------------------------------------------|:----------------------|:--------------|:----------|
 ||||||
+|May 30th (Wed)		|Apache Spark: A unified analytics engine for large-scale data processing ([Abstract](../seminars/Spark.md/))|Eslam Hussein|RDC (1st floor)|11:00-12:00|
+||||||
+|May 23rd (Wed)		|RDF Knowledge bases: endeavors to enrich structured Arabic content ([Abstract](../seminars/RDFKnowledgebases.md/))|Abdurrahman Ghanem|RDC (1st floor)|11:00-12:00|
+||||||
+|May 16th (Wed)		|Learning-based Video Motion Magnification ([Abstract](../seminars/MotionMagnification.md/))|Mohamed Elgharib|RDC (1st floor)|11:00-12:00|
+||||||
+|May 9th (Wed)		|LiveGraph: A Hybrid Transactional/Analytical Processing System for Graph-Structured Data ([Abstract](../seminars/LiveGraph2.md/))|Marco Serafini|RDC (1st floor)|11:00-12:00|
+||||||
+|May 2nd (Wed)		|Understanding and Predicting Performance of Cloud-based Data Warehouses ([Abstract](../seminars/CloudDataWarehouses.md/))|Thanaa Ghanem|RDC (1st floor)|11:00-12:00|
+||||||
+|April 11th (Wed)		|The Effect of Collective Attention on Controversial Debates on Social media ([Abstract](../seminars/CollectiveAttention.md/))|Gianmarco De Francisci Morales|RDC (1st floor)|11:00-12:00|
+||||||
+|April 4th (Wed)		|Semantic Understanding for Intelligent Computational Photography ([Abstract](../seminars/SemanticUnderstanding.md/))|Tae-Hyun|RDC (1st floor)|11:00-12:00|
+||||||
 |March 21st (Wed)		|Partnership with Karwa ([Abstract](../seminars/Karwa.md/))|Rade Stanojevic|RDC (1st floor)|11:00-12:00|
 ||||||
 |March 7th (Wed)		|vSensor: Leveraging Fixed-Workload Snippets of Programs for Performance Variance Detection ([Abstract](../seminars/vSensor.md/))|Xiongchao Tang|RDC (1st floor)|11:00-12:00|
