@@ -12,35 +12,30 @@ permalink: /people/
 
 - [Rade Stanojevic](/people/rstanojevic), Senior Scientist
 
-- [Gianmarco De Francisci Morales](https://gdfm.me/), Scientist
-
-- Nosayba El-Sayed, Scientist
-
-- Mohamed Elgharib, Scientist
-
-- [Marco Serafini](/people/mserafini), Scientist
-
 - Lolwa Al Maadid, Software Engineer
 
 - [Abdurrahman Ghanem](/people/abghanem), Software Engineer
 
-- Thanaa Ghanem, Visiting Scientist
-
-- Tae-Hyun Oh, Postdoctoral Researcher (joint postdoc with MIT-CSAIL)
-
 - Meshaal Al Saffar, Research Associate -- on study leave 
-
-- [Ahmed Hassanien](/people/ahassanien), Research Associate
-
-- Eslam Hussein, Research Associate
 
 - Xiongchao Tang, Research Associate
 
 - Haojie Wang, Research Associate
 
+- Aisha Mohamed, Research Assistant
+
+- Ghadeer AbuOda, PhD Student, College of Science and Engineering, HBKU
+
 
 ## Alumni
-
+- Marco Serafini, Senior Scientist &rarr; Assistant Professor, University of Massachusetts Amherst
+- Tae-Hyun Oh, QCRI-CSAIL Post Doc &rarr; Post Doc, MIT CSAIL
+- Gianmarco De Francisci Morales &rarr; Research Leader, ISI Foundation, Turin
+- Nosayba El-Sayed, Scientist &rarr; Lecturer, Emory University
+- Mohamed Elgharib, Scientist &rarr; Researcher, Max Planck Institute, Saarbruecken
+- Thanaa Ghanem, Visiting Scientist &rarr; Assistant Professor, Metropolitan State University, Minneapolis
+- Eslam Hussein, Research Associate &rarr; PhD Student, Virginia Tech
+- Ahmed Hassanien, Research Associate &rarr; Element AI, Montreal
 - Georgos Siganos, Senior Scientist
 - Ajay Nandoriya, Research Associate &rarr; Kyoto Robotics, Kyoto
 - Laszlo Gyarmati, Senior Software Engineer
