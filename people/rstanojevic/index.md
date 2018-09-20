@@ -20,6 +20,8 @@ Rade Stanojevic is a Senior Scientist at Qatar Computing Research Institute (QCR
 
 ### Recent Publications
 
+- R. Stanojevic, S. Abbar, M. Mokbel. “W-edge: Weighing the Edges of the Road Network”. In Proceedings of ACM SIGSPATIAL 2018. 
+- R. Stanojevic, S. Abbar, S. Thirumuruganathan, S. Chawla, F. Filali, A. Aleimat. “Robust Road Map Inference through Network Alignment of Trajectories”. In Proceedings of SIAM SDM 2018.
 - R. Stanojevic, S. Abbar, S. Thirumuruganathan, G. De Francisci Morales, S. Chawla, F. Filali, A. Aleimat. “Road Network Fusion for Incremental Map Updates”. In Proceedings of LBS 2018 (to appear). [PDF.](http://ds.qcri.org/publications/2018-stanojevic-lbs.pdf)
 - R. Stanojevic. “How safe is your (taxi) driver?”.  In Proceedings of ACM CIKM 2017. [PDF.](http://ds.qcri.org/publications/2017-stanojevic-cikm.pdf)
 - R. Stanojevic, Mohamed Nabeel, Ting Yu. “Distributed Cardinality Estimation of Set Operations with Differential Privacy”.  In Proceedings of IEEE PAC 2017. [PDF.](http://ds.qcri.org/publications/2017-stanojevic-pac.pdf) 
