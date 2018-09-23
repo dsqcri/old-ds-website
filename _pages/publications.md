@@ -6,11 +6,23 @@ permalink: /publications/
 
 ### 2018
 
+* Y. Aksoy, C. Kim, P. Kellnhofer, S. Paris, M. Elgharib, M. Pollefeys, and W. Matusik.
+[A Dataset of Flash and Ambient Illumination Pairs from the Crowd.](/publications/2018-aksoy-eccv.pdf),
+*European Conference on Computer Vision (ECCV)*,
+2018
+([PDF](/publications/2018-aksoy-eccv.pdf))
+
 * Nosayba El-Sayed, Anurag Mukkara, Po-An Tsai, Harshad Kasture, Xiaosong Ma, and Daniel Sanchez.
 [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](/publications/2018-elsayed-hpca.pdf),
 *International Symposium on High Performance Computer Architecture (HPCA)*,
 2018
 ([PDF](/publications/2018-elsayed-hpca.pdf))
+
+* K. Garimella, G. De Francisci Morales, A. Gionis, M. Mathioudakis.
+[Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](/publications/2018-garimella-www.pdf),
+*The Web Conference (WWW'18)*,
+2018
+([PDF](/publications/2018-garimella-www.pdf))
 
 * Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis.
 [Quantifying Controversy on Social Media](/publications/2018-garimella-tsc.pdf),
@@ -23,6 +35,12 @@ permalink: /publications/
 *The ACM CHI Conference on Human Factors in Computing Systems (CHI)*,
 2018
 ([PDF](/publications/2018-kaspar-chi.pdf))
+
+* T. H. Oh, R. Jaroensri, C. Kim, M. Elgharib, F. Durand, W. T. Freeman, and W. Matusik.
+[Learning-based Video Motion Magnification.](/publications/2018-oh-eccv.pdf),
+*European Conference on Computer Vision (ECCV)*,
+2018
+([PDF](/publications/2018-oh-eccv.pdf))
 
 * Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, and Ahid Aleimat. 
 [Robust Road Map Inference through Network Alignment of Trajectories](/publications/2018-stanojevic-sdm.pdf),
@@ -42,6 +60,12 @@ permalink: /publications/
 2018
 ([PDF](/publications/2018-taft-sigmod.pdf))
 
+* Haojie Wang, Jidong Zhai, Xiongchao Tang, Bowen Yu, Xiaosong Ma, Wenguang Chen.
+[Spindle: Informed Memory Access Monitoring](https://www.usenix.org/system/files/conference/atc18/atc18-wang-haojie.pdf),
+*USENIX Annual Technical Conference (USENIX ATC)*,
+2018
+([PDF](/publications/2018-wang-usenixatc.pdf))
+
 * Guangyan Zhang, Zican Huang, Xiaosong Ma, Songlin Yang, Zhufan Wang, and Weimin Zheng.
 [RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures](/publications/2018-zhang-fast.pdf),
 *The 16th USENIX Conference on File and Storage Technologies (FAST 2018)*,
@@ -49,6 +73,12 @@ permalink: /publications/
 ([PDF](/publications/2018-zhang-fast.pdf))
 
 ### 2017
+
+* Ibrahim Abdelaziz, Essam Mansour, Mourad Ouzzani, Ashraf Aboulnaga, and Panos Kalnis.
+[Lusail: A System for Querying Linked Data at Scale](https://doi.org/10.1145/3183713.3190650),
+*Proceedings of the VLDB Endowment (PVLDB)*,
+2017
+([PDF](/publications/2017-abdelaziz-vldb.pdf))
 
 * Zachary S. Bischof, Fabian E. Bustamante, and Rade Stanojevic.
 [The Utility Argument - Making a Case for Broadband SLAs](https://doi.org/10.1007/978-3-319-54328-4_12),
