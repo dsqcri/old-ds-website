@@ -40,7 +40,6 @@ permalink: /publications/
 [On Learning Associations of Faces and Voices](https://arxiv.org/abs/1805.05553),
 *Asian Conference on Computer Vision (ACCV)*,
 2018
-([PDF](/publications/2018-kim-accv.pdf))
 
 * T. H. Oh, R. Jaroensri, C. Kim, M. Elgharib, F. Durand, W. T. Freeman, and W. Matusik.
 [Learning-based Video Motion Magnification.](/publications/2018-oh-eccv.pdf),
